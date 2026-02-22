@@ -482,6 +482,11 @@ section {
   text-overflow: ellipsis;
   text-align: center;
 }
+.book-samples-wrapper .books-content .card .card-body {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
 .book-samples-wrapper .books-content .card .card-text {
   font-size: 16px;
   line-height: 1.2;
@@ -489,6 +494,7 @@ section {
 }
 .book-samples-wrapper .books-content .card a {
   margin: 0 auto;
+  margin-top: auto;
   text-transform: capitalize;
 }
 

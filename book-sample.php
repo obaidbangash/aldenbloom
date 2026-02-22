@@ -28,7 +28,6 @@
               <img src="./images/character_3.jpeg" class="card-img-top" alt="Lil’ Shmoogy">
               <div class="card-body">
                 <h5 class="card-title">Lil’ Shmoogy</h5>
-                <p class="card-text">The Legend of Balinese DonMu</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_one">Read Sample</a>
               </div>
             </div>
@@ -38,7 +37,6 @@
               <img src="./images/character_1_new.png" class="card-img-top" alt="Wise Elder">
               <div class="card-body">
                 <h5 class="card-title">Mama’san</h5>
-                <p class="card-text">The Legend of Balinese DonMu</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_three">Read Sample</a>
               </div>
             </div>
@@ -48,7 +46,6 @@
               <img src="./images/character_2.png" class="card-img-top" alt="Wise Elder">
               <div class="card-body">
                 <h5 class="card-title">Trip K’s</h5>
-                <p class="card-text">The Legend of Balinese DonMu</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_five">Read Sample</a>
               </div>
             </div>
@@ -59,7 +56,6 @@
                 alt="Wise Elder">
               <div class="card-body">
                 <h5 class="card-title">Mama’san Arrives</h5>
-                <p class="card-text">The Legend of Balinese DonMu</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_four">Read Sample</a>
               </div>
             </div>
@@ -69,7 +65,6 @@
               <img src="./images/character_4.png" class="card-img-top" alt="Wise Elder">
               <div class="card-body">
                 <h5 class="card-title">DD Smooove</h5>
-                <p class="card-text">The Legend of Balinese DonMu</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_six">Read Sample</a>
               </div>
             </div>
@@ -84,7 +79,6 @@
                 alt="Wise Elder">
               <div class="card-body">
                 <h5 class="card-title">LC Thailand Story</h5>
-                <p class="card-text">The Legend of Balinese DonMu</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_two">Read Sample</a>
               </div>
             </div>
@@ -94,7 +88,6 @@
               <img src="./images/character_10.jpg" style="width: 200px" class="card-img-top" alt="Wise Elder">
               <div class="card-body">
                 <h5 class="card-title">Dirty Little Monkeys</h5>
-                <p class="card-text">The Legend of Balinese DonMu</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_seven">Read Sample</a>
               </div>
             </div>
@@ -104,7 +97,6 @@
               <img src="./images/character_4.png" class="card-img-top" alt="Wise Elder">
               <div class="card-body">
                 <h5 class="card-title">DD Smooove & Elon Musk Scene</h5>
-                <p class="card-text">The Legend of Balinese DonMu</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_eight">Read Sample</a>
               </div>
             </div>
@@ -114,7 +106,6 @@
               <img src="./images/character_9.jpg" style="width: 200px" class="card-img-top" alt="Wise Elder">
               <div class="card-body">
                 <h5 class="card-title">DD Smooove & the Klan Guys</h5>
-                <p class="card-text">The Legend of Balinese DonMu</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_nine">Read Sample</a>
               </div>
             </div>
@@ -126,6 +117,60 @@
                 <h5 class="card-title">Lil’ Shmoogy & Trip K’s</h5>
                 <p class="card-text">(Best Friends)</p>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_ten">Read Sample</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100">
+              <img src="./images/character_13.jpeg" class="card-img-top" alt="Agus">
+              <div class="card-body">
+                <h5 class="card-title">Agus – Big Dick Playa</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_eleven">Read Sample</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100">
+              <img src="./images/icon-1.jpeg" class="card-img-top" alt="Hippies">
+              <div class="card-body">
+                <h5 class="card-title">4 Different Types of Hippies</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_twelve">Read Sample</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100">
+              <img src="./images/character_5.jpeg" class="card-img-top" alt="Karen McCarron">
+              <div class="card-body">
+                <h5 class="card-title">Karen McCarron – Life Coach</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_thirteen">Read Sample</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100">
+              <img src="./images/character_6.jpeg" class="card-img-top" alt="Mekong">
+              <div class="card-body">
+                <h5 class="card-title">Mekong & the Commies</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_fourteen">Read Sample</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100">
+              <img src="./images/character_8.png" class="card-img-top" alt="The Big Four">
+              <div class="card-body">
+                <h5 class="card-title">The Big Four</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_fifteen">Read Sample</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100">
+              <img src="./images/character_7.png" class="card-img-top" alt="Wing-Wang">
+              <div class="card-body">
+                <h5 class="card-title">Wing-Wang – Getting Handjobs</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_sixteen">Read Sample</a>
               </div>
             </div>
           </div>
@@ -2701,6 +2746,1400 @@
     </div>
   </div>
 
+
+  <!-- pdf 11 - Agus Big Dick Playa -->
+  <div class="modal fade pdf-modal" id="PDF_eleven" tabindex="-1" aria-labelledby="PDF_eleven_label" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+      <div class="modal-content a4-modal-content">
+        <div class="modal-body a4-page">
+          <div class="image-title">
+            <h2 class="pdf-title">Agus – Big Dick Playa</h2>
+            <img src="./images/character_13.jpeg" alt="icon">
+          </div>
+          <h6>The Legend of Balinese DonMu – Book One (Part II of III) – Chapter 16</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            I turned back over to Olof, Wing and Lakeisha who were still sitting down at their end of the
+            table. Talking away with each other. Eating their breakfasts. Enjoying themselves and getting
+            really excited about everything we had going on around here. Then I turned back to the other end
+            of the table and noticed little Agus <em>(Ah-goose)</em> sitting down there. All by himself. Tilted back in
+            his chair. Feet up on another chair. Fresh Jamu juice in his hand. Seemingly very content and
+            relaxed just sitting there by himself and enjoying the beautiful view.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            And I knew Agus had worked at the hotel for a very long time. And guessed he probably
+            never really got a chance to sit out here where all the other rich bule <em>(boolay)</em> guests would sit
+            and watch the workers toiling away in the fields down below … <em>considering he was probably the
+            one who had to bring them out their cocktails</em> … and I wanted him to be able to enjoy this
+            moment. And take it all in. But I also wanted to sit down there with him and enjoy it with him
+            too.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            So I was torn.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Then remembered we had our little pact together. As it was me and him against the world.
+            And we were in the same sinking ship together. And decided … <em>ahhh, what the heck</em> … and went
+            over there and sat down next to him. Seeing how pleased and happy he looked. Just sitting there.
+            So tranquil and Zen'd out. Staring out onto the rice fields and sipping on his little Jamu juice
+            cocktail. Taking a moment for himself. For quiet reflection. Which I thought was really nice. So
+            I looked at him and gave him a big old smile and told him he looked just like one of those rich
+            white bule who sit out here drinking their cocktails and enjoying the beautiful view.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh yes, Mr. Jeff. Feel like rich white bule right now."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "And you have waited on them and bowed down to them for a very long time, haven't you
+            Agus?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh yes, Mr. Jeff. For very long time."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "And you never really get a chance to sit out here like they do and enjoy this beautiful view?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh no, Mr. Jeff. Never."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "But you like sitting out here, don't you Agus?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh yes, Mr. Jeff, like very much."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "You like feeling like a rich white bule?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ohhhh yes, Mr. Jeff. It feel good to be rich white bule."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Well guess what Agus? Soon there will be fields full of rich white bule out there picking
+            your rice. Working in your industries. While you will be sitting up here drinking your Jamu juice
+            cocktail and getting paid Good Luck money."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oohhhh yes, Mr. Jeff. That will be very nice."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "And just like rich white bule have done around the world for hundreds of years, the system
+            here will be rigged and unfair and discriminatory. Only the rich bule won't know it. But it's
+            possible over time they will figure it out and get upset and try to take it from you."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ohhh no, Mr. Jeff. We cannot let them take it from us."</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "No Agus, because you and the other locals have worked very hard to set this system up and
+            put in a lot of time and effort into it. And even though the rich bule may think it is unfair and
+            discriminatory, you have still given them many good things."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh yes Mr. Jeff. We give them many good things."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "And then they might try and take it for themselves."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oooohh … they will take it for themselves."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "And you do not want that do you Agus?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Noooo Mr. Jeff. Do not want that."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Because you like being on top, don't you Agus?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yes, Mr. Jeff. Feel good to be on top."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Like a colonialist."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oooohh … a colonialist."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "A big dog colonialist."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yesssss … a big dog colonialist."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "And don't forget about the women Agus."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ohhhhhhh … women."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "White bule women."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oooooooh white bule women."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Bowing down to you."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Aaaawww bowing down to me."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Because you have money."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oooohhh … money."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "And power."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ahhhhhhh … power."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "And think you're a big dick playa."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oooooohhh … to be a big dick playa."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            All of a sudden, I had a strange feeling and turned around and saw Lakeisha just standing
+            there behind us. Looking down at us and shaking her head like … <em>un-frickin-believable</em> … So I
+            just smiled back at her, giggled, turned over to poor little Agus – knowing the dream was now
+            over for him – and said … "Well Agus … the rich bule have important matters to discuss …
+            soooooo … off ya' go."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            And with that, he snapped back out of his trance, hopped up to his feet, bowed, apologized for
+            his impudence, and hurried back over to his duties behind the main reception desk.</p>
+        </div>
+        <div class="modal-footer justify-content-center">
+          <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- pdf 12 - 4 Different Types of Hippies -->
+  <div class="modal fade pdf-modal" id="PDF_twelve" tabindex="-1" aria-labelledby="PDF_twelve_label" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+      <div class="modal-content a4-modal-content">
+        <div class="modal-body a4-page">
+          <div class="image-title">
+            <h2 class="pdf-title">4 Different Types of Hippies</h2>
+            <img src="./images/icon-1.jpeg" alt="icon">
+          </div>
+          <h6>The Legend of Balinese DonMu – Book One (Part I of III) – Chapter 11</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            In the upper-left part of the main Ubud rectangle – if you go directly west for another
+            kilometer or so – you'll get to another part of Ubud where the local/permanent ex-pat hippies all
+            live and hang out. This is like their Mecca. Their home. Not for the tourist hippies but more for
+            the long-term ex-pat hippies who've been living up there for God-only-knows how long and can
+            drop like 10 hits of acid and talk to lizards, telepathically. They are hardcore. And pretty badass.
+            You don't want to mess with them. They know stuff. Like Third-Eye ayahuasca stuff.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Other types of hippies will venture up there too. But they're not nearly as hardcore or badass
+            as the long-term/ex-pat hippies are. They're more the tourist hippies. Or transitioning hippies.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Ubud attracts about four different types of hippies. 1.) The hardcore badass ones I just
+            mentioned. 2.) The tourist hippies who only go up there on weekends or vacation. 3.) The older
+            hippies who live up there full-time and are left-over from the 60's, 70's & 80's but never really
+            became hardcore or badass. And 4.) The younger hippies who are just now starting out – and
+            might either end up becoming hardcore and badass – or just drift into becoming old and non-badass.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            The older, non-badass hippies are still pretty awesome though. And are really nice and
+            friendly. Most of the older hippie guys are now bald but still have long hair in ponytails and like
+            to sit around in circles – sometimes drum circles – listening to PBS/NPR radio, eating trail mix,
+            and talking about the good old days and how they used to do things. But don't really have that
+            much energy in 'em anymore, and seem to be at peace with that.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            The older hippy women though, are quite the opposite – and are <em>really</em> awesome – because
+            they still have that energy in 'em. A strong sexual energy. And love nothing more than dressing
+            up in loose billowy clothing, spraying on some patchouli oil and trying to get young hippie guys
+            to bang 'em. Cause if they can get a young hippie guy to come over, smoke some weed and talk
+            about chakras/sexual healing and stuff, they can usually get 'em to bang. And it's a smart move
+            too cause young hippie guys will pretty much bang anything if they can get free rent or weed out
+            of it. They don't really care.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            The younger hippie girls though, are quite a bit different. And usually won't bang the younger
+            hippie guys. Mostly because A.) They know they're already banging the older hippie women,
+            and B.) They're trying to bang the more hardcore/badass hippie guys – the ones who know the
+            Third-Eye ayahuasca stuff – and can teach them things. Spiritually enlightened things. Which
+            pretty much leaves the older hippie guys out in the cold. Cause no one wants to bang 'em
+            anymore. So they're pretty much resigned to a life of PBS/NPR radio, trail mix, and a communal
+            sexless existence. You know circle of life kind of stuff.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Hippies love banging. Maybe cause it's free. Who knows? If I said that about a Jewish guy
+            people would get all pissed. But hippies don't really care. Plus, it's one of the more popular
+            things to do in the world and keeps it going. I mean besides food, water, and shelter, what's the
+            thing people want the most next? Sex? Love? Family? Friends? Three outta four of those involve
+            banging. And hippies understand this. Just saying.</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Occasionally you'll even find some hippies who are oddly angry. Which seems rather out of
+            character for them, but it's true. And some of these angry hippies are always talking about
+            mainstream people and how we're all the same.</p>
+          <div class="italic">
+            <p><span style="margin-left: 18px;display: inline-block;"></span>
+              "You're all corporate drones, man. Living in your plastic world driving your metal coffins to
+              your corporate mortuaries, man. All dressing the same, man."</p>
+          </div>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            But make no mistake about it, there's definitely a kind of hippie dress code too. With lots of
+            man-buns, long hair, beards, earth-tone Hemp clothing, homemade jewelry, crystals, beads, and
+            very specific tattoos and piercings. So let's not kid anyone.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            And I'm guilty too. I wear the same kind of uniform every day as well. A gray t-shirt, tan
+            cargo shorts, and flip flops. And really like it too. Growing up I used to wish we all had to wear
+            school uniforms cause I hated having to pick out clothes every morning and just wanted to blend
+            in with everyone else and not get beat up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            At the very center of this hardcore/ex-pat hippie area is probably the most famous hippie
+            hangout of all. A vegan restaurant called Zest. Which is like the consummate hangout/restaurant
+            for all the hippies in Ubud. Even the tourist hippies know about it and go there too. Possibly to
+            the dismay of the hardcore hippies, who knows?</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            It sits perched atop a hillside and is nestled inside a grove of Banyan and Acacia trees and is
+            buttressed by a yoga studio on one side and a Balinese temple on the other. So very conducive to
+            the holistic nature of the place. And is rather impressive-looking too. No joke. With one tree
+            cleverly-positioned right in the middle – and built around – as kind of their holy tree. Or hippie
+            shrine to the Oneness of the place.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            There's also a lot of tapestries on the walls, murals, eclectic paintings, mysterious drawings,
+            and hippie flyers posted all around for anything from healing centers, to wellness retreats, to
+            spiritual gurus, to meditation guides, and other niche hippie markets as well. Along with plenty
+            of soft billowy-seating for long and comfortable stays. They really do encourage you to stay
+            there and hang out for a while. And the food of course is all vegan.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Wing felt tricked by me when he first saw the menu.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Tofu?!" He groaned. "Uggghhhhhh ..."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            I just smiled.</p>
+        </div>
+        <div class="modal-footer justify-content-center">
+          <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- pdf 13 - Karen McCarron Life Coach -->
+<!-- Modal -->
+<div class="modal fade pdf-modal" id="PDF_thirteen" tabindex="-1" aria-labelledby="PDF_thirteen_label" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-xl">
+    <div class="modal-content a4-modal-content">
+      <!-- Page 1 -->
+      <div class="modal-body a4-page">
+        <div class="image-title">
+          <h2 class="pdf-title">Karen McCarron – Life Coach</h2>
+          <img src="./images/character_5.jpeg" alt="icon">
+        </div>
+        <h6>The Legend of Balinese DonMu – Book One (Part II of III) – Chapter 18</h6>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "But anyway ..." I said turning back to Lakeisha and fixing my eyes on hers. "That Karen McCarron girl I was just talking about?"<br>
+          <span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah."<br>
+          <span style="margin-left: 18px;display: inline-block;"></span>
+          "Well ... she's a Life Coach."<br>
+          <span style="margin-left: 18px;display: inline-block;"></span>
+          She started cracking up.<br>
+          <span style="margin-left: 18px;display: inline-block;"></span>
+          "Are you serious?! Isn't she like 25?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah. 25 or 26."<br>
+          <span style="margin-left: 18px;display: inline-block;"></span>
+          "Jesus, that's crazy. How much does she charge an hour?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "$250"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "$250 an hour?!" Now fully busting up. "For a 25yr old Life Coach?! Damn."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "She like Life Coach lawyer." Wing cackled.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, I know. It's crazy. But it might kinda make sense too since anyone who's gonna hire her for a Life Coach is probably going to pay her whatever she wants, I mean it's not like someone's gonna be deciding between a bunch of 25yr Life Coaches and then pick the one who's fee's the most reasonable. They probably only picked her cause she's hot."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Or they want to bang her." Wing added.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Hmmmm ... yeah or that too." I conceded. "But anyway ... Wing's already set up a fake 'Catfish' Instagram account for me with a bunch of fake followers, or Bots, or whatever they are. So it looks real. And where I'm a dorky 17yr high school senior who's about to go off to college and is confused about what he wants to do with his life and needs her Life Coach advice."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok." She said.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "And just like we talked about earlier – about narcissists and trying to change them and get them to see the other side of things – I kinda wanna do the same thing with her. And test out her thinking and mindset from the beginning of this thing and follow it through to the end. To see if she changes, or grows, or learns anything. Like the narcissist who's always right and never wrong. Maybe I can get proof of something she did that was wrong and show it to her later to see if she'll admit it or not?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Alright."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Then tilted my head to the side. "... Because ..." Thinking about this some more. "I also noticed she has a bunch of hashtags and other stuff on her social media accounts indicating how Woke she was and a part of all these great social movements, like #MeToo, BLM. LGBTQ, etc. And quite frankly I'm not even sure if she actually knows what they mean ... believes in them ... or if she's just full of shit."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Lakeisha chuckled.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "So, anyway." I said turning back to Wing who was now poking through some leftover pork sausages with his fork. "Wing?" I said eyeing him more closely. "Since I don't want to pay $250/hr., is there any way you can doctor up some fake Venmo or PayPal receipts, that look real, so I could send those to her in lieu of real payment?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          He didn't even hesitate.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oh yeah, no problem. I already hack her phone."</p>
+      </div>
+      <!-- Page 2 -->
+      <div class="modal-body a4-page">
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Huh?</em> "Really?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, hers and others' too."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Wow ... how'd you do that?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "I put spyware on link to website and credit card system, so I got all their phones now. That easy."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Cool." I said impressed.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "They never click on obvious spam, but something they want, they definitely click on."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Awesome. So does that mean we can do anything we want to them?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Well ... not anything. But can definitely send fake Venmo or PayPal receipts that she think are real. But can't hack her bank account or anything. So hopefully she don't dig around too much cause then she find out there no Venmo money in there." Chuckling.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Nice." I said rather impressed with Wing's hacking abilities. "And that's perfect too, cause I've already been texting with her and told her I might want to do the first one today. So ..." I looked at him more closely. "Do you think can you set this up for me ... like now?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Now?!" He jerked his head up.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yes ..." I smiled. "Pretty please?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ugghhh ..." He moaned and put down his fork and grabbed his laptop. "Ok. Let me find Venmo template or something." Grumbling some more as I turned back over to Olof and Lakeisha while also nodding my head up and down like ... <em>Wow, he's pretty good</em> ... I mean I knew Made and the beach ladies had all said he was a really good computer hacker but I was still a little bit unsure after seeing his ... eating habits, mannerisms, style of dress, personal hygiene, never-ending massages ... plus I did have to wonder how someone could be so good at computer hacking yet so simple and child-like in so many of life's other endeavors. And guessed I had to chalk it up it to one of life's little mysteries.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          He then poked his head up.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok, got it."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Damn, that was fast.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok, great." I said staring at him. "Let me text her and see if she's free now."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I then grabbed my phone and started searching through it for Karen's number, found it, typed the message in it, hit 'Send' and looked back over at the group.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok, let's see what she says ..."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Wing then peered back over at me. "Well, I don't wanna wait here all ..."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          PING!</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oooohh!" He got excited. "That her?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I looked at my phone.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, it's her." I said eyes getting wide.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What she say?" He grinned.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I started reading the message.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Busy now ... but maybe later today ... or tomorrow ..." I frowned. "Awww, crap."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          He then appeared to be pondering something else. "Tell her you pay her double if she do it right now." Starting to giggle. "I mean it free right?" While the three of us giggled too.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok, good thinking." I smiled back at him. Then typed that into my phone, hit 'Send' and looked back at the group. When ...</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          PING!</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          He started snickering again. "Damn, she really want that $500 bucks."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I started snickering too. Then looked back at my phone and started reading the text.</p>
+      </div>
+      <!-- Page 3 -->
+      <div class="modal-body a4-page">
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "She says she will do it ... and is gonna call me right ..."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          RING!</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "... now."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          More laughter from the group.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok. Shhhhhh ... Quiet you guys." I said with my finger to my lips. "And don't make me laugh or anything. Or make any funny faces. I don't want to blow this thing, ok?" Now starting to put the phone to my mouth. "And just a head's up, I told her my name's Timmy so I'm gonna change my voice to sound like a depressed and confused 17yr old high school kid who's trying to figure out what he wants to do with his life and needs her Life Coach advice. So don't laugh at my pathetic attempt at this voice, ok? Don't blow it for me, ok?" Looking directly at Wing who was still giggling.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I gave them all one last ... <em>don't make me laugh look</em> ... took a deep breath and clicked the 'Accept' button on my phone.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Hiiiiii Karennnn." I said all nasally and whiny.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          She didn't say anything back right away. Probably still trying to figure out this puzzling first impression of Timmy. Then finally spoke up.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah. Hi Timmy."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "How are yoouuuu?" I said even more whiney.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Uhhhh ... I'm fine." Then got right down to business. "Look, I don't have a lot of time right now ... I had to clear a bunch of things off my schedule to fit you in. Which is fine. You said you'd pay double. So I'm ok with that. But first things first. Do you have Venmo or PayPal?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ummmm ... I have Venmo?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok cool. Just send that over right now so we can get that part of it out of the way."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I looked over at Wing. Who grinned. Turned his laptop around. Showed us the fake Venmo receipt for $500 bucks on it. Giggled. And hit 'Send'.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          We then waited a couple of seconds and heard the 'Ping' on her end of the phone.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok. Got it ... so ... what do you want to do with your life?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Great first question from a Life Coach.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Well ... I definitely want to be Woke."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah ok. That's good. I mean being Woke is pretty much the wave of the future. So that's a good start."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "And actually, believe it or not, I'm thinking of becoming a Life Coach like you. Cause I think I'd be really good at it. So what do you think about that?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          We could almost hear her chuckling under her breath.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Well ... I'll just tell you right now that becoming a successful Life Coach is a lot harder than you think. I mean you have to be really smart. And incredibly knowledgeable. On a lot of different subjects. And intuitive too. About people. You really have to be a people person. And know what makes them tick. If you want to become a successful Life Coach."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Hmmmm ..." I wondered. "How'd you get to become one?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Well ... I read a lot. A lot of books. And social media posts. Plus I'm really smart. I got like straight A's in school so never really had to study all that much. Or really read. Plus I have an old soul. My own personal guru and Life Coach told me I was Buddhist monk in my past life so that's like still inside me. Like ingrained in my soul."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I had to stare at the floor cause I knew if I made eye contact with the others I'd just lose it.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "So Timmy. You're like in High School, right? A Senior? I saw your Insta page and you definitely need some help with that. But first things first, where you going to college?"</p>
+      </div>
+      <!-- Page 4 -->
+      <div class="modal-body a4-page">
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Well ..." I thought about that. "That's the thing ... I'm still trying to figure that out." Trying to sound as indecisive as possible. "Like I said, I'm thinking of becoming a full-time Life Coach, so if I do that, I won't really have time to go to college."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, I don't know if that's such a good idea." She said.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "However, if I do go to college then I'll probably have to give up on my dreams of becoming a full-time Life Coach." Then paused. "But ... if I drop out of high school and don't go to college and follow my dreams of becoming a Life Coach then I'll probably have to hire you full-time to help me out with it."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          We could almost see the dollar signs light up in her eyes.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Well, they do always say that 'Fortune favors the Brave'." She quickly replied. "And some of the most successful people in human history have all dropped out of high school or didn't go to college. I mean, just look at Bill Gates, Elon Musk, or Paris Hilton." Olof spit out his sausage. <em>While I remembered that Bill and Elon just didn't finish college.</em> "They also say that in order to achieve greatness you have to risk everything. And I really believe that to be true."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah ... I think you're right. Go big or go home, right?!" I said trying to sound like some kind of newly-inspired sloth.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Absolutely! Shoot for the moon and you'll land among the stars!" <em>Probably unsure of how the quote really goes.</em> "We only regret the chances we don't take. The real risk is in doing nothing. If you want to achieve greatness stop asking for permission. We only miss the opportunities we don't take." She was now just rattling off whatever was on the quote-of-the-day calendar in front of her.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yes!" I rejoiced like a dying frog finally catching a fly. "I love how inspiring you are. It really makes me want to drop everything and follow my dreams!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Can I ask you something else Timmy?" Now taking the air out of me. "That might be a bit personal ... and please don't get offended by this or anything because that's not my intention. I'm just going off what I saw on your Insta page."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Huh ...? Yeah, sure ... I guess so." I paused and gave off two little wheezing coughs for effect.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Are you gay?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What?!! ... Noooooo ..." I protested very weakly. "Why would you say that?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "I mean don't get offended or anything. I'm totally Woke, so you know you're safe with me. I was just guessing that based on what I saw on your Insta page and our very brief conversation here."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "I have a girlfriend." I half-insisted.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Seriously?!" She sounded rather surprised. Probably because of the hideous pictures Wing put on there of me. I mean of Timmy.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yes. And we are in love." I said glowingly. Then changed back to all sad and pathetic. "But right now she's going off with a bunch of other guys to a BLM rally and I wasn't invited." Now moaning.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Are you frickin' serious?!" She said sounding like she knew exactly what was going on and probably did that herself to a bunch of guys. "Your girlfriend went off to a BLM rally with a bunch of other guys and didn't invite you?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeeeaahh ..." I moaned.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Can I ask you something else?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Suuuurrreeee." I answered.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Are they black guys?"</p>
+      </div>
+      <!-- Page 5 -->
+      <div class="modal-body a4-page">
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I paused a second. Then replied. "Yeeaaahhhhh ... why?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Jesus Frickin' Christ Timmy." Now sounding like she was fully-laughing at me. "Cause if a girl goes off with a bunch of ..."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Mr. Jeff!! Mr. Jeff!!" Agus all of a sudden came running outside yelling like a maniac.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>What the hell?!!</em> I looked over while trying to cover up the phone and gesturing to him to keep his voice down.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What was that?!" Karen blurted out as I panicked and quickly tried to find the mute button on my phone.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Mr. Jeff! Mr. Jeff!" He continued. "There something coming up the dirt road! Something unknown coming!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Dammit Agus, keep it down.</em> Still trying to find the mute button.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What the hell's going on over there?" Karen sounded confused. "It sounds like someone's yelling at you?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "No ... No." I flustered. Frantically looking around. "It's just some guys on the street. I think they're coming to beat me up?" ... <em>I couldn't think of anything better on the spot</em> ... "I gotta go Karen! Sorry, I gotta go ... I gotta call you back later!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "But I'm busy later!" She shouted back.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah ... well ... I don't know what to tell you ... I got a situation here ..." And was about to put my finger on the 'End Call' button when I heard her cry out.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "This counts as your full session! No refunds!!"</p>
+      </div>
+      <!-- Page 6 -->
+      <div class="modal-body a4-page">
+        <div class="image-title">
+          <h2 class="pdf-title">Karen McCarron – Life Coach (#2)</h2>
+          <img src="./images/character_5.jpeg" alt="icon">
+        </div>
+        <h6>The Legend of Balinese DonMu – Book One (Part II of III) – Chapter 30</h6>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I looked over at Olof and Wing. Then back at Karen on the monitor. With the beautiful purple-crimson hue still glistening off her tired and sweaty little body. And kinda felt bad for her out there. Noticing how fatigued and tired she looked. Having just made quota for not only herself, but for all four of them. And now just standing there. All alone. Next to four big piles of rice. Hacking away some more. And I really respected that about her. And thought that was really nice of her to do.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Olof looked over at her too. Apparently really respecting that about her as well. Nodding his head up and down – with a big old smile on his face – almost like a proud parent himself. Then turned back to me.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "This would be a great time for a Life Coach call." He said snickering away as Wing snickered alongside him. "Oh yeah, she so mad right now. It perfect time." He cackled.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I looked back at them. Thinking about that some more. Then thought about Indah. And me wanting to show her we were actually doing some kind of good up here. And producing some positive results. Then thought about Karen. And the woke trap I had for her. And wondered if that was actually good or not. Then thought about the Klan guys. And the plans I had with them. And realized that none of my plans seemed to be working out too well. Then turned back to Olof and Wing – seeing their excited little faces – and thought ... <em>maybe this time things will work out and something good will come out of it?</em> ... so smiled back at them, pulled out my phone, found Karen's number on it, hit 'Call', and we all watched as she pulled out her phone, saw Timmy's name on it, flip it off and send it straight to voicemail.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Wing giggled. "Oooohh, she so mad right now. Tell her you'll pay her $500 for an emergency 10min Life Coach call. See what she say." Laughing even harder.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I smiled. Shrugged my shoulders. Sent the text. And we all watched as her eyes lit up.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          But before I could even pull her number up ...</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          RING!</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Damn, that was fast.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          We saw her standing there. Out in the rice fields. Phone in her hand. Still upset. But possibly feeling a little better now that she was about to make a quick $500 bucks. So I did my best to try and compose myself and change my voice back to all gooey and pathetic. Like Timmy. And clicked the 'Accept' button on my phone.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Hi Kareeeennnn." I answered all whiny.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          She rolled her eyes.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What's up? I don't have a lotta time right now."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What are you doooiiiing?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "I'm frickin' working!" Throwing her hands in the air and looking disgusted. "You got that $500 bucks? You should probably send that over right now."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ooookaaayyy ..." I whimpered. Then looked over at Wing. Who turned his laptop around. Showed us the fake Venmo receipt for $500 on it. Smiled. And hit 'Send'.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          We then heard the 'Ping' on Karen's end of the phone.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok, got it ... so ... tell me why your life sucks right now."</p>
+      </div>
+      <!-- Page 7 -->
+      <div class="modal-body a4-page">
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I tried not to laugh. And took a deep breath.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Well ... I feel hurt. And offended ... by my girlfriend. And feel like she's been micro-aggressing me by telling me it's not a good idea for me to go to the BLM rally with her and her new friends. And feel like I really need to talk to someone about it like you, who are so woke and understanding about these things."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah ... well, you've got about 9 minutes left cause I'm really busy here." Then added. "By the way ... how the hell can you afford this shit aren't you like in high school?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I paused on that. Trying to figure out the best answer.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Well, my parents are rich. And they told me that getting a Life Coach would be a really good thing for me. Especially after my last three psychiatrists didn't really work out too well. So they just told me I could pick whatever I wanted to and they would pay for it because they were pretty much at their wits end."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          We could almost see the dollar signs light up in her eyes again.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I then looked at my phone a bit more seriously now.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "But you're a good Life Coach, right Karen? And a successful at it?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oh yeah. Definitely. I have almost ten-thousand followers on Insta and am pretty much at Micro-Level now. I just haven't posted anything in a while cause I've been really busy with all my other successful businesses. But as soon as I start posting again I'll be at Micro-Level in no time, then I'll get up to Macro, and then pretty much know all the major celebrities."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Hmmmm ... even Timmy had to wonder about that one.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok ..." I continued. "But anyway ... what do you think I should do here? Do you think I should go to the rally to show her how woke and supportive I am of her and her cause?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Listen up." She resumed. "Here's what you gotta do. You're gotta go to the rally and surprise her. Don't tell her you're coming and just show up unannounced. Girls love it when guys show up unannounced and surprise them. Especially when they're least expecting it."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Hmmmm ... yeah, I guess girls do like it when guys show up unannounced and give them little surprises huh?" Now getting the sense that she was setting me up for the Life Coach long-con.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "You need to be woke in today's day and age and sensitive to other people's needs. And in order to do that you need to have your social media pages full of all kinds of shit like going to BLM rallies, LGBTQ marches, and #MeToo movements."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeeeaahhh ... girls do like guys who are sensitive and woke, huh?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oh yeah. Today's modern woman wants a guy who's woke and sensitive to their needs, and talks about his feelings and isn't afraid to cry, and is gender fluid. Because that's all going to be on the right side of history."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Timmy wondered about that one too.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "You also need to take a lot of selfies there. With other people who are also part of that movement. Cause then people will associate you with them. And think you're part of them. And popular. And then they will like your posts. Which will generate a lot more self-esteem and confidence for you."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Hmmmm ... yeeaaahhhh ...I guess that does kinda make sense." I said.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          All of a sudden, we heard a loud steam whistle go off in the background.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What was that?" I said. Figuring it must be dinner time now. "Was that some kind of steam whistle?!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oh crap, I gotta go."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Go?"</p>
+      </div>
+      <!-- Page 8 -->
+      <div class="modal-body a4-page">
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, your time's up."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What do you mean my time's up? It's only been like 5 minutes. And I've already paid you the full ..."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Then heard a click.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "... $500 dollars ..."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Hello ...?"</p>
+      </div>
+      <!-- Page 9 -->
+      <div class="modal-body a4-page">
+        <div class="image-title">
+          <h2 class="pdf-title">Karen McCarron – Life Coach (#3)</h2>
+          <img src="./images/character_5.jpeg" alt="icon">
+        </div>
+        <h6>The Legend of Balinese DonMu – Book One (Part III of III) – Chapter 34</h6>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          The main dining hall was almost full by 9:25am. With our guests slowly starting to filter their way back in and head over to their assigned tables. One-by-one. As Olof, Wing and I just sat there in the secret control room watching it all over the monitors and waiting for Lakeisha to come back in and collect the cards.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          We then spotted Karen standing off by herself in one of the corners of the room. Just standing there all alone. With her back up against the wall. Watching everything going on with an odd look to her face like she had just given a hand-job for a secret mystery card and didn't want anyone else to know about it.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Olof then turned to me.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "You should give her a Life Coach call right now while she's just standing there." Chuckling along as Wing chuckled alongside him. Also thinking that was a good idea. "Oh yeah. This is perfect time. Right after she give me hand-job. Probably have lot of good insight now."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I thought about that. Then thought about Indah. And Ketut. And my plan to stop doing all this and wrap my part up in it.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, I don't know you guys. It might not be a good idea to do that to her anymore?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What?!" Olof's eyes shot open. "What the hell are you talking about? This was your whole idea to do this to her in the first place. To set up this whole fake Life Coach thing so you could track and monitor her progress – and see if you could get her to change – and show her the other side of things. And that she's totally full of shit. Which we pretty much know is true now so what the hell happened to that?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, Bule Jeff, what the heck happened to that?" Wing looked at me confused as well.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Awww, man.</em> Cause they were right. This was my whole idea to do this to her in the first place. And now I started to feeling guilty again. And getting sucked back in. Cause I didn't want to let the guys down. <em>Geez I'm always so indecisive and trying to please people.</em> But I also knew that I wasn't going to tell them about my new plan of becoming a metaphorical Balinese rice farmer until <em>after</em> the four of us were back together – which technically hadn't happened yet – so I figured maybe I could do one last Life Coach call with them, just for one last laugh, I mean what could it really hurt?</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          So I gave 'em a funny little look back. Pulled out my phone. Scrolled through it to find Karen's number on it, found it, hit 'Call', and the three of us watched as she pulled out her phone, saw Timmy's name on it and – as usual – flip it off.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Wing of course started giggling. "Text her your life in crisis right now and that you pay her $1,000 for 5min emergency Life Coach call. See how good Life Coach she is."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I somewhat smirked at that, typed it into my phone, hit 'Send', and the three of us watched as she wrote something back.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "$2,000"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I chuckled and showed it to the guys.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          They both started cracking up. "Good thing we have fake Venmo receipts." Wing grinned deviously.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I replied back to her.</p>
+      </div>
+      <!-- Page 10 -->
+      <div class="modal-body a4-page">
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Ok. But my life is in crisis right now. Life-or-death kind of stuff."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Venmo first. Then I'll call you."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>It's nice to have a Life Coach who's so readily available.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Wing then opened up his laptop. Started creating the fake $2,000 Venmo receipt on it. Got it all set up. Showed it to us. Giggled. And hit 'Send'.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          We then watched as her eyes lit up.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          My phone immediately rang. So I took a deep breath.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Hiiiii Karrrreeennnnn..." I said all whiny.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          She rolled her eyes. "God, you're so frickin' needy Timmy. Here's a little Life Coach advice for you ... girls don't like needy guys."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>I tried to suppress a laugh. Then re-compose myself.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "But I thought you said girls like guys who were sensitive to other people's needs and woke?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Lord, you're so frickin' clueless." She muttered under her breath.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Huh? What?" I whimpered.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Look Timmy, let's get right down to it cause I don't have a lot of time right now and you're spending a lot of money on this shit. So just tell me what happened when you showed up at the BLM rally and surprised your girlfriend."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I paused. And thought about how to best answer that. Then looked over at Olof and Wing for some kind of help but they were both snickering under their breaths. So I tried to think of something else when Olof finally whispered something I couldn't quite understand so I pressed the mute button on my phone.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Huh? What'd you say?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "I said, tell her you caught her having sex in the alleyway there."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "What?! Seriously?!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oh, yeah." Wing giggled. "That be too funny."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Timmy, are you there?" Karen said. "Where the fuck are you?!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oh yeah, yeah ..." I unmuted the phone. "I'm here, I'm here ... <em>Ummmm</em> ... well, that's why I said I'm in crisis mode right now cause when I showed up there I caught her having sex in the alleyway."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Wait, What?!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Oh boy.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeeaahhh." I moaned.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "With who? ... you mean the black guys she went to the rally with?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I stopped a moment. Unsure of how to answer that. Until Olof answered for me in his best Timmy voice.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yesss!!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oh shit!!" Karen sounded shocked. "Are you frickin' serious?!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Oh man.</em> I just shook my head.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Like ... with all of them?" She asked.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yes!!" Olof said again falling out of his chair.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Goddammit.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Holy shit Timmy! Holy shit! You mean you caught her having sex with ALL those black guys?! Like they were running a train on her?!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yes. It was horrible!" Olof said still halfway out of his chair.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Oh man, I'm burning in hell for this.</em></p>
+      </div>
+      <!-- Page 11 -->
+      <div class="modal-body a4-page">
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Holy shit Timmy! ... Holy Shit!!" We saw Karen's startled expression through the monitor. "Goddamn, that's fucked up. That is seriously fucked up."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Lord, I've got some serious issues.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah ... and now I don't know what to do because she told me I needed to be woke and understanding about it and realize that people needed to explore their own sexual paths and that I needed to explore my own sexual path too."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Wait ... she said that to you?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Uh huh."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "When?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          <em>Awww, crap.</em></p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "When she was in the middle of it."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Wait, what?!" She now looked even more startled. "Like when she was in the middle of getting banged? Like during it all? Like while they were running a train on her she said that to you?!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Uh huh." I said shaking my head while Olof and Wing were still bent over in their chairs laughing uncontrollably.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Hoooooly shit Timmy!! Hoooly shit!!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yes, it was horrible."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, I fucking bet it was horrible. I fucking bet it was. So ... wait ... like while she was getting banged, with one guy in her and the other guys standing around waiting their turns, she was like ... telling you things ... like you needed to be woke and understanding?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I dropped my head.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Uh huh."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Holy Shit Timmy! Holy shit, that's fucked up! Damn, so what were you thinking ... while she was saying this to you... while you were watching your girlfriend getting banged by all those black dudes?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "I don't know. It was very confusing." I said still staring at the floor and wondering what the hell was wrong with me.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, I fucking bet it was. That's frickin' hardcore."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          I just shook my head.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Look Timmy. I'm gonna ask you this one more time. And I want you to keep an open mind here, so don't go jumping to any conclusions ... or off a bridge or anything ... not just yet. But are you by chance attracted to guys? Or black guys? Or have any kind of hidden feelings for them?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Huh?! What?!" I sounded confused. "Nooooo ... I mean ... why do you ask that? Do you think I might be gay or something?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oh yeah, definitely. Or at least transitioning. And you should probably look into that more cause it's definitely the wave of the future."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          Timmy just sat there on the other end of the phone. Wondering about all that.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Look Timmy." She continued. "While you were watching your girlfriend get a train run on her by all those black dudes, and they were laughing at you, what were your thoughts on it all? Like what was going on in your head?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "I thought that it was horrible and my life was over."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, I bet you did. I fucking bet you did. But I mean, sexually. What were your thoughts sexually on it. Did it turn you on at all?"</p>
+      </div>
+      <!-- Page 12 -->
+      <div class="modal-body a4-page">
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Whaaaatttt?! ... Nooooo ... I mean, I don't really know. It was all very confusing. I didn't know what to think?"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Well, luckily for you you've got me to do your thinking for you. And I think you might have liked it. And been turned on by it. By your girlfriend getting banged by all those black dudes. And you really are secretly gay – or at least Bi – definitely Bi. And since you already know that being gay, bi, or trans, is the wave of the future then you really need to start exploring those feelings some more and stop feeling sorry for yourself all the time. I mean obviously something is wrong with you and the sooner you figure that out the better cause all your whining, bitching and moaning isn't the answer for you. You need to wake the fuck up. And be woke. And grow a pair of balls already."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Listen up!!" Mama'san roared through her bullhorn as the guests in the main dining hall started shuffling about in their seats.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Oh shit! I gotta go." Karen quickly spoke up.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Wait, what?!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, I gotta go."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "But I'm in crisis mode!"</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "Yeah, well your time's up."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "But it hasn't been 5 minutes ..."</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          CLICK.</p>
+        <p><span style="margin-left: 18px;display: inline-block;"></span>
+          "... yet ..."</p>
+      </div>
+      <div class="modal-footer justify-content-center">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- pdf 14 - Mekong and the Commies -->
+  <div class="modal fade pdf-modal" id="PDF_fourteen" tabindex="-1" aria-labelledby="PDF_fourteen_label" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+      <div class="modal-content a4-modal-content">
+        <div class="modal-body a4-page">
+          <div class="image-title">
+            <h2 class="pdf-title">Mekong &amp; the Commies</h2>
+            <img src="./images/character_6.jpeg" alt="icon">
+          </div>
+          <h6>The Legend of Balinese DonMu – Book One (Part III of III) – Chapter 39</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I hustled up away from the woodshed over to the little dirt path and jumped inside the row of red hibiscus and yellow frangipani trees underneath the 10' foundation wall of the hotel – where the Klan boys couldn't hear me – and pulled out my phone and saw about 20 missed calls and texts from Olof and Wing. And immediately thought … <em>Uh oh, that can't be good</em> … so scrolled up to the first one and started reading it.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Karen is dressed up as one of the Skybirds going around drugging all the trail mix and water jugs!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh shit!!</em> I thought. <em>Cooter was just munching down all that stuff … Muskrat and Varmint too. Uh oh, that can't be good.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>But then I wunner'd bout dat … maybe that'd be a good thing for them?</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I didn't know.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Maybe?</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then continued reading.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"That backpack she grabbed out of Sky's room was full of all kinds of mushrooms, peyote buttons, ayahuasca, LSD, DMT, and all kinds of other stuff we've never even heard of before!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then I remembered Hippie Jon.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh crap!</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He ate an entire bag of that trail mix. German Gunther too. Plus they were drinking all that brownish mud-water and alkalized water in those water jugs – which must have been little pieces of acid floating around in there. <em>Uh oh</em> I thought. He also said he was starting to feel all tingly inside like he was an astronaut about to be shot out into space.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Yikes!</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I cringed at the thought of that.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then figured I'd call them back, so scrolled through my phone, found Olof's name on it, hit 'Call' and he answered immediately.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Why the hell've you been talking to those Klan guys for so long?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Ummmm</em> … "Yeah. Sorry about that. But wait. Was that really Karen dressed up as one of the Skybirds drugging all the trail mix and water bottles around here?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, but forget about that for now. We've actually got bigger problems!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Bigger problems?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, bigger problems."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Bigger problems than the entire hotel possibly being drugged-up?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Well … I don't know about that but there's Commies up in the jail area now."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Commies?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, Commies."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What the hell do you mean Commies?! You mean like the Russian hooker Commies?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"No, not the Russian hooker Commies, the Commies Agus was talking about the other day. From boarded-up Kuta. Living up here in the jungles and stealing power and water from the hotel."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I thought about that.</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Are you serious?!" Trying to figure that out. "But wait … what makes you think they're Commies?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Because they're all wearing Che Guevara shirts with black hats and red stars on them."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Huh? … Seriously?!</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Is that what Commies wear?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I don't know? But they've got Beehive, Lil' Shmoogy and Deebag all tied up there at the tree line building some kind of waterboarding device for them."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Waterboarding device?! What the hell are you talking about waterboarding device? They're gonna waterboard them?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"We don't know? But they've also got Hippie Jon and German Gunther up there too. Inside some kind of Native American Tee-Pee things, or sweat lodges, that they call WigWams of Truth."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"WigWams of Truth?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah. And they think German Gunther is a Nazi!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"A Nazi?!" I thought about that a second … <em>Oh shit! Commies hate Nazi's</em> … "But, wait. What the hell's a WigWam of Truth?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"We don't know! That's just what they call them. But they're all up there at the tree line. Just standing there on the top rice paddy getting ready to start waterboarding them."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh crap!!" Was all I could think of to say as I just sat there in the dirt. Not really believing what I was hearing. When Olof continued.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"And we think they've converted some of Mama'san's Mudbugs into becoming Commies too!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Seriously?! … Why do you think that?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Cause they're also wearing Che Guevara shirts with black hats and red stars on them."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Hmmmm … yeah, I guess that did kinda make sense.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"But wait. Hold on." Thinking about that some more as well as Mama'san being the police force around here. "Where's Mama'san and what's she doing about all this?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"She's back there standing off to the side of the pool deck. Just watching it all behind some banana trees with her two little Trainees."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Why isn't she stopping it?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"We don't know. This all just started happening a few minutes ago, we've just been watching it all from up here on the balcony. It's frickin' crazy!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I just sat there a moment. In the dirt. Thinking about it all and what we should do about it.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What do you guys think we should we do about this? Do you think I should go over there? To Mama'san? And see if she can help us out here and tell us what's going on?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, you should definitely go do that."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Hmmmm, wait a minute.</em> Easy for him to say. Was that a good idea? I didn't know. I mean I did have a mission to find Karen and calm her down. But I also didn't want our guests getting waterboarded by a bunch of Commies up at the tree line. So this was another tough one. And figured I should really take care of this Commie situation first then deal with Karen second. And I guess the Klan guys third.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"But wait. Hold on. What about Karen? Have you guys seen her at all?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"No. We keep looking for her but can't find her anywhere."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Hmmmm … ok … I guess I'll go over to Mama'san and see if I can find out what's going on around here and call you guys back later."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ok, cool."</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I hung up the phone and hopped out of the red hibiscus and yellow frangipani trees and hustled over to the back side of the hotel, up the matching 10' marble staircases, and out onto the back pool deck area to where Mama'san was just standing behind some banana trees watching the whole thing with her two little Trainees standing right beside her watching the whole thing too.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mama'san." I said finally getting next to her. Completely out of breath. Bent over. With my hands on my knees feeling a little bit like Agus and the beach ladies.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What's going on here? What's this I hear about Commies up in the jail area?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She didn't answer me. Just continued standing there. Staring out across the vegetable fields out onto the top rice paddy. Seemingly deep in thought. Wondering about something. Or trying to figure something out. Like almost looking solemn. Sad. Or forlorn. With her two little baby Trainees flanked on either side of her. Also looking solemn, sad, or forlorn.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then she finally answered me. Or grunted … <em>Mmmmmm</em> … And nothing else. A somewhat more-lower-octave meditative grunt. One I'd never heard before so wasn't really sure what it meant. But she was obviously deep in thought. Just watching it all.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>So I stared out across the vegetable fields too. Out across the four rows of rice paddies. Each one stacked-up higher than the last. Tapered and tiered-up towards the final top row. Which was about 25' deep and 50' wide with the tree line and jungle directly behind it. And a bunch of Commie girls in their Che Guevara shirts setting up this new waterboarding device and Beehive, Lil' Shmoogy and Deebag all tied-up at the tree line just watching-on in wide-eyed anticipation.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then I looked around for Hippie Jon and German Gunther but couldn't find them anywhere. And figured they must be inside one of the WigWams of Truth. Just behind the tree line. A few little Native American tee-pee-looking things all in a line. With little trails of smoke coming out of the tops of them.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then I saw a single, young Commie girl come marching out of one of the WigWams of Truth over towards the top rice paddy. Looking kinda like their leader or something since she was wearing a different colored Che Guevara shirt and start gesturing toward another group of Commie girls to start dragging Lil' Shmoogy over to the waterboarding device.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Uh oh.</em> I thought.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then looked back over at Mama'san.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mama'san, what's going on here?! What's happening?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She took a deep breath and let out a more contemplative sigh. A low-rumbling … <em>Mmmmmm</em> … this time. And replied back. Almost sadly.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"That Mekong."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mekong?!" I said scrunching my face up and staring directly at her, feeling very confused. "Who – or what – is a Mekong?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mekong my niece."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Your niece?</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Your niece?!" I was completely surprised by that. And did not expect that one at all. "You're niece? Are you serious? She's your niece?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yes." She drew out forlornly. "Had sister back in North Korea. And sister have child. Young Mekong. Very special child. Very gifted. Love Mekong very much. Treat her like own daughter."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh my God. I had no idea Mama'san had a niece. Let alone a sister. Man, she's just full of surprises.</em></p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mekong grow up and educated in finest North Korean schools. Alongside children of State Dignitaries. North Korean high society. Best and brightest. Learn all about Communism. Socialism. U.S. Imperialism and Guerilla Warfare. As well as great Communist leaders like Marx, Ho Chi Minh, and Che Guevara. She very proud and wise child. But find out later, she learn too much.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh man. I wasn't really sure I had time for some kind of history lesson right now.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"She learn how corrupt North Korean version of Communism is. And others too. She know true wishes of Marx, Ho Chi Minh, and own personal hero Che Guevara. And angered at how bad current leaders take advantage of beliefs and principles … 'To each according to needs, from each according to abilities.' … she believe in slogan."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I just stood there. Trying to be polite. And respectful. And did appreciate her telling me all about the Communist slogan but was actually more concerned about this place just completely spinning out of control and me possibly getting arrested – or framed by Karen – than the backstory of her young niece Mekong and her idealistic belief system. But also knew that Mama'san didn't like to be interrupted, so decided to just wait there patiently for her to finish.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"When husband send in mercenaries to smuggle me out of North Korea, I insist they take sister and young Mekong too. But mercenaries fail. Only get me. And government catch sister and kill her for being part of plan. Even though she not. But spare young Mekong because she such good student of Communism. But they did not know truth."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I wondered how much longer this was going to take since I could now see her young niece Mekong ordering the Commie girls to start strapping Lil' Shmoogy down to the waterboard device.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"After that day I make solemn vow – promise to heavens and pledge of honor – that I will get young Mekong out. And save money. Until finally save enough to pay mercenaries to get her out. And this time they succeed. Get Mekong out to be reunited with me. Only to find out she did not want to get out. She was planning revolution in North Korea. To overthrow Great Leader. Had assembled army and was ready to go. But I ruined plan. And now she no forgive me. And curse and hate me for what I do. And run off."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I just stood there. Thinking more about this. And about how horrible it must have been for Mama'san to go through. And endure. While also watching her young niece Mekong now encircling around Lil' Shmoogy and throwing some kind of brownish mud-water in her face.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I try to apologize and make things right. But she no listen. Mekong so angry now. Filled with rage. Then run away from me. And disappear. Hear stories she was living in boarded up Kuta. Recruiting other girls to join her. To join cause. But did not know she came up here. And now lives up here in the jungles. Doing what … I do not know."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I looked back at Mama'san. Feeling sorry for her. While also noticing the pain in her eyes. The deep sadness. And tried to figure out how I was going to say, what I needed to say.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mama'san, I'm so sorry to hear that. I really am. That's just so awful that that happened to you. And I feel really bad for you, and that you had to go through all that, as it must have been an incredibly difficult experience for you to deal with, and process and cope with. And I hate to be rude here – or insensitive to your needs – but can you just tell me real quick why your young niece Mekong seems to be running some kind of Communist revolution up here in the jungles behind the hotel with five of our guests either tied-up in WigWams of Truth or about to be waterboarded?"</p>
+        </div>
+        <div class="modal-body a4-page">
+          <h2 class="pdf-title">Chapter 40</h2>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Drink the truth!! Purge your lies!!" Mekong roared out as she threw the brownish mud-water down the back of Lil' Shmoogy's throat who now gagged and coughed and tried to spit it back out all the while squirming about on the waterboard.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You fucking bitch, I'll fucking kill you!" Lil' Shmoogy screamed out while choking and gagging and thrashing about. "Get me the fuck off this thing you fucking Commie bitch! This is fucking buuuullshit!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh crap!</em> I thought as Mama'san and her two Trainees now started to walk from the back pool deck down the stairs to the little dirt path while positioning themselves behind a row of banana trees to get a closer look without being seen. With me following closely behind them.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What are you doing here?! What are you looking for?!" Mekong bellowed out as I poked my head between two banana leaves.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I ain't looking for shit bitch! These fuckers threw me in jail! Racist motherfuckers!! I didn't do shit!!" Lil' Shmoogy hollered back while still squirming about and trying to get free.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>A drop of rain hit the top of my head as I looked up to see a massive gray thunderhead forming overhead. Coming down the southern slope of Mt. Batur and headed our way. <em>Oh boy,</em> I thought. A storm was coming and it looked like a big one.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Lies!!" Mekong roared out while continuing to pace around Lil' Shmoogy.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"It's not a fucking lie you bitch! I was fucking framed. By some little Chinese boy!" Wriggling about and yanking the ropes binding her wrists to the waterboard. "And if I ever get my hands on that little fucker I will … Fuck … Him … Up!!" Thrashing about and visibly upset.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mekong was lording over her. Looking like a fierce guerilla-warfare fighter. Or one of those other descriptions you used to read about in those old racist Colonialist novels. With a savage beauty to her. A beastlike virility. Tribal sexuality. Primitive elegance. Barbaric and untamed. Primal and bloodthirsty. Feral yet feminine. Her shoulder-length black hair hanging perfectly about her face looking like she belonged on the cover of Vogue magazine's 'Exotic Warriors of the Jungle' edition.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She circled menacingly around Lil' Shmoogy with the rain now coming down harder and her cheaply-made Che Guevara shirt clinging to her wet, raw, sinewy body.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Drink the truth!! Purge your lies!!" She yelled out throwing more mud-water in her face.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Stop throwing that shit in my face!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Stop spewing your lies and hypocrisy!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Her demeanor was hardened. Like North Korean military hardened. Yet her features were almost angelic in their ferocity. Somewhat hidden behind an apparent disgust of modern U.S. beauty standards. Masking the true intent of God's work. Seemingly unaware or embarrassed of her own natural splendor.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What are you doing here?! What are you looking for?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I already told you, I ain't looking for shit bitch!! These fuckers threw me in jail!!"</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mekong did not seem to buy that while she continued to circle around her throwing more mud-water in her face. "Do you deny you have come here seeking DonMu and the cave of enlightenment?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil' Shmoogy now stopped. And wrenched her head to the side. Seemingly pausing on that. Like she was surprised Mekong even knew about that name.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What tha' fuck you talking about?!" Looking at her confused. "I ain't looking for that motherfucker! Those racist white hippies are the ones looking for him. So go tie them up. I'm here for the Reality TV show part of this thing. So get me the fuck off this thing you fucking Commie bitch!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What do you think lies up here you Imperialist-Colonialist swine?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I don't give a fuck what lies up here! And I ain't no Imperialist either! Or a goddamn Colonialist! I'm black like you guys!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mekong now stopped. And twisted her head around. With a new look in her eyes. Not really buying that one either.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You're not black like us! You're nothing like us! You are rich capitalist swine come here to steal from us!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Bitch, I ain't stealing shit! I'm the one who's tied up here in case you hadn't noticed!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>The rain was coming down harder now. The winds picking up. Thunder rumbling off in the distance.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You Americans are always going to places you aren't wanted. Stealing from them. Spreading your lies and propaganda. Colonizing sovereign nations with your Neoliberalist Foreign Policy. IMF. World Bank. CIA black-ops. Installing your puppet dictators and rigged central banking systems with your corporate media lapping along behind spewing their imperialist propaganda whilst trying to mask the true intents of their 1% white slave masters."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Bitch, I don't know what the fuck you're talking about!! You're bat-shit crazy! But I hate America too! They're all fucking racists over there. Old racist white men discriminating against everyone and keeping everyone down. Fuck those racist motherfuckers, I'm with you guys!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mekong did not seem to buy that one either.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You're not with us! You're with them!" She snarled. "Sent here by them to appropriate and colonize us. Steal from us and profit off us. We know about you. We heard about you. They showed us your ridiculous social media pages and your pitiful YouTube rap videos."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil' Shmoogy now stopped. And wrenched her head back to the side. Seemingly surprised she knew about that one too.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What tha' fuck you talking about?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mekong now turned to one of the Babybugs – to one who might have been recently converted into a Commie and possibly ratted Lil' Shmoogy out to Mekong – spotted her and yelled out.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Bring me her YouTube channel!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil' Shmoogy now winced and looked a little nervous. Probably unsure of what they had on her. And started to sweat. While the Babybug hustled over to Mekong and got right next to her, pulled out her phone, scrolled through it to find Lil' Shmoogy's YouTube video on it – found it – pressed play – and handed it to Mekong who stared at it in utter disbelief.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What the fuck is this shit?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What the fuck is what shit?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Why you dance around like a monkey?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Her eyebrows shot up. "You fuckers better stop calling me that!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mekong threw the phone down in the mud in disgust.</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Look at you!! Dressing up in indigenous African clothing trying to use them for your own self-promotion and profit. Thinking they're your people when they are not your people. They are more our people than your people! What you ever done for them? What have you ever sacrificed for them? What have you ever bled for them? Your people as you call them?! If they are your people then go help them!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil' Shmoogy seemed confused by that.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What the fuck am I supposed to do go over there and live there or something?! Fuuuuuck that shit!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Hypocritical swine!" Mekong threw more mud-water in her face.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Stop throwing that shit in my face!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You claim to be discriminated against. You claim to be prejudiced against. You claim to be a victim of racism, oppression, bigotry, and the white male patriarchy! Well, guess what…?" She snarled right in her face. "We feel it too!!" Growling fiercely while gnashing her teeth. "… And now you have an opportunity to join us!! … to join us and overthrow the rich white racist American swine together!!" Rain still pouring down all around her. "Will you take this opportunity? Will you take this entreaty? Will you take this call to action and stand with the girls right next to you. The comrades right beside you. Who have dropped everything. Sacrificed everything. Risked everything. And pledged themselves to the fight?!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil' Shmoogy now peered around at all the other Commie girls standing there. Dressed in their cheaply made Che Guevara shirts, ratty-old cargo pants, emaciated bodies and muddy combat boots. And didn't seem to want that for herself.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Fuck that!! It's easy for them to drop everything cause they ain't got shit to lose!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Filthy American swine!!" Mekong wailed. "Don't you want your reparations?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil' Shmoogy now stopped. And wrenched her head back to the side. With a new look to her face. Seemingly surprised that Mekong knew about that word too. And what it possibly meant to her. And gazed at her with a look of hopeful optimism.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I can get that shit?!" She said eyes bugged out and intrigued.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Join us in the jungles and we will plot and plan and prepare and train and go rip the reparations from the cold dead hands of your rich white American swine together!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil' Shmoogy's expression now changed back to one of more reluctant hesitation. Probably realizing the amount of work that was involved in this and apparently changed her mind.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Fuuuuck that shit! I want my reparations but I want someone else to get 'em for me!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Greedy American swine!!" Mekong roared out and threw more mud-water in her face then turned back around to her comrades.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Throw her in the Wigwam of Truth … to dwell on her lies … and bring me the next one!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Her comrades now started untying Lil' Shmoogy from the waterboard and began dragging her back behind the tree line, throwing her inside one of the WigWams of Truth, while two other Commie girls now started dragging Beehive on over.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Aaiiihhhh!! Aaaiiihhhh!!" Beehive shrieked out while I looked over at Mama'san with a look of panic on my face.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mama'san we gotta stop this! We gotta stop this right now!"</p>
+        </div>
+        <div class="modal-footer justify-content-center">
+          <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- pdf 15 - The Big Four -->
+  <!-- pdf 15 - The Big Four -->
+  <div class="modal fade pdf-modal" id="PDF_fifteen" tabindex="-1" aria-labelledby="PDF_fifteen_label" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+      <div class="modal-content a4-modal-content">
+        <div class="modal-body a4-page">
+          <div class="image-title">
+            <h2 class="pdf-title">The Big Four: Karen McCarron, Bobahn/Beehive, Lil' Shmoogy &amp; Dirk Deebag</h2>
+            <img src="./images/character_8.png" alt="icon">
+          </div>
+          <h6>The Legend of Balinese DonMu – Book One (Part II of III) – Chapter 30</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "I mean … day one looks to be a success so far, right you guys?" I said nodding my head up and down while looking at Olof and Wing for some kind of positive response or affirmation that we were actually on the right track here and doing some kind of good. Then remembered the Big 4. "Well … except the Big 4 … but everything else seems to be ok, right?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Wing then looked up at one of the side monitors and noticed Karen now walking into the main dining hall and heading over towards the rice field table.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Here come your girl, Karen." He said with a mouth full of sausages while I glanced over and saw her walking towards the rice field table and see Bobahn/Beehive and Lil' Shmoogy both sitting there with their cards for 'Courage' or 'Bravery' … <em>or being called monkeys</em> … resting proudly in front of them.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He then grabbed the remote and turned up the volume on the microphone hidden in the napkin holder as Karen got right up next to them and stopped.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "<em>Oh puhleeeaaaze ...</em>" She muttered under her breath while glancing back and forth between them and their cards with a rather annoyed expression on her face.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ummmm … did you just say something?" Beehive puffed up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yeah, I see you got special cards for 'Courage' or 'Bravery' or whatever the fuck they are … and I said it's a fucking joke … and I'll bet you anything you just lounged around by the pool all day getting massages and shit."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Beehive let off a huff. "Well that's how I heal best."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yeah right from what … being called a monkey? You're not even black."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Lil' Shmoogy reared around. "Bitch, you'd better stop saying that shit!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Karen stared back at her. "Why? Are you going to sue me or something?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "What'd the fuck you just say?!" She now leaned forward and dead-eyed her.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yeah, I know how you made your money. I looked your ass up. Suing everyone for racial discrimination. What a joke. There's like a blueprint for that shit nowadays."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            We both looked over at Olof.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Told you!" He said cracking up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Deebag now plopped down at the table next to Lil' Shmoogy and put his arm around her.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Sup girrllll."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Karen's jaw dropped. "What the fuck?!" Throwing her hands in the air. "Now you two are hooking up?! Jesus H. Christ! You know he's just gonna bang you and dump you right?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Bitch puhleaze." Lil' Shmoogy showed her the back of her hand. "No white boys' ever dumped me before. He just dumped you cause you're all racist and scrawny and shit. With a flat old-smelly ass."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh puhleeeeaaaze!' Karen snapped back. "You're probably just gonna bang him and sue him."</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Bitch, you'd better back the fuck off with that shit and get your ass down to the other end of the table before I knock the stank off ya. We don't need your racist-ass shit around here so move it along you skanky-ass ho."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Karen just stood there. Fuming. Seething. You could see it in her eyes. Smoke coming out of her ears. Looking like she was gonna say something. Something bad.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oooooohh … look at her." Lil' Shmoogy now lit up. Elbowing Beehive. "She's so mad right now. Oooohhh, look at her. She's gonna say something bad. Oooooohh, she's gonna say the N-word, isn't she? You can just see it on the tip of her tongue. Ooohhhh! Here it comes …"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Beehive joined in too. "Oh my God, you're right. Yes, you're right. I can see it there too. On the tip of her tongue. She's definitely thinking it. She's definitely a subconscious racist."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Karen snapped back. "Oh fuck you both! You're both so full of shit and are just dying for me to say it so it'll give you drama and opportunity. You people make me sick!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh my God!! She just said 'you people'!!" Beehive erupted. "She's definitely a racist now! Definitely a full-blown racist!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Karen didn't appreciate that.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Fuck you Beehive you dumb slut! I know about you too. You think I wouldn't find out about that shit? I heard about your past and what you used to do at parties. Thinking you're all self-righteous and shit cause you don't drink but you're always the last one there. Lurking around. Looking for drunk guys to bang you. And I know the conversations you have with them too, where you tell them they need to be woke and explore their sexuality and be open-minded and not be transphobic. But the truth is you're just trying to get 'em to bang you. What was that name they used to have for you, what'd they call you … the cum dumpster? … the cock gobbler? You fat freak twink."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh my God, transphobic! Transphobic!" Beehive cried out absolutely mortified. While Lil' Shmoogy and Deebag appeared to be chuckling under their breaths.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "I also heard you like to do weird sex things with your partners too. Like multiple partners too you power bottom slut. You're so fucked up in the head, like cognitive dissonance shit, but you won't talk about it will you? Say it's private. Yet you blast other people for what they do, you hypocritical bitch."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh my God! Just listen to how transphobic she is!" Beehive was incensed now. "This is an outrage! You cannot talk to me this way. How dare you speak to me like this!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh puhleaze, you're so full of shit. You make fun of white rednecks all the time saying how dumb, transphobic and racist they are."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "That's different. They're ignorant and wrong. And need to be told what's right."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh my God, do you even hear yourself talk."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Karen then stormed off over towards the other end of the table. Noticing Hippie Jon and German Gunther sitting down there all by themselves, smiling and waving at her to come join them, to which she just rolled her eyes and muttered under her breath … <em>'oh puhleaze'</em> … then took a hard right and headed over to the farthest corner of the room whilst Beehive, Lil' Shmoogy and Deebag sat there commiserating with each other and/or talking shit about Karen, possibly finding some common ground to share and heal with, which was an odd scene for us in the secret control room since we figured there was no way in hell the three of them would ever hang out together under normal circumstances but we also knew this would make for great test scenarios.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Damn, that bitch is frickin' crazy!" Lil' Shmoogy quipped as soon as Karen was gone and out of sight.</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yeah, I can't believe I banged that crazy-ass bitch." Deebag said nodding his head up and down while staring right at Beehive and focusing in on them. "I don't want any part of that racist shit, huh Bro? That shit's wrong, huh?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yeah, and transphobic too. Huh, Beehive?" Lil' Shmoogy said now looking right back at them. Nodding her head up and down. Then realizing she actually used the wrong name. "Sorry, I mean … BoYo? … is that it?" Now trying to remember their real name. "Or is it BoBo? BoBa? Shit, I'm sorry, I'm frickin' bad with those weird-ass names."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Now Deebag offered his thoughts on the name. "No, I think it's Bo-Bang? Or Bo-Bottom?" He said quizzically. "Bo-Butt?" Scratching his head. "Is that right? Am I close?" Looking at Beehive with the most serious look he could muster.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ummmm …" Beehive half-muttered trying not to show how appalled they probably were. "It's Bobahn. Which means spiritually enlightened in a new day and age." With a look of partially-concealed offense in their eyes. "And please remember that and be respectful of that."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh yeah cool, got it now." Deebag said continuing to nod his head up and down. "And that must be tough too, going through all that transphobiaism shit. But don't worry about me, Bro. I'm totally pro-trans. I've actually got a couple buddies who've banged trannies before so it's all good. They swear they didn't do it but we all know they did. But we didn't beat 'em up or anything we just gave 'em shit you know. Like guy kinda stuff."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Beehive did not look amused by that either, while Deebag just sat there completely clueless.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "But that must be weird, Bro." Now feigning more interest in it. "Going through all that transphobiaism shit." Looking at them more seriously. "So … what's that like bro? What's it like to be all transitioning and shit?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yeah, Yo." Lil' Shmoogy now chimed in. "I kinda want to know about that shit too … like what's it like to wanna change yourself from a man to a woman? That's such a trip, Yo. Like being born a man, then finding out you're not a real man, but instead some kinda chick … like what the fuck's that all about? Does that mean you don't want your dick anymore?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yeah, that must be a trip Bro. Being born with a dick and then not even wanting that thing anymore. Like what a fucking trip, Bro"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yeah, Yo. What tha fuck's that like? Being born with a dick and then looking down at it and being all … what tha fuck's that thing doing down there? I don't want that shit."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Beehive now paused. As it was obvious they really didn't appreciate that line of questioning – and the way Deebag and Lil' Shmoogy were phrasing it – but were still trying to be woke and socially-conscious about it all.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Well, first of all …" They paused while letting out an unmistakable sigh and figuring out the best way to explain this all. "Let me just say there are better ways to ask that … and inquire about it." Now looking at them both parentally. "But since I come from a place of love, I'll forgive it, and understand that you might be coming from a place of ignorance or naivety. So I'll just say that it means my gender is fluid, and I'm discovering more about myself every day, and I think I might prefer living the rest of my life out as a woman rather than a man. And I identify more with women than men. So please respect that and choose your words more carefully next time. And try to be more wise and socially conscious about it … by being better."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Lil' Shmoogy now pulled back. Nodding her head up and down like … <em>oh ok, so that's how you wanna play this shit?</em> … and answered back.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Well, first of all let me just say that there are better ways for you to say that shit too. And not everyone is up to speed on this shit the way you are. A lot of us didn't grow up where not</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p>knowing if you were a man or a woman was even possible, so don't just assume everyone else knows as much about this shit as you do."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            I think hearing the words 'shit' and 'this shit' referring to a topic so near and dear to Beehive's heart was a little off-putting. And rightly so. But regardless, it was now Beehive's turn to get a tad offended and answer back … as I peered over at Olof and Wing who both appeared to be getting <em>really</em> excited about what they figured was coming up next, as we all just sat back in our leather recliner chairs and watched as Beehive paused, gave off a half-sigh and half-disapproving little look, then turn back to Lil' Shmoogy.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Well, let me just say in response to all that, that I don't really appreciate your choice of words – or your tone – it feels a bit aggressive to me. And there's something called educating yourself. And being better. And learning about things and not being so ignorant and naïve."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            And now our eyes focused back on Lil' Shmoogy. Who had her gaze fixed directly on Beehive with a look on her face that we knew wasn't going to be good.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oohhh, boy …" Wing said. "Heeeeeerrre we go …"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Well, let me just say this to ya' …" Lil' Shmoogy now straightened herself up fixin' to deliver sumpin'. "How 'bout I just lop that thing off for ya' and doo's yourself a favor!"</p>
+          <p style="text-align:center;">***</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Dinner was served promptly at six. The Asians were very efficient …</p>
+        </div>
+        <div class="modal-footer justify-content-center">
+          <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- pdf 16 - Wing-Wang Getting Handjobs -->
+  <div class="modal fade pdf-modal" id="PDF_sixteen" tabindex="-1" aria-labelledby="PDF_sixteen_label" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+      <div class="modal-content a4-modal-content">
+        <div class="modal-body a4-page">
+          <div class="image-title">
+            <h2 class="pdf-title">Wing-Wang – Getting Handjobs</h2>
+            <img src="./images/character_7.png" alt="icon">
+          </div>
+          <h6>The Legend of Balinese DonMu – Book One (Part III of III) – Chapter 33</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            The hallway was quiet. Eerily quiet. With Wing just shuffling his way down it. Duck-waddling
+            along while looking down at his clipboard with each person's room number written on it. Karen's
+            being first. Plodding along in his baggy little uniform. Looking somewhat ridiculous on him. Dorky
+            glasses on his face. Clipboard in his hand. Hair half-plastered down on the side of his head. Not
+            really looking all that convincing but hopefully good enough.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He finally got in front of Karen's room and just stood there for a second. Straightening out his
+            uniform. Licking his little fingers to re-plaster down his hair. Pushing his ill-fitting dorky-looking
+            glasses back into place. Then finally taking a deep breath and knocking on the door as the three of
+            us watched as Karen yanked the door open and just stood there for a second looking down at him
+            with an oddly suspicious look on her face.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Who the hell are you?!" She demanded. As the three of us giggled and Wing just stood there
+            nervously shuffling about.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ummmm ... Hello ..." He purposely tried to look confused while rummaging through the papers
+            on his clipboard. "Is this ..." Mumbling to himself and pretending like he couldn't read the name.
+            "Is this Bee ... Bee-something's room?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "You mean that dumb slut Beehive?" Karen answered slightly annoyed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ummmm ... yes, I believe so."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "No ... he's down the hall." Then paused and reconsidered that. "I mean ... 'they're' ...
+            <em>now using air quotes and rolling her eyes</em> ... down the hall."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ok. Thank you." He said now slowly turning around and gradually taking his first few steps down
+            the hallway.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Wait. Hold up." She said staring at him more suspiciously and eyeing him up and down. "Are you
+            the one from Jakarta trying to find Beehive's room to give them one of those new secret mystery
+            cards or whatever the hell they are?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He stopped. And turned back around. Eyeing her more closely while seemingly contemplating that
+            question. "Ummmm ... I'm not really supposed to answer that."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh, you are, huh?" Her expression now changed to one of more devilish intrigue as a smile crept
+            across her face and the little hamster started running in her brain. "I can tell by your uniform and
+            clipboard. Get in here, I wanna talk to you." Now opening the door for him.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He paused. Standing there for a second. Mulling it over. Then quickly scurried on in.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            The three of us watched as he got inside her room and then stopped somewhere between the
+            entryway and the bedroom area as she promptly shut the door behind her and walked over to the
+            foot of the bed and sat down on it patting the spot next to her.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Come here ... come sit down here next to me." She said patting the spot on the bed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He shuffled on over and sat down on the bed next to her noticing a mirror right across from him
+            – about eight-inches from where we'd be able to get the best angle to see them from his jacket
+            button camera – and asked her to scoot down a bit.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            She looked at him suspiciously.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Why?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ummmm ..." He thought about that. "It too lumpy here."</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            She didn't really seem to buy that. But obliged him nonetheless. And scooted down about eight
+            inches where they were both positioned right in front of the mirror and Wing's camera.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Then she turned to him.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ok ... you're the one from Jakarta with those new secret mystery cards, right?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Uh huh." He nodded his head up and down.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "And no one else knows you're here or who gets those cards, right?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Uh huh." He repeated.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Not even the people back in Jakarta? Or in this hotel? Because that Lakeisha girl said that no
+            one else here knows anything about this so no one else will know anything about this but us,
+            right?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yes, that correct."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ok, so what do I gotta do to get one of those cards from you?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He sat there. Wondering about that with his face all scrunched up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Have sex with me?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "What?!! No, you little pervert! I'm not having sex with you. Gross! Who the hell do you think
+            you are?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He pondered that a minute. Thinking about something else.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "What about blow-job?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ewwww!! Stop it. You're disgusting!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He sat there again. Thinking about something else now.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "How about hand-job?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Jesus H. Christ?! Are you frickin' kidding me?! What the hell's wrong with you you creepy
+            little fuck." Looking at him with her mouth all twisted-up and face grossed out. Then was about
+            to say something else when she paused and reconsidered it.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "How many secret mystery cards you got?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He looked at us in the mirror and smiled.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Eight."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Give me all eight and you got yourself a hand-job."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He turned back to her. "Two."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ahhh, hell no. Seven."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Three."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Six."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Four."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Five. Final offer." She said.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He paused.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ok, deal." Then started unzipping his pants.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ewwww!! Turn it off!! Turn it off!!" I yelled out while Olof and Lakeisha were falling out of
+            their chairs. "No way I'm watching that. No way!" I shouted out as Olof grabbed the remote and
+            quickly turned off the main monitor while almost hitting his head on the desk on his way to the
+            floor as the three of us just sat there in a state of disbelief. Or sweet relief.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh man, I can't believe he just did that." I said trying to unfreeze my eyes and process the whole
+            thing.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Man, that boy is too frickin' funny." Lakeisha said in hysterics.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh yeah, he crazy!" Olof added while trying to climb back into his chair as we all just sat there
+            trying to compose ourselves and take it all in. I mean that was pretty crazy. And something none of
+            us had really expected at all. Eyes still bugged out. Just sitting there trying to make sense</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p>of it all, realizing that Mama'san might have been right, he might have been a little pervert. But
+            a pretty damn funny one I'd give him that.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            I turned back to face them while also trying to pull it all together and figure out what we were
+            going to do next – and what our best course of action was – because we definitely didn't want to
+            watch Wing get that hand-job but we also didn't want to miss out what was going to happen next
+            when he went to Lil' Shmoogy's room. So we had a choice to make. And it was a tough one.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "You guys?" I said glancing back and forth between them and trying to figure out the pros and
+            cons of it all. "What are we gonna do now?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Olof turned back to me.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Well, we kinda have to put the monitor back on otherwise we won't know when he's done in
+            there?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Yeeaaaahhh ... but there's no way we can watch that. I mean there's no way."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Well ..." He conceded. "What if we just squint our eyes and don't focus on him? Would that
+            work?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Oh man, I don't know if I really trust that."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Well ... what if like every 30 seconds or so we quickly turn the monitor on and off to see if he's
+            done or not?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Hmmmm ..." I thought about that too. "That could work. But you'd have to be really fast. Like
+            lightning fast. Cause I think I read somewhere if you see an image for more than like half a second
+            it gets seared into your brain, like permanently."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Olof agreed that he'd read that somewhere too but Lakeisha just looked at us like we were a couple
+            of morons.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Why don't you guys just turn the hallway camera on and wait for him to come back outside?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            We both looked at each other – like a couple of morons – giggled. Cheers'd our beers. Then Olof
+            grabbed the remote and clicked on the 8th floor hallway monitor where we saw Wing already
+            standing outside in the hallway.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "What the hell?! ... He's done already? That was like 60 seconds." I said.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Damn that boy's fast." Lakeisha chuckled.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            We looked up at the monitor and saw Wing just standing outside in the hallway appearing to be
+            talking and giggling to us through his jacket lapel microphone. But Olof had already turned the
+            audio off so all we could see was him just standing there giggling for a few more seconds then
+            motioning for us to follow him down the hallway as he resumed shuffling his way down the hall
+            towards Lil' Shmoogy's room.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Olof then pulled the camera up from the other end of the hall and zoomed in as we watched him
+            now duck-waddling along. Happy as a clam. Fresh off a handie. Appearing to be whistling away,
+            not a care in the world, head bobbing up and down, side-to-side, then finally get in front of Lil'
+            Shmoogy's room and just stand there for a second, zip up his pants, and knock.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            We all took deep breaths as she opened up the door.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Who the fuck are you?!" She demanded, staring down at him as the three of us tried to choke
+            back a laugh. Wing possibly too.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ummmm ..." He purposely stopped, and hesitated, then looked back down at his clipboard while
+            rummaging through the papers. "Is this ... Karen ... the ... Karen's room?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "You mean that fucking racist white bitch?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ummmm ... yes." Wing replied.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "No. That bitch is a couple doors down."</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ok. Thank you." He said, then slowly started tip-toeing his way down the hall.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Wait. Hold up!" She called out to him as Wing stopped. Smiled. And looked up at the hallway
+            camera.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Are you the little fucker from Jakarta giving out those secret mystery cards or whatever the fuck
+            they are?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ummmm ..." He paused and turned back around to face her. "I'm not really supposed to answer
+            that."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Boy, don't get smart with me."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He just stood there. Not saying anything. While Lil' Shmoogy looked at him with even more
+            curiosity now. "Oh, you are, huh?" She said nodding her head up and down. "Get your ass in here
+            I wanna talk to you."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "But I'm not really supposed to go in people's rooms?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Boy, I ain't gonna ask you twice. Get your ass in here now!" She barked at him as he quickly
+            hurried on in and immediately went over and sat at the foot of the bed perfectly positioned in
+            front of the mirror.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Ok." She said walking over to him and standing right in front of him. "Whatta I gotta do to get
+            one of those cards from you?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He looked up at her with his big brown puppy dog eyes.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Have sex with me?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Boy, I would frickin' destroy you." She said shaking her head. "You couldn't handle this good
+            shit."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He contemplated that, probably realizing she was right.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "What about blow job?" He smiled as Lil' Shmoogy looked down on him while shaking her head.
+            "Puuuuuhleeeeeaze ... you pervy little fuck." Although appearing to be pondering that and mulling
+            it over.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "How many secret mystery cards you got?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Three." He grinned.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Gimme all three and you got yourself a blowjob."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Olof spit out his beer.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "I can't give you all three, I can only give you one."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Boy, you ain't getting no blow job for one lousy card. You gotta give me two of them cards for
+            a fucking blow job."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            He considered that a moment. "But I can only give out one card per person?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Jesus frickin' Christ boy. For one lousy card you ain't getting no blow job. For one lousy card
+            you're only getting a hand-job. So take those goddamn pants off and hurry the fuck up cause I
+            ain't got all day here."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            Wing looked in the mirror and started unzipping his pants.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>
+            "Turn it off!! Turn it off!!" I yelled out as Olof quickly changed the channel and fell out of his
+            chair again.</p>
+        </div>
+        <div class="modal-footer justify-content-center">
+          <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!-- Option 1: Bootstrap Bundle with Popper -->
   <script src="./js/jquery.min.js"></script>
