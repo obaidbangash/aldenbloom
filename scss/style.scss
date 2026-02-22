@@ -758,3 +758,33 @@ section {
     }
   }
 }
+
+// Scoped styles for the 6 new PDF modals — pixel-perfect match to source PDFs
+.pdf-new {
+  .modal-dialog {
+    max-width: 920px;
+  }
+
+  .a4-page {
+    width: 816px;
+    padding: 96px 82px;
+    min-height: 1056px;
+
+    @media only screen and (max-width: 991px) {
+      max-width: calc(100% - 40px) !important;
+      width: 100%;
+      padding: 30px 20px;
+    }
+
+    p {
+      margin-left: 0px;
+      letter-spacing: 0px;
+      line-height: 1.15;
+      font-size: 12pt !important;
+    }
+
+    p span[style*="margin-left: 18px"] {
+      margin-left: 36px !important;
+    }
+  }
+}

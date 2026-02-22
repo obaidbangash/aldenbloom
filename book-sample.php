@@ -2748,7 +2748,7 @@
 
 
   <!-- pdf 11 - Agus Big Dick Playa -->
-  <div class="modal fade pdf-modal" id="PDF_eleven" tabindex="-1" aria-labelledby="PDF_eleven_label" aria-hidden="true">
+  <div class="modal fade pdf-modal pdf-new" id="PDF_eleven" tabindex="-1" aria-labelledby="PDF_eleven_label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page">
@@ -2882,7 +2882,7 @@
   </div>
 
   <!-- pdf 12 - 4 Different Types of Hippies -->
-  <div class="modal fade pdf-modal" id="PDF_twelve" tabindex="-1" aria-labelledby="PDF_twelve_label" aria-hidden="true">
+  <div class="modal fade pdf-modal pdf-new" id="PDF_twelve" tabindex="-1" aria-labelledby="PDF_twelve_label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page">
@@ -2989,7 +2989,7 @@
 
   <!-- pdf 13 - Karen McCarron Life Coach -->
 <!-- Modal -->
-<div class="modal fade pdf-modal" id="PDF_thirteen" tabindex="-1" aria-labelledby="PDF_thirteen_label" aria-hidden="true">
+<div class="modal fade pdf-modal pdf-new" id="PDF_thirteen" tabindex="-1" aria-labelledby="PDF_thirteen_label" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-xl">
     <div class="modal-content a4-modal-content">
       <!-- Page 1 -->
@@ -3538,7 +3538,7 @@
   </div>
 </div>
   <!-- pdf 14 - Mekong and the Commies -->
-  <div class="modal fade pdf-modal" id="PDF_fourteen" tabindex="-1" aria-labelledby="PDF_fourteen_label" aria-hidden="true">
+  <div class="modal fade pdf-modal pdf-new" id="PDF_fourteen" tabindex="-1" aria-labelledby="PDF_fourteen_label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page">
@@ -3712,7 +3712,7 @@
 
   <!-- pdf 15 - The Big Four -->
   <!-- pdf 15 - The Big Four -->
-  <div class="modal fade pdf-modal" id="PDF_fifteen" tabindex="-1" aria-labelledby="PDF_fifteen_label" aria-hidden="true">
+  <div class="modal fade pdf-modal pdf-new" id="PDF_fifteen" tabindex="-1" aria-labelledby="PDF_fifteen_label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page">
@@ -3850,7 +3850,7 @@
   </div>
 
   <!-- pdf 16 - Wing-Wang Getting Handjobs -->
-  <div class="modal fade pdf-modal" id="PDF_sixteen" tabindex="-1" aria-labelledby="PDF_sixteen_label" aria-hidden="true">
+  <div class="modal fade pdf-modal pdf-new" id="PDF_sixteen" tabindex="-1" aria-labelledby="PDF_sixteen_label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page">
