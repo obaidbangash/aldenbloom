@@ -186,143 +186,52 @@
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page" style="width: 732px">
           <div class="image-title">
-            <h2 class="pdf-title" style="font-size: 20.5pt;letter-spacing:0px;">Lil’ Shmoogy</h2>
+            <h2 class="pdf-title" style="font-size: 20.5pt;letter-spacing:0px;">Lil' Shmoogy</h2>
             <img src="./images/character_3.jpeg" alt="icon">
           </div>
-          <h6 style="margin-top: 33.8px;">The Legend of Balinese DonMu – Book One (Part I of III) – Chapter 14</h6>
-          <p> <span style="margin-left: 18px;display: inline-block;"></span>
-            “... ok cool. But I will concede that a lot of people do use good causes for their own personal
-            gain which can oftentimes give the whole movement a bad look. And that’s exactly what this girl
-            has done. She’s sued every single company she’s ever worked for for racial discrimination and
-            sexual harassment when I know for a fact that wasn’t the case. And that’s why I want to bring
-            her into your ruse. To see justice done. Or karma. And make her see the other side of things and
-            walk a mile in those shoes. And stop giving good people – and good causes – such a bad look.”</p>
+          <h6 style="margin-top: 33.8px;">The Legend of Balinese DonMu – Book One (Part I of III) – Chapter 13</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"... ok cool. But I will concede that a lot of people do use good causes for their own personal gain which can oftentimes give the whole movement a bad look. And that's exactly what this girl has done. She's sued every single company she's ever worked for for racial discrimination and sexual harassment when I know for a fact that wasn't the case. And that's why I want to bring her into your ruse. To see justice done. Or karma. And make her see the other side of things and walk a mile in those shoes. And stop giving good people – and good causes – such a bad look."</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>I squinted my eyes at her.</p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>“So who is she Lakeisha? And is she here in
-            Bali?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, she’s here. Down in Canggu. And she doesn’t know me so it’s perfect. And her name is ... well she’s a
-            rapper now ... so her ‘stage name’ is ...”
-          </p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>“What stage name?” Wing interrupted.
-            <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Lakeisha hesitated. Trying to figure out how to answer that for him. “Well, you know how a
-            lot of rappers change their names into – ‘stage names’ – to create different personas for
-            themselves? Like Lil’ Kim, Megan Thee Stallion, Doja Cat, BootyChaaain, Gangsta Boo, Lil
-            Mama, Junglepussy, Lil Kimchii. Well ... I’m actually kinda embarrassed to say this, but this
-            girl’s name is Lil’ Shmoogy.”
-          </p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>“Lil’ Shmoogy?” I said. “That sounds kinda
-            racist?”</p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>“Yeah, no shit.” She answered. “But
-            technically the way she spells it isn’t racist. It’s just
-            close to an old racist word. And apparently she didn’t know it at the time and when she found out
-            about it, or someone told her, it was too late. She had already amassed a bunch of followers and
-            had her brand established and didn’t want to change it.”</p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>I sat there puzzled. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Wow. So she chose social-media followers and brand recognition over propagating racism?”
-            Olof spit out his drink.
-          </p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>“Yeah.” Lakeisha said. “I know. But again,
-            technically the way she spells it isn’t racist. The
-            word’s not in Webster’s but Urban Dictionary defines it as ... ‘a short, cuddly person who smells
-            nice’ ... and I think one of her boyfriends used to call her his ‘Lil’ Shmoogy’, so I think that’s
-            how it all started.”</p>
-
-          <p><span style="margin-left: 18px;display: inline-block;"></span>Wing then opened his laptop and started a
-            search. Pecking away at his keyboard. Scrolling
-            through some web pages.</p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>“Yup. Here it is.” He said staring at the
-            screen. “Urban Dictionary says... ‘a small cuddly
-            person, typically very lovable and nice smelling.’”</p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>Lakeisha then turned to him. “Now spell it
-            with a ‘w’ after the ‘Sh’”.
-            He resumed typing away. Clicking his little fingers. Mouth somewhat puckered. Then
-            stopped. And his eyes got wide. “Oooohhh, yeah ... now it racist.”</p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>“Yup.” She said shaking her head.</p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>I thought about that. Wondering about it all.
-            And how it actually went for Lil’ Shmoogy. And
-            wanted to be fair about it and walk a mile in her shoes like I did with Karen and the others. And
-            look at things from her perspective. Because I really did like a lot of those rapper names. They
-            were pretty awesome. And apparently she was called that name lovingly by her boyfriend, which</p>
-
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"So who is she Lakeisha? And is she here in Bali?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, she's here. Down in Canggu. And she doesn't know me so it's perfect. And her name is ... well she's a rapper now ... so her 'stage name' is ..."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What stage name?" Wing interrupted.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lakeisha hesitated. Trying to figure out how to best explain that to him.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Well, you know how a lot of rappers change their names into – stage names – to create different personas for themselves? Like Lil' Kim, Megan Thee Stallion, Doja Cat, BootyChaaain, Gangsta Boo, Lil Mama, Junglepussy, Lil Kimchii. Well ... I'm actually kinda embarrassed to say this, but this girl's name is Lil' Shmoogy."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Lil' Shmoogy?" I said. "That sounds kinda racist?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, no shit." She answered. "But technically the way she spells it isn't racist. It's just close to an old racist word. And apparently she didn't know it at the time and when she found out about it, or someone told her about it, it was too late. She'd already amassed a bunch of followers and had her brand established so didn't want to change it."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I sat there puzzled.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Wow, so she chose social-media followers and brand recognition over propagating racism?" Olof spit out his drink.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah." Lakeisha said. "I know. But again, technically the way she spells it isn't racist. The word's not in Webster's but Urban Dictionary defines it as ... 'a short, cuddly person who smells nice' ... and I think one of her boyfriends used to call her, his 'Lil' Shmoogy', so I think that's how it all started."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Wing then opened up his laptop and started a search. Poking away at his keyboard. Scrolling through some web pages. "Yup. Here it is." He said staring at the screen. "Urban Dictionary says... 'a small cuddly person, typically very lovable and nice smelling.'"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lakeisha then turned to him. "Now spell it with a 'w' after the 'Sh'".</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He resumed poking away. Clicking his little fingers. Mouth somewhat puckered up. Then stopped. And his eyes got wide. "Oooohhh, yeah ... now it racist."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yup." She said shaking her head.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I thought about that. Wondering about it all. And how it actually went for Lil' Shmoogy. And wanted to be fair about it all and walk a mile in her shoes like I did with Karen and the others. And look at things from her perspective. Because I really did like a lot of those rapper names. They were pretty awesome. And apparently she was called that name lovingly by her boyfriend, which made total sense for her to want to use it for her stage name. And then a year later, or whatever it was, someone came up to her and told her it was racist. I mean that's got to be a tough situation to find yourself in. When everything's going great, you're amassing a bunch of followers on Instagram, YouTube and TikTok, building your brand, getting name recognition, then all of a sudden someone comes up to you and says ...</p>
         </div>
         <div class="modal-body a4-page">
-          <p>made total sense for her to want to use it for her stage name. And then a year later, or whatever it
-            was, someone came up to her and told her it was racist. I mean that’s got to be a tough situation
-            to find yourself in. When everything’s going great, you’re amassing a bunch of followers on
-            Instagram, YouTube and TikTok, building your brand, getting name recognition, then all of a
-            sudden someone comes up to you and says ...</p>
-          <div class="italic">
-            <p><span style="margin-left: 18px;display: inline-block;"></span>“Hey, Lil’ Shmoogy?” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              And Lil’ Shmoogy peers back up from behind her dark sunglasses and tough no-nonsense
-              rapper persona.
-            </p>
-            <p><span style="margin-left: 18px;display: inline-block;"></span>“Yo. Sup.” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Did you know your stage-name is incredibly racist?” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              She then stops and wrinkles her brow. “Thaaaa fuck you talking ‘bout?” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Yeah, it sounds and is spelled incredibly-close to an old racist word that was used back in
-              the 70’s.”
-            </p>
-            <p>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              Now there’s some confusion. “Say whaaaat?” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Yeah, look it up.” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              Lil’ Shmoogy now gives off a slightly-annoyed look and opens up her laptop ... starts typing
-              away ... grumbling under her breath. Then stops. And her eyes get wide.
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Muthafuckin’ whaaaaattt?!” Expression now changing. “Goddammit!!” Slamming the top
-              of her laptop back down. “How tha’ fuck am I supposed to know every racist word these
-              cracka’s been calling us for centuries?!”
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Yeah, you should probably change it since you don’t want to be propagating that kind of
-              racist stereotype?” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Fuck yeah, I’m gonna change it! Don’t want these cracka’s thinking I’m some kind of joke
-              or something like that. Fuuuuuuuck that shit!” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Yeah, I agree. And this can be a great way to start over again and re-brand and re-build.”
-              <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              Lil’ Shmoogy now scrunches her face up. <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “What the fuck you talking about re-brand and re-build?” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Well, you’re going to have to delete all your social media accounts and start over again
-              since you don’t want your current racist name up there.” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “But what about all my followers, branding and merchandise?” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Well, that’s part of the beauty of starting over.” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “So, I lose ‘em all?” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Yup.” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Fuuuuuuuuuuck that shit!! I got a shit-ton of followers on Insta and a garage full of t-shirts
-              I’m trying to sell. What am I supposed to do just throw ‘em away?” <br>
-            </p>
-            <p>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “But what about combating racism and people thinking you’re some kind of joke?” <br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Well, what the fuck are they gonna think if I change it now?! They’ll think I’m some kind of
-              dumbass who didn’t know it was racist and had to change it. And what the fuck will that say
-              about me? Probably something worse. So, fuuuuuck that shit. I’m sticking with my original
-              name. No one knows or uses that word anyway, so fuck it. I’m going Ride or Die with that shit.”<br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Google me bitch, it ain’t racist!”
-
-            </p>
-          </div>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>"Hey, Lil' Shmoogy?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>And Lil' Shmoogy peers back up from behind her dark sunglasses and tough no-nonsense rapper persona.</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Yo. Sup."</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Did you know your stage-name is incredibly racist?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>She then stops and wrinkles her brow. "Thaaaa fuck you talking 'bout?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, it sounds and is spelled incredibly-close to an old racist word that was used back in the 70's."</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>Now there's some confusion. "Say whaaaat?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, look it up."</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>Lil' Shmoogy now gives off a slightly-annoyed look and opens up her laptop ... typing away ... grumbling under her breath. Then stops. And her eyes get wide.</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Muthafuckin' whaaaaattt?!" Expression now changing. "Goddammit!!" Slamming the top of her laptop back down. "How tha' fuck am I supposed to know every racist word these goddamn cracka's been calling us for centuries?!"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, you should probably change it since you don't want to be propagating that kind of racist stereotype?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Fuck yeah, I'm gonna change it! Don't want these cracka's thinking I'm some kind of joke or something like that. Fuuuuuuuck that shit!"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, I agree. And this can be a great way to start over again and re-brand and re-build."</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>Lil' Shmoogy now scrunches her face up.</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"What the fuck you talking about re-brand and re-build?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Well, you're going to have to delete all your social media accounts and start over again cause you don't want your current racist name up there."</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"But what about all my followers, branding and merchandise?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Well, that's part of the beauty of starting over."</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"So, I lose 'em all?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Yup."</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Fuuuuuuuuuuck that shit!! I got a shit-ton of followers on Insta and a garage full of t-shirts I'm trying to sell. What am I supposed to do just throw 'em away?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"But what about combating racism and people thinking you're some kind of joke?"</em></p>
+          <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Well, what the fuck are they gonna think if I change it now?! They'll think I'm some kind of dumbass who didn't know it was racist and had to change it. And what the fuck will that say about me? Probably something worse. So, fuuuuuck that shit. I'm sticking with my original name. No one knows or uses that word anyway, so fuck it. I'm going Ride or Die with that shit ... Google me bitch, it ain't racist!"</em></p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
@@ -337,141 +246,40 @@
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page">
           <div class="image-title">
-            <h2 class="pdf-title" style="letter-spacing:0.9px ;    margin-top: 30px;">LC Thailand Story</h2>
+            <h2 class="pdf-title" style="letter-spacing:0.9px; margin-top: 30px;">LC Thailand Story</h2>
             <img src="./images/character_10.jpeg" alt="icon" style="max-width: 300px">
           </div>
-          <h6>The Legend of Balinese DonMu – Book One (Part I of III) – Chapter 11</h6>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span> “... but they’re both such sweethearts. And
-            really helped me out a lot when I first got here.
-            Olof’s been like a big brother to me always looking out for me and protecting me. And the Lil’
-            Winger’s just my really good friend. Who also looks out for me and protects me. I mean when I
-            first got here I was pretty messed up. I still had lingering issues from all the drugs and hormones
-            they put into my body.”
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Huh?” I said looking at them rather confused. Staring at them with my head half-cocked to
-            the side and face all scrunched up.
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            LC now looked at me with a new expression on their face. One that was a bit more reflective
-            and revealing. Appearing to be a bit more serious now.
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “My family was really poor growing up in northern Thailand and my father sold me into sex
-            slavery when I was 14yrs old ... <i>Holy crap!</i> ... and I was taken down to Bangkok in a van for
-            breast augmentation surgery, hormone treatments, puberty blockers and all that other stuff to
-            become a Ladyboy.”
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            <i>Oh my frickin’ God.</i> My jaw went to the floor. I didn’t know what to say. <i>Jesus H. Christ.
-              How do you respond to something like that?</i>
-          </p>
-
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh my God, that’s frickin’ horrible!” I said with my eyes wide open. “I’m so sorry that
-            happened to you. Jesus H. Christ. Who the hell would do that to their own child?”
-          </p>
-
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>“Yeah, thanks.” She answered. “For saying
-            that. But it’s ok ... I mean ... it was pretty rough
-            at first, but I’m actually a lot better now ... I’ve actually had some great support around here so
-            that’s been a huge help.”
-          </p>
-          <p>
-
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            I just sat there dumbfounded. Shocked. Horrified to hear that. I mean I knew sex-trafficking
-            and sex-slavery existed in the world – unfortunately in many, many places – as I’d certainly
-            heard quite a few stories about it. But this was probably the worst one I’d ever heard. Where they
-            would literally buy-up young boys from poor farming villages in northern Thailand and then take
-            them down to Bangkok to turn into Ladyboys. It’s literally the worst thing I’ve ever heard before
-            in my life. And couldn’t even imagine having to go through something like that myself. And
-            tried to put myself in LC’s shoes. To see their side of things. And their perspective. Of being a
-            poor little boy out there in the rural parts of Thailand. Out in the farms and fields. Playing around
-            with my friends. Having a good time. Then all of a sudden one of your friends looks up and out
-            in the distance, gives off a puzzled expression, and says, “Dude, what’s that?”
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            And you look out there too. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What’s what?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Is that your Dad down there talking to the weird guy in the panel van and holding a bunch of
-            cash?”
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            And you squint down there harder. “Yeeaaaah.” Getting a bit confused. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ooooohhhh shit, dude ... Ooohhhh shit!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            And your eyes widen. “Oh shit, what? What do you mean oh shit?!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh dude, you’re fucked!!!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Huh?! What are you talking about?!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-
-          </p>
-
+          <h6>The Legend of Balinese DonMu – Book One (Part I of III) – Chapter 10</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"... but they're both such sweethearts and really helped me out a lot when I first got here. Olof's been like a big brother to me always looking out for me and protecting me while the Lil' Winger's just my really good friend who also looks out for me and protects me. I mean when I first got here, I was still pretty messed up, I still had a lot of lingering issues from all the drugs and hormones they'd put into my body."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Huh?" I said looking at them confused, staring right at them with my head half-cocked to the side and face all scrunched up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>LC now gave me a new expression back. One that was a bit more reflective and revealing. Appearing to be a bit more serious now.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"My family was really poor growing up in northern Thailand and my father sold me into sex slavery when I was 14yrs old ... <em>Holy crap!</em> ... and I was taken down to Bangkok in a van for breast augmentation surgery, hormone treatments, puberty blockers and all that other stuff to become a Ladyboy."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh my frickin' God.</em> My jaw went to the floor. I didn't know what to say. <em>Jesus H. Christ, how do you respond to something like that?</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh my God, that's frickin' horrible!" I said with my eyes wide open. "I'm so sorry that happened to you. Jesus H. Christ, who the hell would do that to their own child?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, thanks." She answered back. "But it's ok ... I mean ... it was pretty rough at first but I've actually had some really great support around here so that's been a huge help."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I just sat there dumbfounded. Shocked. Horrified to hear that. I mean I knew sex-trafficking and sex-slavery existed in the world – unfortunately in many, many places – as I'd certainly heard quite a few stories about it. But this was probably the worst one I'd ever heard. Where they would literally buy-up young boys from poor farming villages in northern Thailand to take down to Bangkok to turn into Ladyboys. It's literally the worst thing I've ever heard before in my life. And I couldn't even imagine having to go through something like that myself. And tried to put myself in LC's shoes. To see their side of things. And their perspective of being a poor little boy out there in the rural parts of Thailand. Out in the farms and fields. Playing around with my friends. Having a good time. Then all of a sudden one of your friends looks out in the distance, gives off a puzzled expression, and says, "Dude, what's that?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>And you look out there too.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What's what?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Is that your Dad down there talking to the weird guy in the panel van and holding a bunch of cash?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>And you squint down there too. "Yeeaaaah." Getting a bit confused.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ooooohhhhh shit, dude ... Ooohhhhh shit!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>And your eyes get wide. "Oh shit what? What do you mean oh shit?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh dude, you're fucked!!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Huh?! What are you talking about?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh dude, you're fucked. You are so fucked. And now your dad is pointing up here at you. Oh shit, you are so fucked dude!!"</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh dude, you’re fucked. You are so fucked. And now your dad is pointing up here at you.
-            Oh shit, you’re so fucked dude!!”
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            And you look at him even more bewildered and nervous now. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What do you mean I’m so fucked?!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “That’s the Tran-Van!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “The what?!” <br>
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “The Tran-Van from Bangkok. The van that drives all around northern Thailand buying up
-            little boys and taking them down to Bangkok to turn into Ladyboys. Your dad just sold you to
-            the trannie factory dude! He just totally fucked you. Your dad just totally fucked you! Now
-            they’re going to inject you with hormones, slap some fake tits on you, and let old white men
-            bang you for money!”
-          </p>
-
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Now your eyes get really wide. “Wait, whaaaattt?!?!” Getting completely panicked. “I don’t
-            want old white men to bang me for money!”
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, no shit dude! And you probably won’t even get a cut of that either ... not to mention
-            you’re not even gay!”
-          </p>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Now your eyes get completely wide. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh, Dude!! RUN!! RUN!!!!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            That stuff really happens. And it’s barbaric. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Thankfully there are many great organizations in Thailand you can donate to that are really
-            doing a tremendous job of helping curb this criminal and horrific problem. Such as the Hands of
-            Hope Foundation, the HUG Project, and Destiny Rescue. (hohfoundation.org, hugproject.org,
-            destinyrescue.org). Where every single dollar really does help and does make a difference. And
-            might just help balance out any horrible karma you might have. Who knows?
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>And you look at him even more bewildered and nervous now.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"What do you mean I'm so fucked?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"That's the Tran-Van!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"The what?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"The Tran-Van from Bangkok. The van that drives all around northern Thailand buying up little boys and taking them down to Bangkok to turn into Ladyboys. Your dad just sold you to the trannie factory dude! He just totally fucked you. Your dad just totally fucked you! Now they're going to inject you with hormones, slap some fake tits on you, and let old white men bang you for money!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Now your eyes get really wide. "Wait, whaaaattt?!?!" Getting completely panicked. "I don't want old white men to bang me for money!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, no shit dude! And you probably won't even get a cut of that either ... not to mention you're not even gay!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Now your eyes get completely wide.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, Dude!! RUN!! RUN!!!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>That stuff really happens. And it's barbaric.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Thankfully there are many great organizations in Thailand you can donate to that are really doing a tremendous job of helping curb this criminal and horrific problem. Such as the Hands of Hope Foundation, the HUG Project, and Destiny Rescue. (hohfoundation.org, hugproject.org, destinyrescue.org). Where every single dollar does really help and make a difference. And might just help balance out any horrible karma you might have. Who knows?</p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
@@ -480,358 +288,108 @@
     </div>
   </div>
 
-  <style>
-    .pdf-text P {
-      margin-left: 5px;
-      letter-spacing: 0px;
-      /* line-height: 1.28; */
-      line-height: 1.45;
-      font-size: 12.5pt !important;
-    }
-  </style>
   <!-- pdf 3 -->
   <div class="modal fade pdf-modal " id="PDF_three" tabindex="-1" aria-labelledby="PDF_three_label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page pdf-text" style="max-width: 728px;">
           <div class="image-title">
-            <h2 class="pdf-title" style="font-size: 20.5pt;letter-spacing:0px;">Mama’san</h2>
+            <h2 class="pdf-title" style="font-size: 20.5pt;letter-spacing:0px;">Mama'san</h2>
             <img src="./images/character_1_new.png" alt="icon">
           </div>
-          <h6 style="margin-top: 36.8px;font-size: 11.8pt;margin-bottom: 36.5px;">The Legend of Balinese DonMu – Book
-            One (Part I of III) – Chapter 9</h6>
-          <p> <span style="margin-left: 18px;"></span> Mama’san was born in North Korea. And when she was about 12yrs
-            old her family tried to
-            escape and defect to South Korea. But were caught. And her parents killed. However, she was
-            spared because of her great beauty. <i>Though Olof said he didn’t really understand that one at all.</i>
-            And she was placed in an apprenticeship in the state-run erotic massage parlor to learn the ways
-            of the Geisha. Though not a Japanese Geisha like you’d expect. But a North Korean Geisha. Big
-            difference apparently.
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            She quickly rose through the ranks and became one of the top erotic massage girls there
-            inventing something called the ‘Iron Claw’ – and the Not-So-Happy Ending. Developing quite
-            the reputation for her skills. With it even being rumored that she not only gave erotic massages to
-            all the North Korean Great Leaders, but also to Chinese Chairman Mao Zedong, Fidel Castro,
-            Pol Pot, Khadafi, son of Stalin, and numerous other Russian and Communist dignitaries from
-            around the world. She was that sough-after.
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            Mama’san worked there for the next 40yrs honing her skills and developing her craft, getting
-            men to divulge their deepest darkest secrets until one day a wealthy Indonesian businessman
-            arrived and fell in love with her, and she him, and he hired a team of mercenaries to have her
-            smuggled out of North Korea. But for a price that would essentially bankrupt him.
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            Though alas, it was not meant to be, as he died from a heart attack only a week later. With
-            some saying it was because her love was too strong others from an Iron Claw gone awry. But
-            either way she was then left all alone and penniless and vowed never to be dependent on another
-            man again. And was determined to make her own way – and help other less-fortunate girls as
-            well – as she was helped herself.
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            She then moved to Bali and opened-up the massage parlor we see here. Ladybugs. With the
-            Mudbug Mansion behind it. Connected in between by the pool/grotto area where Olof and Wing
-            float around on their pizza-slice pool-floaties, drinking beer, and getting massages ... probably
-            with Plus-Plus. And she trains each and every girl in the ways of the North Korean erotic
-            massage, the Iron Claw, and the delicate art of forbidden pleasure. With the girls coming in as
-            Mudbugs and then transforming into Ladybugs by the time they are done with her rigorous
-            training program.
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            I asked Mama’san once what she thought about calling her girls ‘Mudbugs’ since the term
-            might be considered offensive to some. And the response I got back was rather startling.
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            <i>
-              “What you talk about?! They are Mudbugs! I pull them out of Mud. Fields. Farms. Streets.
-              Covid pandemic crush them. They have nothing. No families. No jobs. No education. I give them
-              opportunity. Way to make money. You think it easy for young girl in Indonesia to make money?
-              And have future? When men keep them down all time?”
-            </i>
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            <i>Hmmmm ...</i> She did have a point.
-          </p>
-          <p style=" font-style: italic;"> <span style="margin-left: 18px;"></span>
-            “Indonesia is big patriarchy. No opportunity. But Mama’san know how to get back at men.
-            Get revenge. Men so stupid. Always think with wing-wang. Easy to manipulate. And take money
-            from. Then women come back out on top. And take over. Teach dumb men lesson. Women
-            smarter. But young girls need Mama’san teach them that. Take them from Mudbug to Ladybug.
-            And overthrow patriarchy.”
-          </p>
+          <h6 style="margin-top: 36.8px;font-size: 11.8pt;margin-bottom: 36.5px;">The Legend of Balinese DonMu – Book One (Part I of III) – Chapter 8</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san was born in North Korea. And when she was about 12yrs old her family tried to escape and defect to South Korea – but were caught – and her parents killed. However, she was spared because of her great beauty. <em>Though Olof said he didn't really understand that one at all.</em> And she was placed in an apprenticeship in the state-run erotic massage parlor to learn the ways of the Geisha – though not a Japanese Geisha like you'd expect – but a North Korean Geisha. Big difference apparently.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She quickly rose up through the ranks and became one of the top erotic massage girls there inventing something called the 'Iron Claw' – and the Not-So-Happy Ending. Developing quite the reputation for her skills. With it even being rumored that she not only gave erotic massages to all the North Korean Great Leaders, but also to Chinese Chairman Mao Zedong, Fidel Castro, Pol Pot, Khadafi, son of Stalin, and numerous other Russian and Communist dignitaries from around the world. She was that sough-after.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san worked there for the next 40yrs honing her skills and developing her craft, and getting men to divulge their deepest darkest secrets until one day a wealthy Indonesian businessman arrived and fell in love with her, and she him, and he hired a team of mercenaries to smuggle her out of North Korea. But for a price that would essentially bankrupt him.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Though alas, it was not meant to be, as he died from a heart attack only a week later. With some saying it was because her love was too strong, others from an Iron Claw gone awry. But either way she was then left all alone and penniless and vowed never to be dependent on another man again. And was determined to make her own way – and help other less-fortunate girls as well – as she was helped herself.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She then moved to Bali and opened-up the massage parlor we see here. Ladybugs. With the Mudbug Mansion behind it. Connected in between by the pool/grotto area where Olof and Wing float around on their pizza-slice pool-floaties, drinking beer, and getting massages … probably with Plus-Plus. And she trains each and every girl in the ways of the North Korean erotic massage, the Iron Claw, and the delicate art of forbidden pleasure. With the girls coming in as Mudbugs and then transforming into Ladybugs by the time they are done with her rigorous training program.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I asked Mama'san once what she thought about calling her girls 'Mudbugs' since the term might be considered offensive to some. And the response I got back was rather startling.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>"What you talk about?!! They are Mudbugs! I pull them out of Mud. Fields. Farms. Streets. Covid pandemic crush them. They have nothing. No families. No jobs. No education. I give them opportunity. Way to make money. You think it easy for young girl in Indonesia to make money? And have future? When men keep them down all time?"</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Hmmmm … she did have a point.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>"Indonesia is big patriarchy. No opportunity. But Mama'san know how to get back at men. Get revenge. Men so stupid. Always think with wing-wang. Easy to manipulate. And take money from. Then women come back on top. And take over. Teach dumb men lesson. Women smarter. But young girls need Mama'san teach them that. Take them from Mudbug to Ladybug. And overthrow patriarchy."</em></p>
         </div>
         <div class="modal-body a4-page" style="max-width: 728px;">
-          <p> <span style="margin-left: 18px;"></span>
-            I couldn’t really argue with that. And there was no way I was going to. She might just Iron
-            Claw me. So I just smiled and agreed with her. For some reason she liked me – kind of like Olof
-            – and I wanted to keep it that way. Plus she didn’t seem like the type of person you’d want to get
-            on your bad side. And truth be told, I really did think she cared for her girls there – and those
-            close to her – no matter how she showed it.
-          </p>
-          <p> <span style="margin-left: 18px;"></span>I continued to sit there on my lounge chair as Olof told me more
-            about Mama’san. Her
-            backstory. Who she was. What she did. Why she did it. With me getting the sense that he might
-            not have even known the whole story himself. And might have gotten bits and pieces from here
-            and there. Possibly from the girls working there. Possibly from other sources as well. As it still
-            seemed somewhat vague and mysterious. When all of a sudden. As if perfectly on cue. The set of
-            giant double doors came bursting open. With a thunderous roar.</p>
-
-          <p> <span style="margin-left: 18px;"></span>
-            And there she was ... <br>
-            <span style="margin-left: 18px;"></span>
-            Mama’san. <br>
-            <span style="margin-left: 18px;"></span>“Oloooffff!!” She roared out. Sending the Babybugs flying all over
-            the place and knocking
-            Olof off his pizza-slice pool floatie as she just stood there flanked on either side of her by the
-            same two twin-Trainee girls from before. Looking like exact miniature clones of hers. Only in
-            white medical lab coats. <br>
-            <span style="margin-left: 18px;"></span>
-            “Where my moneeeyyy?!!” <br>
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            The cry almost knocked me off my lounge chair as well. It was that alarming. As I quickly
-            placed my hand on the ground to brace my fall, then glanced back up to catch my first glimpse of
-            this puzzling North Korean matriarchal figure.
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            And the sight alone was rather impressive. <br>
-            <span style="margin-left: 18px;"></span>
-            Mama’san looked like a North Korean Hugh Hefner. Only much angrier. With all the robes
-            and scarves that ‘Ol Hugh used to wear but in all black, with pink cherry-blossom inlays running
-            down the sides and sleeves. And not even close to as warm and smiling as ‘ol Hef used to be.
-            She was angrier. Gruffer. More inconvenienced. Yet surprisingly regal. Like she was always
-            posing for great portrait. Stoic and determined. Stern and watchful.
-          </p>
-          <p> <span style="margin-left: 18px;"></span>
-            Olof quickly bolted back-up out of the water trying to catch his breath. <br>
-            <span style="margin-left: 18px;"></span>
-            The Babybugs were long gone. <br>
-            <span style="margin-left: 18px;"></span>
-            “Jesus Mama’san.” He said coughing up some pool water. “You gotta stop doing that. I mean
-            every single time ...”
-          </p>
-          <p>
-            <span style="margin-left: 18px;"></span>
-            She just stood there. Surveying the scene. Hands on her hips. Defiantly. Like an angry Geisha.
-            Or an old North Korean gunslinger. <br>
-            <span style="margin-left: 18px;"></span>
-            Somewhat short and squat, she was maybe about 5’ 6”, but rock solid. With oversized glasses
-            on her face and hair up in a bun. And two iron chopsticks running through the back of it. Giving
-            her an incredibly bold and stately look. Tough but fair. With her two little twin-Trainees flanked
-            on either side of her. Hands also on their hips. Boldly surveying the scene as well. Matching her
-            every mood and demeanor. <br>
-            <span style="margin-left: 18px;"></span>
-            She then let out a low-guttural squawking sound that didn’t make any sense to me now. But
-            later would. <br>
-            <span style="margin-left: 18px;"></span>
-            It was her signature call. <br>
-            <span style="margin-left: 18px;"></span>
-            “Mmmmmwuuaaack!!” <br>
-            <span style="margin-left: 18px;"></span>
-            It was the sound I imagined an angry parrot would make. An angry North Korean parrot. That
-            she used to communicate with her two Trainee baby parrots and the other Babybugs, Ladybugs and Ladyboys
-            around the Mansion. A combination of Mmmmm’s and squawks, with various-
-            length grunts. It was a strange sound but for some reason made sense coming from her.
-          </p>
-
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I couldn't really argue with that. And there was no way I was going to. She might just Iron Claw me. So I just smiled and agreed with her. For some reason she liked me – kind of like Olof – and I wanted to keep it that way. Plus she didn't seem like the type of person you'd want to get on your bad side. And truth be told, I really did think she cared for her girls there – and those close to her – no matter how she showed it.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I continued to sit there on my lounge chair as Olof told me more about Mama'san and her story. Like who she was … what she did … why she did it. With me getting the sense that he might not have even known the whole story himself. And might have got bits and pieces from here and there. Possibly from the girls working there. Possibly from other sources as well. As it still seemed somewhat vague and mysterious. When all of a sudden. As if perfectly on cue. The set of giant double doors came bursting open with a thunderous roar.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>And there she was …</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oloooffff!!" She roared out, sending the Babybugs flying all over the place and knocking Olof off his pizza-slice pool floatie as she just stood there flanked on either side by the same two twin-Trainee girls from before. Looking like exact miniature clones of hers. Only in white medical lab coats.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Where my moneeeyyy?!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>The cry almost knocked me off my lounge chair as well. It was that alarming. As I quickly placed my hand on the ground to brace my fall, then glanced up to catch my first glimpse of this puzzling North Korean matriarchal figure.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>And the sight alone was rather impressive.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san looked kinda like a North Korean Hugh Hefner. Only much angrier. With all the robes and scarves that 'Ol Hugh used to wear but in all black, with pink cherry-blossom inlays running down the sides and sleeves. And not even close to as warm and smiling as 'ol Hef used to be. She was much angrier. Gruffer. More inconvenienced. Yet surprisingly regal. Like she was always posing for great portrait. Stoic and determined. Stern and watchful.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Olof then quickly bolted back-up out of the water trying to catch his breath.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>The Babybugs were long gone.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Jesus Mama'san." He said coughing up some pool water. "You gotta stop doing that. I mean every single time …"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She just stood there. Surveying the scene. Hands on her hips. Defiantly. Like an angry Geisha. Or an old North Korean gunslinger.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She was somewhat short and squat, maybe about 5' 6", but rock solid. With oversized glasses on her face and her hair up in a bun, and two iron chopsticks running through the back of it. Giving off an incredibly bold and stately look. Tough but fair. With her two little twin-Trainees flanked on either side of her. Hands also on their hips. Boldly surveying the scene as well. Matching her every mood and expression.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She then let out a low-guttural squawking sound that didn't make any sense to me now. But later would.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>It was her signature call.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"<em>Mmmmmm</em>wuuaaack!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>It was the sound I imagined an angry parrot would make. An angry North Korean parrot. That she used to communicate with her two Trainee baby parrots and the other Babybugs, Ladybugs and Ladyboys around the Mansion. A combination of <em>Mmmmmm</em>'s and squawks with various-length grunts. It was a strange sound but for some reason made sense coming from her.</p>
         </div>
         <div class="modal-body a4-page" style="max-width: 728px;">
-          <p>
-            <span style="margin-left: 18px;"></span>
-            Olof finally climbed back onto his pizza-slice pool-floatie and looked back over at her almost
-            exasperated. “Jesus, Mama’san. I already did pay you.” <br>
-            <span style="margin-left: 18px;"></span>
-            “You pay last month! You no pay this month!” She loudly squawked back. <br>
-            <span style="margin-left: 18px;"></span>
-            He groaned. “What you talking about. I pay you every month. You have my credit card on file
-            here. All you have to do is charge it.” <br>
-            <span style="margin-left: 18px;"></span>
-            She paused. And considered that. Then grunted again – or squawked – it was hard to tell with
-            her. It was just a prolonged ... <i>Mmmmmm </i>... sound she made while thinking things over.
-            <br>
-            <span style="margin-left: 18px;"></span>
-            “That thing broken! Wing-Wang no fix yet!”
-          </p>
-          <p>
-            <span style="margin-left: 18px;"></span>
-            Something then caught my eye and I glanced over and noticed a small figure lurking, or
-            hiding, behind a giant potted plant. With his eyes darting furtively about. He looked like a little
-            12yr old Chinese boy. And I assumed it must be Wing. <br>
-            <span style="margin-left: 18px;"></span>
-            He then looked at me and put his finger to his lips. Instructing me not to alert Mama’san or
-            anyone else there to his presence. So I squinted my eyes back at him and nodded my head along
-            in agreement. <br>
-            <span style="margin-left: 18px;"></span>
-            Olof then replied back to her. “It’s not broken. You just no know how to use it.” <br>
-            <span style="margin-left: 18px;"></span>
-            She contemplated that. And gave off another low ‘Mmmmm ...’ sound. And her two little
-            baby parrots, or Trainees, looked up at her – as if for instruction – then looked back at Olof and
-            gave off similar low ‘Mmmmmm ...’ sounds too. <br>
-            <span style="margin-left: 18px;"></span>
-            She then noticed me. And her face queried up. <br>
-            <span style="margin-left: 18px;"></span>
-            “Who you?!” She demanded. <br>
-            <span style="margin-left: 18px;"></span>
-            I froze. <br>
-            <span style="margin-left: 18px;"></span>
-            She had a formidable presence Mama’san did. Intimidating. Frightening. I was now incredibly
-            nervous. And didn’t know quite what to say. <br>
-            <span style="margin-left: 18px;"></span>
-            Thankfully though, Olof intervened. <br>
-            <span style="margin-left: 18px;"></span>
-            “Mama’san, this is Jeff. He is here to talk some business with me.” <br>
-            <span style="margin-left: 18px;"></span>
-            <i> Phew.</i> <br>
-            <span style="padding-left: 18px;"></span>
-            She continued to stare at me. Giving off a curious yet puzzled look. Eyeing me up and down.
-            Trying to make sense of it all. Then a very strange thing happened. One that I did not expect at
-            all. Her voice and demeanor all of a sudden changed. A hundred times for the better.
-          </p>
-          <p>
-            <span style="margin-left: 18px;"></span>
-            “Oh, Mr. Jeeeeeffff.” She now purred. Drawing her words out all erotic and sweet. “How are
-            yooouuuu?” Beginning to move her body around like a dance. A seductive North Korean dance.
-            “You so handsome ... with big muscles.” Saying very flirtingly. <br>
-            <span style="margin-left: 18px;"></span>
-            She was no longer angry. She was now sexual and provocative. Sensual and charming.
-            Presumably trying to seduce me. Since I assumed the art of seduction was probably deep in her
-            North Korean bones. <br>
-            <span style="margin-left: 18px;"></span>
-            I just smiled back at her. Almost blushing. “Oh, hello Mama’san. It’s so very nice to meet
-            you. I really love your place here. It’s so beautiful.” <br>
-            <span style="margin-left: 18px;"></span>
-            “Ohhhh ... thank you Mr. Jeff. You soooo poliiiite.” She drew out longingly while totally big-
-            eyeing me. “You want massaaaaaage Mr. Jeff? We have many massages here. With both
-            <span style="margin-left: 18px;"></span>
-            Mudbugs and Ladybugs. But Ladybugs much better.” <br>
-            <span style="margin-left: 18px;"></span>
-            I blushed again. “Oh, no thank you Mama’san. I really appreciate the offer but I’m all good. I
-            just need to speak with Olof real quick and then get back to my villa.” <br>
-            <span style="margin-left: 18px;"></span>
-            She now stopped and scrunched her face up. Looking confused. Almost sad. “But why no
-            massaaaaage?” Now disappointed with a little frown on her face. “What wrong? We have many
-            massages here. Single lava flow massage, double volcano massage, and triple Mudbug Firestorm
-            massage. Which one you want?”
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Olof finally climbed back onto his pizza-slice pool-floatie and looked back at her almost exasperated. "Jesus, Mama'san. I already did pay you."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You pay last month! You no pay this month!" She loudly squawked back.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He groaned. "What you talking about. I pay you every month. You have my credit card on file here. All you have to do is charge it."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She paused. And considered that. Then grunted again – or squawked – it was hard to tell with her. It was just a prolonged … <em>Mmmmmm</em> … sound she made while thinking things over.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"That thing broken! Wing-Wang no fix yet!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Something then caught my eye and I glanced over and saw a small figure lurking, or hiding, behind a giant potted plant with his eyes darting furtively about. He looked like a little 12yr old Chinese boy, and I assumed it must be Wing.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He then put his finger to his lips instructing me not to alert Mama'san or anyone else there to his presence. So I squinted my eyes back at him and nodded my head along in agreement.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Olof then replied back to Mama'san.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"It's not broken … you just don't know how to use it."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She contemplated that. And gave off another '<em>Mmmmm</em> …' sound. While her two little baby parrots, or Trainees, looked up at her – as if for instruction – then looked back at Olof and gave off similar '<em>Mmmmmm</em> …' sounds as well.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She then noticed me. And her face queried up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Who you?!!" She demanded.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I froze.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She had a formidable presence, Mama'san did. Intimidating. Frightening. I was now incredibly nervous and didn't know quite what to say.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Thankfully, Olof intervened.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mama'san, this is Jeff. He's here to talk some business with me."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Phew.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She continued to stare at me. Giving off a curious yet puzzled look. Eyeing me up and down. Trying to make sense of it all. Then a very strange thing happened – one which I did not expect at all – her voice and demeanor all of a sudden changed. A hundred times for the better.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, Mr. Jeeeeeffff." She now purred. Drawing her words out all erotic and sweet. "How are yooouuuu?" Moving her body around like a dance. A seductive North Korean dance. "You so handsome … with big muscles." Saying very flirtingly.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She was no longer angry. She was now sensual and sweet. Sexual and charming. Presumably trying to seduce me. Since I assumed the art of seduction was probably deep in her North Korean bones.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I just smiled back at her. Almost blushing. "Oh, hello Mama'san. It's so very nice to meet you. I really love your place here. It's so beautiful."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ohhhh, Mr. Jeff. Thank you, you soooo poliiiite." She drew out longingly while totally big-eyeing me. "You want massaaaaaage Mr. Jeff? We have many massages here. With both Mudbugs and Ladybugs. But Ladybugs much better."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I blushed again. "Oh, no thank you Mama'san. I really appreciate your offer but I'm all good. I just need to speak with Olof real quick and then get back home to my villa."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She now stopped and scrunched her face up. Looking confused. Almost sad. "But why no massaaaaage?" Now disappointed with a little frown on her face. "What wrong? We have many massages here. Single lava flow massage, double volcano massage, and triple Mudbug Firestorm massage. Which one you want?"</p>
         </div>
         <div class="modal-body a4-page" style="max-width: 728px;">
-          <p>
-            <i style="padding-left: 18px;">Triple Mudbug Firestorm massage?</i> Hmmmm ... that did sound kinda
-            interesting. <br>
-            <span style="padding-left: 18px;"></span>
-            Then thought about Indah, and the ruse, and the work I had to do here. And tried to figure out
-            the best thing I could say without upsetting her. Since she did seem pretty intent on me getting
-            some kind of massage. And I certainly didn’t want to upset her. So this was a tough one. And
-            figured maybe I could just tell her I was gay? Maybe that would work? So decided to give it a
-            shot.
-          </p>
-          <p>
-            <span style="padding-left: 18px;"></span>
-            “Oh, thank you Mama’san, but to be honest,” I then lowered my voice so Olof wouldn’t hear
-            me. “I'm kind of gay.”
-          </p>
-          <p>
-            <span style="padding-left: 18px;"></span>
-            “You gay?!!” She cried out. While Olof turned his head. <br>
-            <span style="padding-left: 18px;"></span>
-            <i> Well, there goes that plan.</i> <br>
-            <span style="padding-left: 18px;"></span>
-            “That ok, Mr. Jeff.” She said very calmly and sweetly now. “We have many gay men come
-            here. Mama’san no discriminate. You want Ladyboy instead?” <br>
-            <span style="padding-left: 18px;"></span>
-            Oh boy, I didn’t really expect that one either. And now found myself in quite the awkward
-            predicament, as I was digging quite the hole for myself, and realized she might actually be kind
-            of upset with me for finding out that I just lied to her. Dammit, this was another tough one. So
-            figured the best thing I could do would be to just come right out with it and tell her the truth. So
-            took a deep breath. <br>
-            <span style="margin-left: 18px;"></span>
-            “Oh Mama’san. No thank you. The fact is ... you kind of just caught me. Now I feel bad and
-            embarrassed to say this to you, but I kinda just lied. I’m not really gay. I just said that because I
-            didn’t want to offend you, or hurt your feelings, since I really respect you and your place here.
-            But honestly, I’m just really tired from a long flight and need to speak with Olof real quick and
-            then get back to my villa to get some sleep. So I apologize if I lied to you, or insulted you, I’m
-            just not good at telling people no, it just makes me feel bad.” <br>
-            <span style="margin-left: 18px;"></span>
-            She now looked at me like she’d never heard anything like that before. A level of politeness
-            she probably wasn’t used to back in North Korea. <br>
-            <span style="margin-left: 18px;"></span>
-            “Oh, Mr. Jeeeefffff.” She said now rather surprised while taking a step back. “You so
-            poliiiiite.” Eyeing me alluringly. “Mama’san like that.”
-          </p>
-          <p>
-            <span style="margin-left: 18px;"></span>
-            Then turned back to Olof and her tone changed back to gruff again. <br>
-            <span style="margin-left: 18px;"></span>
-            “Olof!!” She barked. Then quieted down. She had an interesting way of switching from angry
-            to sweet. <br>
-            <span style="margin-left: 18px;"></span>
-            “You seeeee thaaaat, Olof?” Now sounding all sweet again. Like a purring cat. “You see how
-            polite and respectful Mr. Jeff is? You need to learn from him. All you do is lie around my pool
-            all day drinking beer with Wing-Wang, harassing my girls and keep them from making money.
-            And not even pay bill on time. Make me come find you. And cause me big trouble.” <br>
-            <span style="margin-left: 18px;"></span>
-            Olof just shook his head. Probably having this conversation with her many times before. <br>
-            <span style="margin-left: 18px;"></span>
-            “Jesus, Mama’san. I pay my bill on time every month. You have my credit card on file here,
-            you just don’t know how to use it. Plus I probably pay your girls more than anybody else in the
-            entire world.” <br>
-            <span style="margin-left: 18px;"></span>
-            “Mmmmmm ...” She grunted. Or groaned. Seemingly contemplating that piece of
-            information. “That machine no work. Always broken.” Then began scanning around the pool
-            area again looking for Wing, when her voice all of a sudden changed back to very loud.
-            <br>
-            <span style="margin-left: 18px;"></span>
-            “Where Wing-Wang!!” <br>
-            <span style="margin-left: 18px;"></span>
-            “Stop yelling.” Olof pleaded. “I don’t know. Why do you want him?” <br>
-            <span style="margin-left: 18px;"></span>
-            “He pervert ... must get clean.” <br>
-            <span style="margin-left: 18px;"></span>
-            <i>What the hell?!</i> I thought. Then quickly glanced back over to the potted plant where Wing
-            was hiding behind and noticed him also shaking his head like he’d probably also heard that from
-          </p>
-
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Triple Mudbug Firestorm massage?</em> Hmmmm … that did sound kinda interesting.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then I thought about Indah – and the ruse – and the work I had to do here. And tried to figure out the best thing I could say without upsetting her. Since she did seem pretty intent on me getting some kind of massage, and I certainly didn't want to upset her, so this was a tough one. And figured maybe I could just tell her I was gay? Maybe that would work? So decided to give it a shot.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, no thank you Mama'san, but to be honest …" I then lowered my voice so Olof couldn't hear me. "I'm kind of gay."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You gay?!!" She cried out while Olof turned his head.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Well, there goes that plan.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"That ok, Mr. Jeff." She said very calmly and sweetly now. "We have many gay men come here. Mama'san no discriminate. Do you want Ladyboy instead?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Oh boy, I didn't really expect that one either. And now found myself in quite an awkward predicament, as I was digging quite the hole for myself and realized she might actually be kind of upset with me for finding out that I just lied to her. <em>Dammit.</em> This was another tough one. So I figured the best thing I could do would be to just come right out with it and tell her the truth. So I took a deep breath.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh Mama'san. No thank you. The fact is … you kind of just caught me. Now I feel bad and embarrassed to say this, but I kinda just lied to you. I'm not really gay. I just said that because I didn't want to offend you – or hurt your feelings – since I really respect you and your place here. But to be honest, I'm just really tired from a long flight and need to speak with Olof real quick then get back home to my villa to get some sleep. So I apologize if I lied to you, or insulted you, I'm just not good at telling people no, it just makes me feel bad."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She now looked at me like she'd never heard anything like that before. A level of politeness she probably wasn't used to back in North Korea.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, Mr. Jeeeefffff." She said now rather surprised while taking a step back. "You so poliiiiite." Eyeing me alluringly. "Mama'san like that."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She then turned back to Olof. And her tone changed back to gruff again.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Olof!!" She barked. Then quieted down. She had an interesting way of switching from angry to sweet.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You seeeee thaaaat, Olof?" Now sounding all sweet again. Like a purring cat. "You see how polite and respectful Mr. Jeff is? You need to learn from him. All you do is lie around my pool all day drinking beer with Wing-Wang, harassing my girls and keep them from making money. And not even pay bill on time. Make me come find you. And cause me big trouble."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Olof just shook his head. Probably having this conversation with her many times before.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Jesus, Mama'san. I pay my bill on time every month. You have my credit card on file here. All you have to do is charge it. Plus, I probably pay your girls more than anybody else in the entire world."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"<em>Mmmmmm</em> …" She grunted. Or groaned. Seemingly contemplating that piece of news. "That machine no work. Always broken." Then began scanning around the pool area again for Wing, when her voice all of a sudden changed back to very loud.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Where Wing-Wang!!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Stop yelling." Olof pleaded. "I don't know. Why do you want him?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"He pervert … must get clean."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Huh?! What the hell?</em> I thought. Then quickly glanced back over to the potted plant where Wing was hiding behind and noticed him also shaking his head like he'd probably also heard that</p>
         </div>
         <div class="modal-body a4-page" style="max-width: 728px;">
-          <p>
-            her many times before. And I imagined her like a momma cat following him around trying to
-            clean him. Cause he pervert. <br>
-            <span style="margin-left: 18px;"></span>
-            Mama’san then continued. <br>
-            <span style="margin-left: 18px;"></span>
-            “Wing-Wang always hide. But unlike you he pay bill on time. Probably so I don’t find him.
-            But I still find him. Cause he need me. He need Mama’san. He not raised right. Own mother no
-            do good job. He very confused. Mudbugs tell me stories. Need Mama’san to set him straight.
-            Young boys need good mother to raise right. Not make pervert.” <br>
-            <span style="margin-left: 18px;"></span>
-            <i> Hmmmm ... she did have a point.</i> <br>
-            <span style="margin-left: 18px;"></span>
-            “You pervert too Olof. But too late help you. Wing-Wang still young. And learning.” <br>
-            <span style="margin-left: 18px;"></span>
-            Olof rolled his eyes. “I don’t know. He around here somewhere. Don’t ask me.” <br>
-            <span style="margin-left: 18px;"></span>
-            She let out another low-rumbling <i>‘Mmmmmm ...’</i> sound. Looking around the grotto area for
-            Wing. While her two little Trainees also let off low-rumbling <i>‘Mmmmmm ...’</i> sounds. Looking
-            around for him too. <br>
-            <span style="margin-left: 18px;"></span>
-            “I come back later. Find him.” <br>
-            <span style="margin-left: 18px;"></span>
-            “Oookaay?” He replied ... like <i>whatever</i>? <br>
-            <span style="margin-left: 18px;"></span>
-            It seemed to be an interesting dynamic between the three of them. One in which I had to
-            promise myself to find out more about later. Like how they all met, what happens when
-            Mama’san gets ahold of Wing, what goes on in the back rooms of the place, and any other fun
-            stories they could share with me. They were probably pretty awesome. <br>
-            <span style="margin-left: 18px;"></span>
-            Mama’san then squawked something to her two little twin baby parrots, who squawked
-            something back, and they were off. Back through the set of giant double doors to go do God-
-            only-knows-what in there. <br>
-            <span style="margin-left: 18px;"></span>
-            Wing then poked his head out from behind the potted plant. <br>
-            <span style="margin-left: 18px;"></span>
-            “Geez. She never leave.”
-          </p>
+          <p>from her many times before. And I imagined her like a momma cat following him around all day trying to clean him. Cause he pervert.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san then continued.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Wing-Wang always hide. But unlike you he pay bill on time. Probably so I don't find him. But I still find him. Cause he need me. He need Mama'san. He not raised right. Own mother no do good job. He very confused. Mudbugs tell me stories. Need Mama'san to set him straight. Young boys need good mother to raise right. Not make pervert."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Hmmmm … she did have a point.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You pervert too Olof. But too late help you. Wing-Wang still young. And learning."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Olof rolled his eyes. "I don't know. He around here somewhere. Don't ask me."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She let out another low-rumbling '<em>Mmmmmm</em> ...' sound. Looking around for Wing, while her two little Trainees gave off low-rumbling '<em>Mmmmmm</em> …' sounds too. Also looking around for him.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I come back later. Find him."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oookaay?" He replied … like <em>whatever?</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>It seemed to be an interesting dynamic between the three of them. One which I had to remind myself to find out more about later. Like how they all met, what happens when Mama'san gets ahold of Wing, what goes on in the back rooms of the place, and any other fun stories they could share with me. They were probably pretty awesome.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san then squawked something to her two little baby parrots, who squawked something back, and they were off. Back through the set of giant double doors to go do God-only-knows-what in there.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Wing then poked his head out from behind the potted plant.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Geez. She never leave." He groaned.</p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
@@ -839,7 +397,6 @@
       </div>
     </div>
   </div>
-
 
   <!-- pdf 4 -->
   <div class="modal fade pdf-modal" id="PDF_four" tabindex="-1" aria-labelledby="PDF_four_label" aria-hidden="true">
@@ -847,153 +404,71 @@
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page">
           <div class="image-title">
-            <h2 class="pdf-title">Mama’san Arrives</h2>
+            <h2 class="pdf-title">Mama'san Arrives</h2>
             <img src="./images/character_7.jpeg" style="max-width: 170px; width: 100%;" alt="icon">
           </div>
-          <h6>The Legend of Balinese DonMu – Book One (Part II of III) – Chapter 21</h6>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Mama’san looked very regal standing there. Arms crossed. Staring out at all the workers.
-            Impressed. Nodding her head up and down. With her two little twin Trainees flanked on either
-            side of her nodding their heads up and down too. With the Ladybugs, Babybugs, and Ladyboys
-            all standing quietly behind them at a respectful distance. Solemn and deferent. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Olof then whistled and Mama’san looked up on the verandah, tilted her head back, gave off a
-            nod of recognition, and then began marching her way onto the little dirt path over towards the
-            west-side of the matching 10’ marble staircases, up the stairs, and out onto the verandah with her
-            accompanying entourage of Ladybugs, Babybugs, and Ladyboys all following several paces
-            behind her.
-          </p>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            She marched over to the edge of the marble balustrade/railing – about 40’ away from us – and
-            looked out onto the rice fields. At all the workers setting things up down there. Then looked over
-            to the eastern side of the rice fields. Where the other industries were. And gave off an impressed
-            <i>‘Mmmmmm’ </i>... sound. While her little twin baby parrots looked up at her, then back out at the
-            industries, and gave off similarly impressed <i>‘Mmmmmm’ </i>... sounds too. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            The four of us just stood there watching all this until she finally turned back around and
-            locked her eyes on Olof first. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Olof!” She barked. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            He stopped. And paused. And considered what to say. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yes ... Hello ... What’s up ... How are you?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            She just continued to stare at him. Then finally, “Mmmmmm ...” was all she said. With her
-            two little twin Trainees giving off similar sounding “Mmmmmm’s ... too.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            She then noticed me. And her mood and voice changed back to the sweet and sensual one I
-            remembered from the Mansion.
-          </p>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ooohhhh, Mr. Jeff.” She said with her eyes now widening and voice purring softly. “So good
-            see you again. So handsome. Big muscles.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Lakeisha then turned to me with an incredibly odd expression on her face. But I was too busy
-            blushing and almost curtsying. I mean she really did know how to make a guy feel special. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hello Mama’san.” I answered back. “Thank you so much for coming up here and all you
-            have done for us. We are so very grateful to you.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            She gave me another sweet and seductive look. “Yeesssss, of course, Mr. Jeff. For you
-            anything.” And I think she might have even winked at me behind her oversized dark-lensed
-            glasses then resumed scanning around the verandah when her voice all of a sudden changed back
-            to loud and jarring. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Where Wing-Wang!” She demanded. Sounding like she expected an answer rather quickly. <br>
-            Though luckily, Wing wasn’t hiding behind a potted plant or anything this time. Just standing
-            behind Lakeisha. Somewhat hidden behind her larger-than-him stature. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “I here!” He waved. Peeking around the side of Lakeisha and smiling back at her. Which was
-            odd seeing him acting so nice and friendly towards her when I was used to seeing him try to hide
-            and then talk smack about how bossy she was. And figured it must be one of those odd
-          </p>
+          <h6>The Legend of Balinese DonMu – Book One (Part II of III) – Chapter 19</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Jesus Agus! What is it?!" I said all panicky and confused as Olof, Wing and Lakeisha looked on all panicky and confused too. "What are you yelling about?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mr. Jeff! There is strange cloud of dust approaching. With strange sound in background!" He continued to cry out finally getting right next to us, bent over, hands on his knees, panting. After only a 30yd sprint.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Is it the cops, Agus?!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He tried to catch his breath, still bent over, huffing and puffing, then finally recovered and peered back up at us. "I'm not sure who it is, Mr. Jeff! Come to edge of verandah and see for selves."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>The four of us looked around at each other then quickly hopped up out of our seats and hurried over to the edge of the verandah, putting our hands on the railing and squinting out into the distance to get a better look of who – or what – might be coming up the dirt-cobblestone road.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>We could definitely see the cloud of dust getting closer. And hear a faint buzzing sound in the distance growing louder – like a swarm of bees approaching – but still couldn't quite make out who, or what, it was. And I immediately thought back to the roaming hordes of monkeys down in Ubud – ransacking their way up here – but then thought ... <em>no way... there's no way those monkeys could make it up this far north.</em> There would be too many other villages to raid in between.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>So what the hell?</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then as the dust-cloud got closer, and the buzzing sound grew louder, and our nerves began to ratchet up as we continued to stand there squinting our eyes out into the distance trying to make out who, or what, it was – shuffling about in our stances – half-fretting, half-wondering, shaking our heads, furrowing our brows, speculating apprehensively ... until Wing finally let out a sigh of relief and looked over reassuringly at Olof.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ooohhh phew." He said letting out his breath and looking rather relieved. "I know who it is, huh Olof?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Olof just stood there. Gazing out there himself. With his hand covering his eyes to block out the sun. Then slowly started nodding his head along in agreement. "Oh yeah ..." He smirked. "It her." <em>Her?</em> I thought.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Ohhhhh ...</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>And apparently a whole gaggle of Ladybugs, Babybugs and Ladyboys all rolling up the dirt-cobblestone road in some kind of fighter-pilot, V-style-flight formation with Mama'san in the lead vehicle and the rest of her crew drafting along behind her on their tiny little Honda Scoopy motorbikes. Doubled and tripled-up. Like a pack of Balinese Hell's Angels coming into town to wreak havoc on whatever lay in front of them. Which in our case was to be our upcoming hippie and influencer guests.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh boy.</em></p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            mother/son relationships where he had to pretend to be annoyed by her in front of his friends but
-            really secretly needs and loves her. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            She then changed her voice back to that of a satisfied mother cat upon seeing one of her little
-            kittens safe and secure. “Mmmmm ... yes.” She purred. “There you are.” And her two little baby
-            parrots gave off similar-purring sounds as well. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “You behaving self?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeeesssssss ...” He groaned and rolled his eyes. “I behave self.” Like, <i>c’mon mom, not in
-              front of my friends.</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Good.” She nodded back. “You eat vegetables?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeeesssss, I eat them.” Very annoyed. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I quickly glanced over at Lakeisha who now had an even more bewildered look on her face. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Why no fix Tuk-Tuk?!” She squawked at him. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ugghhhh ....” He groaned some more. “I fix it. No worry. I take care of it.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Mmmmmm ...” She grunted again probably not really believing him, while her two little
-            baby parrot Trainees gave him disapproving little looks and Mmmmm’s as well. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            She then noticed Lakeisha for the first time and stopped. And stared right at her. Somewhat
-            puzzled by her. <br>
-          </p>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Who dis?!” She inquired. Focusing directly on her. Trying to figure out who she was and
-            what she was doing there. Though luckily, Olof intervened to make the appropriate introduction
-            since it was probably important that Mama’san like her and I assumed Olof had the best chance
-            of making that happen. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Mama’san this is our dear friend Lakeisha. She is from United States. And has Master’s
-            Degree from prestigious University there. And is social worker. Helping poor and unfortunate.
-            Giving back to community. And greater good.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            It seemed like Olof knew exactly what Mama’san was looking for.
-            <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Mmmmmm ... yes.” Mama’san stared at her impressed. “Give back to community. Greater
-            good.” Scanning her up and down while nodding her head along approvingly.
-            <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Lakeisha just stood there. Quietly. Completely still. Probably unsure of what was going on
-            here. Or what might happen next. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Mama’san then walked closer to her. Continuing to examine her. Head to toe. Inquisitively. Admirably.
-            Scanning her up and down. Now walking around her. Encircling her. Eyeing her
-            more curiously. Seemingly pleased. “She no Mudbug.” She proudly declared as Lakeisha’s jaw
-            dropped to the floor. “She already Ladybug.” Inspecting her closer. Walking around her some
-            more. Padding her shoulders and squeezing her hips. Like she was on the ‘ol Ladybug auction
-            block. “She like fine stallion.” Mama’san purred admirably. “Men pay good money for this.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i>Oh my God.</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Lakeisha looked right at me with the biggest <i>WTF</i> look I’d ever seen before. While I just
-            stared back at her and clenched my teeth like, I’m so sorry ... she’s like your old racist Grandma
-            who has absolutely no clue what they’re saying. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Though luckily, she just shook her head and started to chuckle a bit. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i> Phew.</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Mama’san then grabbed her hands and inspected them closer. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Good strong hands ... for Iron Claw.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            This time I had to look straight at the ground since there was no way I was going to be able to
-            explain that one to her.
-          </p>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Miss Lakeisha, we talk later. You very special. You come work for me anytime. I teach you
-            art of seduction. Iron Claw. Make men yearn.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i>Yearn?</i>
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yup, it her." Wing nodded along confidently. "It 12pm now and she say she have all that stuff delivered by 10am. And it take 2hrs to get here from Mudbug Mansion. So has to be her."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I peered back out into the distance. To get a better view of them. And could see that Mama'san wasn't even on one of the little Honda Scoopy motorbikes like the rest of them were. And wasn't even on a motorbike at all. She was on one of those little Tuk-Tuk taxis you'd see over in Thailand. Those little 3-wheeled golf cart-looking things with flashing neon lights and decorative advertising signs all over them. Which were very eye-catching for marketing purposes.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I turned back to them. "Is Mama'san in one of those Tuk-Tuk taxis you see over in Thailand?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah." Wing answered assuredly. "She like them so much when she over there she have one brought back over here." <em>Really?</em> I gazed back out at it again. Squinting my eyes harder at it. And noticed it actually looked different from the regular Tuk-Tuk taxis you'd see over in Thailand. Hers looked like it was even more done-up and fancy.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Why does hers look even fancier than the other Tuk-Tuk's you see over in Thailand?" "I have her murder it out." He said nodding his head up and down seemingly pleased with the work he'd had done to it. "It so fly now."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Fly?</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"When she bring it here it just regular Tuk-Tuk. But I tell her to let me take it to chop-shop and pimp it out for her so she can advertise Ladybugs Spa all over it. So I have them put 24" spinners on it, extra flashing neon lights, fuzzy dice balls on mirror, leopard-skin upholstery, and super fly paint job that say Ladybugs Spa all over it ... with naked Ladyboy mud-flaps on the back."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I scrunched my face up. Wondering what the silhouette of a naked Ladyboy would look like on the back of a mud-flap. But decided to ask him a different question instead.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Was she happy with the results?" "Well ..." He paused. Now looking up at the sky for a moment. Apparently deep in thought and reflection. "Nahhh ..." He finally admitted. "She say it look dumb and yell at me to change it. Then storm off. But I no change it and figure she forget about it sooner or later. Or else just warm up to it."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Hmmmm, yeah ... I guess anything's possible.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I stared back out into the distance. And could see Mama'san sitting there in the backseat of her murdered-out Tuk-Tuk. Fully reclined. Arms stretched out on the tops of the backseat. Looking rather poised and regal. Like you would imagine a North Korean Great Leader to look like en-route between different speaking engagements. With her two little Trainees sitting right next to each other in the front seat driving. Wearing their matching white medical lab coats, "Trainee" labels on them, oversized glasses on their faces and iron chopsticks through the back of their hair. With the rest of the Babybugs, Ladybugs, and Ladyboys all drafting along behind them. Laughing and giggling and appearing to be having a really good time.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>They finally got to the last section of the dirt-cobblestone road and we watched them pull into the main valet parking area – out of eyesight from us – as we continued to stand there waiting for them to come back into sight. A little bit nervous. But also a little bit excited. Until about 30-seconds later they finally re-emerged from around the southwest corner of the hotel and stopped</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>at the edge of the little dirt path and stared out at the rice fields and all the beach ladies and other locals working away out there. Mama'san looked very regal standing there. Arms crossed. Staring out at all the workers. Impressed. Nodding her head up and down. With her two little twin Trainees flanked on either side of her also nodding their heads up and down impressed. And the Ladybugs, Babybugs, and Ladyboys all standing quietly behind them at a respectful distance. Solemn and deferent.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Olof then whistled and Mama'san looked up on the verandah, tilted her head back, and gave off a nod of recognition. Then began marching her way out onto the little dirt path over towards the west-side of the matching 10' marble staircases, up the stairs, and out onto the verandah with her accompanying entourage of Ladybugs, Babybugs, and Ladyboys following several paces behind her.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She then marched over to the edge of the marble balustrade/railing – about 40' away from us – and looked out onto the rice fields – where all the workers were setting things up down there. Then looked towards the eastern side of the rice fields – where the other industries were – and gave off an impressed <em>"Mmmmmm"</em> ... sound. While her twin baby parrots looked up at her, then back at the industries, and gave off a similarly impressed <em>"Mmmmmm"</em> ... sound as well.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>The four of us just stood there. Watching it all until she finally turned around and locked her eyes in on Olof first.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Olof!" She barked.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He stopped. And paused. And considered what to say.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah ... Hello ... What's up ... How are you?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She continued to stare at him. Suspiciously. Then finally, "Mmmmmm ..." she said. And nothing else. With her two little twin Trainees saying "Mmmmmm ..." too. And nothing else. She then noticed me and her mood and voice all of a sudden changed back to the sweet and sensual one I remembered from the Mudbug Mansion.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ooohhhh, Mr. Jeff." She said eyes now widening and purring softly. "So good see you again. So handsome. Big muscles." Lakeisha then turned to me with an incredibly-odd expression to her face. But I was too busy blushing and almost curtsying. I mean she really did know how to make a guy feel special.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Hello Mama'san." I answered back. "Thank you so much for coming up here and for all you have done for us. We are so very grateful to you." She gave me another sweet and seductive look and said, "Yeesssss, of course, Mr. Jeff ... for you anything." And I think even winked at me behind those oversized dark-lensed glasses then resumed scanning around the verandah and her voice all of a sudden changed back to loud and jarring.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Where Wing-Wang!" She demanded. Sounding like she expected an answer rather quickly.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Though luckily, Wing wasn't hiding behind a potted plant or anything this time. Just standing behind Lakeisha. Somewhat hidden behind her larger-than-him stature.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I here!" He waved. Peeking around the side of Lakeisha and smiling back at her. Which was odd seeing him acting so nice and friendly towards her when I was used to him trying to hide and then talk smack about how bossy she was. And figured it must be one of those odd mother/son relationships where he had to pretend to be annoyed in front of his friends but really secretly needs and loves her.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She then changed her voice back to that of a satisfied mother cat upon seeing one of her little kittens safe and secure. "Mmmmm ... yes." She purred. "There you are." And her two little baby parrots gave off similar-sounding purrs as well.</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You behaving self?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeeesssssss ..." He groaned and rolled his eyes. "I behave self." Like, <em>c'mon mom, not in front of my friends.</em> "Good." She nodded back. "You eat vegetables?" "Yeeesssss ... I eat them." Very annoyed. I quickly glanced over at Lakeisha who now had an even more bewildered look to her face.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Why no fix Tuk-Tuk?!" She squawked at him. "Ugghhhh ...." He groaned some more. "I fix it. No worry. I take care of it." "Mmmmmm ..." She grunted. Probably not really buying that. While her two little baby parrot Trainees gave him disapproving little looks and <em>Mmmmmm's</em> as well.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She then noticed Lakeisha for the first time and stopped. And stared right at her. Somewhat puzzled by her.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Who dis?!" She inquired. Focusing directly in on her. Trying to figure out who she was and what she was doing there. Though luckily, Olof intervened to make the appropriate introduction since it was probably important that Mama'san like her and I assumed Olof had the best chance of making that happen. "Mama'san this is our dear friend Lakeisha. She is from United States. And has Master's Degree from prestigious University there. And is social worker. Helping the poor and unfortunate. Giving back to community. And greater good."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>It seemed like Olof knew exactly what Mama'san was looking for.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Mmmmmm ... yes." She stared at her impressed. "Give back to community. Greater good." Scanning her up and down while nodding her head along approvingly. Lakeisha just stood there. Quietly. Completely still. Probably unsure of what was going on here or what was going to happen next.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san then walked closer to her. Continuing to examine her. Head to toe. Inquisitively. Admirably. Scanning her up and down. Now walking around her. Encircling her. Eyeing her more curiously. Seemingly pleased. "She no Mudbug." She proudly declared as Lakeisha's jaw dropped to the floor. "She already Ladybug." Inspecting her closer and walking around her some more. Padding her shoulders and squeezing her hips. Like she was on the 'ol Ladybug auction block. "She like fine stallion."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san purred admirably. "Men pay good money for this." <em>Oh my God.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lakeisha looked right at me with the biggest <em>WTF</em> look I'd ever seen before. While I just stared back at her and clenched my teeth like, I'm so sorry ... she's like your old racist Grandma who has absolutely no clue what they're saying. Luckily though, she just shook her head and started to chuckle a bit.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Phew.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama'san then grabbed her hands and inspected them closer.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Good strong hands ... for Iron Claw." This time I had to look straight at the ground since there was no way I was going to be able to explain that one to her.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Miss Lakeisha, we talk later. You very special. You come work for me anytime. I teach you art of seduction. Iron Claw. Make men yearn."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Yearn?</em></p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
@@ -1001,7 +476,6 @@
       </div>
     </div>
   </div>
-
 
   <!-- pdf 5 -->
   <div class="modal fade pdf-modal" id="PDF_five" tabindex="-1" aria-labelledby="PDF_five_label" aria-hidden="true">
@@ -1009,486 +483,178 @@
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page">
           <div class="image-title">
-            <!-- <h2 class="pdf-title"> Trip K’s</h2> -->
+            <!-- <h2 class="pdf-title"> Trip K's</h2> -->
             <h2 class="pdf-title"> Klan Guys </h2>
             <img src="./images/character_2.png" alt="icon">
           </div>
-          <h6>The Legend of Balinese DonM– Book One (Part II of III) – Chapter 31</h6>
-          <p>
-            <span style="padding-left: 18px;display: inline-block;"></span>
-            <i>What the hell?</i>
-          </p>
-          <p>
-            <span style="padding-left: 18px;display: inline-block;"></span>
-            We all looked down at Wing’s phone. Sitting there on the desk in front of us. With this new
-            voice coming out of it. And all of us wondering who – or what – it could be.
-            <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Who’s dat out der?! Who’s dat rustling about out der?!” The voice called out again. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “What the hell’s that?” I said staring down at the phone while trying to figure out who – or
-            what – or where – the voice was coming from. Then looked up at one of the side monitors and
-            saw LC halfway up an Acacia tree – on the side of the woodshed – placing the portable
-            Bluetooth speaker there. Then shimmying back down and scrambling out of there. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh, sweet!” I said pointing at the monitor and almost forgetting about asking them to do that
-            for us. “Check it out you guys. It’s LC putting the speaker up in the Acacia tree so we can mess
-            with the Klan guys.” I said excitedly then turned back over to Olof and Wing getting ready to
-            start this new ruse with them. “It must have been LC they heard ‘rustling about’ out there. Wing,
-            can you put the woodshed camera up on the main screen and then pull the app up on your phone
-            so we can communicate with them through the speaker?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh yeah.” He said grabbing his phone and starting to press some buttons, pulling the app up,
-            then handing it to me. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i>Sweet!</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I turned back to him. “Do I just press the ‘Talk’ button here when I want to communicate with
-            them?”
-          </p>
-          <p> <span style="margin-left: 18px;display: inline-block;"></span>
-            He nodded his head up and down as I leaned back in my chair trying to figure out what I was
-            actually going to do here. Or what I was actually gonna say to them. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Then put the phone right to my mouth. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hello??” I said all soft and confused. “Hello? ... is someone in there talking to me?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, we’re talking to you boy! ... whatchu doing out der? ... why you rustling about out
-            der?!” Sounding a bit upset and ornery. In his high-pitched nasally voice as we all looked up at
-            the main monitor and saw Keith-Kyle Klanz standing by the side of the woodshed – like trying
-
-            to look through it or something – in his raggedy-old jeans, mullet haircut, Confederate Flag t-
-            shirt, wrap-around Oakley blades, looking around all frazzled and confused. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-
-            “State yur naaaaaaame ‘n yur biz-ness boy.” He added. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I thought about how to best answer that. And what would constitute my ‘biz-ness’ here. As
-            well as what my best course of action was considering we wanted to do all the Ancient Alien,
-            CIA and secret magic weapon stuff with them. Then thought about Indah, and me wanting to
-            show her some kind of good progress and positive results by the time she came back here, and
-            me also wanting to get the Klan guys to not be so racist and antisemitic. Then realized it was
-            probably going to be really difficult to get the Klan guys to not be so racist and antisemitic by six
-            o’clock. So thought maybe there was something else I could do with them ... something more
-            subtle ... and gradual ... like slowly ingratiating myself in with them ... and befriending them ... <br>
-            earning their trust ... and doing the Made long-con kind of thing. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            So rustled up the best southern-Appalachian-Klan redneck voice I could, and gave it my best
-            shot.
-          </p>
+          <h6>The Legend of Balinese DonMu – Book One (Part II of III) – Chapter 29</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>What the hell?</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>We all looked down at Wing&rsquo;s phone. Sitting there on the desk in front of us. With this new voice coming out of it. And all of us wondering who &ndash; or what &ndash; it could be.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Who&rsquo;s dat out der?! &ndash; who&rsquo;s dat rustling about out der?!&rdquo; The voice called out again.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What the hell&rsquo;s that?&rdquo; I said staring down at the phone. Trying to figure out who &ndash; or what &ndash; or where &ndash; the voice was coming from. Then looked up at one of the side monitors and saw LC halfway up an Acacia tree &ndash; on the side of the woodshed &ndash; placing the portable Bluetooth speaker up there then shimmying back down and scrambling out of there.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh, sweet!&rdquo; I said pointing up at the monitor and almost forgetting about asking them to do that for us. &ldquo;Check it out you guys. It&rsquo;s LC putting the speaker up in the Acacia tree so we can mess with the Klan guys.&rdquo; Now turning back over to Olof and Wing while getting ready to start this new ruse with them. &ldquo;It must have been LC they heard <em>&lsquo;rustling about&rsquo;</em> out there. Hey Wing, can you pull the woodshed camera up on the main screen and then grab the app on your phone so we can communicate with them through the speaker?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh yeah.&rdquo; He said grabbing his phone and pulling the app up then handing it to me.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Sweet!</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I turned back to him. &ldquo;Do I just press the &lsquo;Talk&rsquo; button here when I want to communicate with them?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He nodded his head up and down as I leaned back in my chair trying to figure out what I was going to say to them. Or what I was actually gonna do here.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then put the phone right up to my mouth.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hello??&rdquo; I said all soft and confused. &ldquo;Hello? &ndash; is someone in there talking to me?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, we&rsquo;re talking to you boy! &ndash; whatchu doing out der &ndash; why you rustling about out der?!&rdquo; He said sounding a tad upset and ornery. In his high-pitched nasally voice as we all looked up at the main monitor and saw Keith-Kyle Klanz standing by the side of the woodshed &ndash; like trying to look through it or something &ndash; in his raggedy-old jeans, mullet haircut, Confederate Flag t-shirt, and wrap-around Oakley blades looking around all frazzled and confused.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;State yur naaaaaaame &rsquo;n yur biz-ness boy.&rdquo; He added.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I thought about that. And what would constitute my &lsquo;biz-ness&rsquo; here. As well as my best course of action considering we wanted to do the Ancient Alien, CIA, Q&rsquo;Anon secret magic weapon stuff with them. Then thought about Indah, and me wanting to show her some kind of good progress and positive results by the time she came back, and me also wanting to get the Klan guys to not be so racist and antisemitic. Then realized it was going to be really difficult to get the Klan guys to not be so racist and antisemitic by six o&rsquo;clock. So thought maybe there was something else we could do with them &ndash; something more subtle &ndash; and gradual &ndash; like slowly ingratiating ourselves in with them &ndash; and befriending them &ndash; earning their trust &ndash; and doing the Made long-con kind of thing.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>So I rustled up the best southern-Appalachian-Klan redneck voice I could, and gave it my best shot.</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well ...” I started. Then stopped. Then thought about it some more. “My name’s Jeff. And
-            my biz-ness iz ... I’z not rightly sure. I’z just kinda rustlin’ about out here ... does dat count as
-            biz-ness?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            We could see Keith-Kyle Klanz mulling that one over. Rubbing his goatee. Wunnerin’ bout
-            dat. Then turning over to Cooter, Muskrat and Varmint, who were wunnerin’ ‘bout dat too. <br>
-            Looking around all confused. Mumbling things. ‘N trying to figure out if rustling about counted
-            as biz-ness ... or if I was just up to sum kinda no good. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, how we spoze ta know you’z not one o’ dem minorities out der tryin’ ta git in here ta
-            gits our freedoms from us?” Keith-Kyle said trying to look at me through the side of the
-            woodshed again. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I thought about that a minute. Not really sure what constituted a minority in Bali – in a
-            reverse-slave-based plantation ruse – or what their definition of the word ‘freedom’ was. So just
-            answered as best I could. While also trying to ingratiate myself in with ‘em. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, back home in Alabama ... in the good ‘ol U.S. of A ... they call me White Jeff. So
-            does that prove I’m not a minority?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Their eyes kinda widened. And mouths somewhat puckered. Looking around impressed. As
-            we could see them mulling dat one over. Mumbling things to each other. And nodding their
-            heads up and down. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeeaaahhh, dat just might ... dat just might ... I mean, dats a purdy good start ... but how’z
-            we’z supposed ta knowz you’z really ‘n ‘Merican ... ‘n not a minority ... only saying you’z ‘n
-            ‘Merican ... ‘n notza minority ... whenz ya really arez a minority ‘n not ‘n ‘Merican ... just
-            pretending ta be ‘n ‘Merican ... in orders ta try ‘n git in here ta gits our freedoms from us?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I paused on dat. Wing and Olof paused on dat too. Looking over at me. ‘Wunnerin’ how I was
-            going to get myself outta dis one.
-          </p>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ummmm ... hold on a minute der ... just hold on a minute. Dat just confused me ... dat just
-            really confused me ... canya gimme a minute ta think on dat one?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            We then saw Cooter scratching his head, wunnerin’ bout dat too. “Yeah, dat just confused me
-            too Keith-Kyle?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Quiet down der Cooter, gawdammit!” Keith-Kyle sounded somewhat upset. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hey!” I spoke up. “Can I ask ya sumpin’?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            He paused a second. “Yeah, what’s dat?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Can I ask ya who it is I’m talking to in there? Like can I ask ya what your name is?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Cooter yelled out first. “Dat’s Keith-Kyle Klanz you’z talking ta boy! So you’d better show
-            sum respect!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Gaaaaawwwddammit Cooter!” Keith-Kyle Klanz slapped his hand on his knee. “Don’t go
-            yelling out my name like dat. We still haven’t figgur’d out if White Jeff’s a minority or not. <br>
-            Jesus H. Christ, what da hell’z wrong witchu?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ohhhhhh ... yeeeeaaah ...” Cooter sounded all deflated. “Sorry ‘bout dat Keith-Kyle. I just
-            wuzn’t thinkin’ on dat one.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “No’z you’z weren’t, Cooter. Noooo’z ... yoouuu’z ... weren’t. ‘N dat’s why you’z gotsta
-            leave da thinkin’ ta me ... ‘n lets me be da one figgurin’ things out roun’ here.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hey!” I called out. “Did I just hear your name’s Keith-Kyle Klanz?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            He hesitated for a minute. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “... uuuuhhhhmmmmaybe ....” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, if it is ... den dat’s a purdy bad-ass name. There’s like 3 K’s in that, huh? I betcha
-            everyone back home calls you Trip K’s, huh? Dat’s purdy sweet.”
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well &hellip;&rdquo; I started. Then stopped. Then thought about it some more. &ldquo;My name&rsquo;s Jeff, and my biz-ness iz &ndash; I&rsquo;z not rightly sure. I&rsquo;z just kinda rustlin&rsquo; about out here &ndash; does dat count as biz-ness?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>We could see them mulling that one over. Thinking bout dat. With Keith-Kyle Klanz rubbing his goatee. Wunnerin&rsquo; bout dat. Then turning over to Cooter, Muskrat and Varmint, who were wunnerin&rsquo; &rsquo;bout dat too. Looking around all confused. Mumbling things. &rsquo;N trying to figure out if rustling about counted as biz-ness &ndash; or if I was just up to sum kinda no good.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well &ndash; how we spoze ta know you&rsquo;z not one o&rsquo; dem minorities out der tryin&rsquo; ta git in here ta gits our freedoms from us?&rdquo; Keith-Kyle Klanz said now trying to look through the side of the woodshed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I thought about that too. And what constituted a minority &ndash; in Bali &ndash; in a reverse-slave-based plantation ruse &ndash; and what their definition of the word &lsquo;freedom&rsquo; was. So just answered back the best I could. While also trying to ingratiate myself in with &rsquo;em.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, back home in Alabama &ndash; in the good &rsquo;ol U.S. of A &ndash; they call me White Jeff. So does that prove I&rsquo;m not a minority?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Their eyes kinda widened. And mouths somewhat puckered. Looking around impressed as we could see them mulling dat one over. Mumbling things to each other. And nodding their heads up and down.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeeaaahhh, dat just might &ndash; dat just might &ndash; I mean, dats a purdy good start &ndash; but how&rsquo;z we&rsquo;z supposed ta knowz you&rsquo;z really &rsquo;n &rsquo;Merican &ndash; &rsquo;n not a minority &ndash; only saying you&rsquo;z &rsquo;n &rsquo;Merican &ndash; &rsquo;n notza minority &ndash; whenz ya really arez a minority &ndash; &rsquo;n not &rsquo;n &rsquo;Merican &ndash; just pretending ta be &rsquo;n &rsquo;Merican &ndash; in orders ta try &rsquo;n git in here ta gits our freedoms from us?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I paused on dat. Wing and Olof paused on dat too. Looking over at me. &rsquo;Wunnerin&rsquo; how I was going to get myself outta dis one.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Ummmm &hellip;</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Uh &ndash; hold on a minute der &ndash; just hold on a minute. Dat just confused me &ndash; dat one just really confused me &ndash; canya gimme a minute ta think on dat one?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Cooter scratched his head too. &ldquo;Yeah, dat one just confused me too Keith-Kyle?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Quiet down der Cooter, gawdammit!&rdquo; Keith-Kyle sounded somewhat upset.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey!&rdquo; I spoke up. &ldquo;Can I ask ya sumpin&rsquo;?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He paused a second.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, what&rsquo;s dat?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Can I ask who it is I&rsquo;m talking to in there? Like can I ask what your name is?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Dat&rsquo;s Keith-Kyle Klanz you&rsquo;z talking ta boy so you&rsquo;d better show sum respect!&rdquo; Cooter yelled out.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Gaaaaawwwddammit Cooter!&rdquo; Keith-Kyle Klanz slapped his hand on his knee. &ldquo;Don&rsquo;t go yelling out my name like dat. We still haven&rsquo;t figgur&rsquo;d out if White Jeff&rsquo;s a minority or not. Jesus H. Christ, what da hell&rsquo;z wrong witchu?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ohhhhhh yeeeeaaah &hellip;&rdquo; Cooter sounded all defeated. &ldquo;Sorry &rsquo;bout dat Keith-Kyle. I just wuzn&rsquo;t thinkin&rsquo; on dat one.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;No&rsquo;z you&rsquo;z weren&rsquo;t, Cooter. Noooo&rsquo;z &ndash; yoouuu&rsquo;z &ndash; weren&rsquo;t. &rsquo;N dat&rsquo;s why you&rsquo;z gotsta leave da thinkin&rsquo; ta me &ndash; &rsquo;n lets me be da one figgurin&rsquo; da things out roun&rsquo; here.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey!&rdquo; I called out. &ldquo;Did I just hear your name&rsquo;s Keith-Kyle Klanz?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He hesitated a minute.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;&hellip; uuuuhhhhmmmmaybe &hellip;.&rdquo;</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            We saw them all looking around at each other. Somewhat surprised. As well as impressed. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, gawddammmnn ...” Trip-K’s now sounded rather proud and pleased. “Dat is a purdy
-            bad-ass name.” Nodding his head up and down. “Yeah, I think I like dat name too ... Trip-K’s,
-            huh? ... dat is purdy sweet.” Now turning back over to Cooter ‘n probably wunnerin’ why he
-            never cum up wid dat name himself. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Gaaaaawwwdammit Cooter. How cum you never cum up wid a bad-ass name for me before? <br>
-            I mean what da hell? We’ve only known White Jeff for like two seconds here ‘n he’s already
-            cum up wid a bad-ass name for me. ‘N I’ve known you my whole life ‘n you ain’t never cum up
-            wid shit.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Cooter looked around all confused. Scratching his head. Wunnerin’ ‘bout dat. While Trip-K’s
-            continued. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well alright White Jeff ... Alright. Dat is a purdy bad-ass name. Dat’s for damn sure ... ‘n
-            I’z glad you’z dun cum up with dat name ... but first things first ... if ya really wantsta prove
-            you’z ‘n ‘Merican ... ‘n not a minority ... den you’z gotsta pass a test.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ok.” I said. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Alright den ...” He said straightening himself out. “Now der’s three questions on da test ... <br>
-            are’z ya ready for da first question?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yup, I’z ready.” I said. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ok den ... da first question is straight outta ‘Merican history ... so it’s ‘n easy one.” He
-            glanced around at his buddies while clearing his throat. “... What wuz da greatest battle Ol’
-            General Stonewall Jackson of da Confederate ever fought against dem dirty no-good Unioners?”<br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i> Ol’ Stonewall Jackson?</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I looked over at the guys. And motioned for Wing to do a quick Google search on his laptop.
-            So he opened it up. Frantically started typing away. Clicking on different things. Then turned
-            back to me.
-          </p>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “There too many results. I no know which one is best. You on your own.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i> Dammit.</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            So I tried to collect my thoughts and did the best I could. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well shucks, Trip-K’s. Ol’ Stonewall fought so many great battles that it’s hard to say which
-            one wuz da greatest. But if you’re gonna put me on the spot here ... den I guess I’z gonna say
-            it’s da one where he kicked the livin’ heck outta that dumbass Ulysses S. Grant next to the
-            greatest river in the whole world ... the Mississippi River!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            We watched them all looking around at each other. Nodding their heads along. Looking
-            impressed. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, ok den ... okay ... dat’s not too bad ... not too bad at all. I mean dat wasn’t really da
-            battle we wuz looking for but dat wuz a purdy darn good battle. Dat’s for dang sure.” He said
-            glancing around at the others. Rather pleased. “But ok den, White Jeff ... here comes da next
-            question ... are’z ya ready for it?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yup, I’z ready.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Alright den ...” He paused for effect. “What did ‘Q’ drop on December 21, 2020?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i>Oh, sweet Jesus.</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I looked back at the guys. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Don’t look at us.” Olof said. “We don’t know that shit.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “And I’m not Googling it.” Wing added. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i>Crap.</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            So I tried to collect my thoughts.
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, if it is &ndash; den dat&rsquo;s a purdy bad-ass name. There&rsquo;s like 3 K&rsquo;s in that, huh? I betcha everyone back home calls you Trip K&rsquo;s? Dat&rsquo;s purdy sweet.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>We saw them all looking around at each other. Somewhat surprised. As well as impressed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, gawddammmnn &hellip;&rdquo; Trip-K&rsquo;s now sounded pleased. &ldquo;Dat is a purdy bad-ass name.&rdquo; Nodding his head up and down. &ldquo;Yeah, I think I like dat name too &ndash; Trip-K&rsquo;s, huh? &ndash; yeah, dat is purdy sweet.&rdquo; Now turning back over to Cooter &rsquo;n probably wunnerin&rsquo; why he dun never cum up wid dat name for him before.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Gaaaaawwwdammit Cooter. How cum you dun never cum up wid dat name for me before? I mean what da hell? We&rsquo;ve only known White Jeff for like two seconds here &rsquo;n he&rsquo;s already cum up wid a bad-ass name for me. &rsquo;N I&rsquo;ve known you my whole life &rsquo;n you dun never cum up wid shit.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Cooter looked around all confused. Scratching his head. Wunnerin&rsquo; &rsquo;bout dat. While Trip-K&rsquo;s continued on.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well alright White Jeff &ndash; alright &ndash; dat is a purdy bad-ass name. Dat&rsquo;s for damn sure &ndash; &rsquo;n I&rsquo;z dun glad you&rsquo;z cum up with dat name &ndash; but first things first &ndash; if ya really wantsta prove you&rsquo;z &rsquo;n &rsquo;Merican &ndash; &rsquo;n not a minority &ndash; den you&rsquo;z gotsta pass a test.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok.&rdquo; I said.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Alright den &hellip;&rdquo; He said straightening himself out. &ldquo;Der&rsquo;s three questions on da test &ndash; are&rsquo;z ya ready for da first question?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yup, I&rsquo;z ready.&rdquo; I said.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok &ndash; da first question is straight outta &rsquo;Merican history &ndash; so it&rsquo;s &rsquo;n easy one.&rdquo; He glanced around at Cooter &rsquo;n da boyz while also clearing his throat. &ldquo;What wuz da greatest battle Ol&rsquo; General Stonewall Jackson of da Confederate ever fought against dem dirty no-good Unioners?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Ol&rsquo; Stonewall Jackson?</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I looked over at Olof and Wing. And motioned for Wing to do a quick Google search on his laptop. So he opened it up and frantically started typing away. Clicking on different things. Then turned back to me.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;There too many results. I no know which one is best.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Dammit.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>So I tried to collect my thoughts. And did the best I could.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well shucks, Trip-K&rsquo;s &ndash; Ol&rsquo; Stonewall fought so many great battles that it&rsquo;s hard to say which one wuz da greatest. But if you&rsquo;re gonna put me on the spot here &ndash; den I guess I&rsquo;z gonna say it&rsquo;s da one where he kicked the livin&rsquo; shit outta that dumbass Ulysses S. Grant next to the greatest river in the whole world &ndash; the Mississippi River!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>We watched them look around at each other. Nodding their heads up and down. Extremely impressed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, ok den &ndash; okay &ndash; dat&rsquo;s not too bad &ndash; not too bad at all &ndash; I mean dat wasn&rsquo;t really da battle we wuz looking for, but dat wuz a purdy darn good battle. Dat&rsquo;s for dang sure.&rdquo; He said glancing around at da others rather pleased and impressed. &ldquo;But ok, White Jeff &ndash; here comes da next question &ndash; are&rsquo;z ya ready for it?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yup, I&rsquo;z ready.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok, den &hellip;&rdquo; He paused for effect. &ldquo;What did &lsquo;Q&rsquo; drop on December 21, 2020?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh, sweet Jesus.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I turned back to Olof and Wing.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Don&rsquo;t look at us.&rdquo; Olof said. &ldquo;We don&rsquo;t know that shit.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;And I&rsquo;m not Googling it.&rdquo; Wing added.</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hey, Trip K’s? Do I get like a pass card here? Or like a Life-Line or something like that? I
-            mean that’s gotta be fair, right?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            There was a quick silence inside the woodshed. Then a few quick mutterings. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, ok ... Ok, fine. Dats your one pass card White Jeff. But da next question ya have to git
-            or else you’z definitely a minority.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ok, that’s fair. That’s totally fair.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ok, den ... here we go ...” We saw them getting ready in the woodshed. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “What’s da 4th song, on da second side, of Lynyrd Skynyrd’s first album?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I looked over at the guys. Where Wing was busily typing away. Then he turned back to me
-            and showed me the result. And I smiled cause I definitely knew this one. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well gawwdammnnn Trip K’s. Dat’s an easy one. Dat’s only the greatest song ever recorded
-            in the whole history of the world ... Freebird!!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            They all looked around at each other. Extremely impressed. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well hot-damn boys. Hotdamn indeed! I think we got ourselves a good ‘ol fashioned
-            ‘Merican here. Whoooo Wheeee!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hey White Jeff?!” Cooter yelled out all excited. “Dat’s da greatest song in da whole wide
-            world, huh?!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh, heck yeah Cooter, dat’s a great ‘ol song!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Trip-K’s now nodded along approvingly. “Well, alright White Jeff ... alright ... well done der
-            ... well done indeed.” Now starting to look a bit more serious now and take things down a notch. <br>
-            “But ok den ... we’z dun proved youz ‘n Merican ‘n not a minority ... which is good ‘n all ... <br>
-            but we’z also gots ourselves in quite a bit of a situation here.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “A situation?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, a situation.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well what’s da situation?” <br>
-          </p>
-
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well ... we’z gots ourselves completely surrounded by minorities trying ta git in here ta gits
-            our freedoms from us.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i>Uhhhh ...</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ok?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “But not ta worry ... not ta worry at all ...” He started rubbing his hands together. “Cuz we’z
-            gots ourselves a plan ...” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ok. Sweet. What’s da plan?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “We’z gunna build a wall.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I stopped. And scrunched my face up ... a wall? ... Then looked over at Olof and Wing. Who
-            both scrunched their faces up too. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i>Awww, what the hell ...</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh, heck yeah Trip-K’s. Dat’s a sweet ‘ol plan. Dat’s something ol’ Stonewall would do.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh, heck yeah he would ... dat’s sumpin’ ‘ol Donald J. ‘Stonewall’ Trump would do too.” ... <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Donald J. <i>‘Stonewall’ Trump??</i> ... “Keep dem minorities out ‘n make dem think twice before
-            messin’ wid us ‘n trying ta git in here ta gits our freedoms from us.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Then I thought about something else. Another part of their plan that was troubling me. And
-            needed some help on. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “But, Trip-K’s?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, what’s dat White Jeff?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Are you gonna build a wall on da inside or da outside of yur woodshed?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            He paused.
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Crap.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>So I tried to collect my thoughts. And just did the best I could.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey, Trip K&rsquo;s &ndash; do I get like a pass card here &ndash; or like a Life-Line or something like that? I mean that&rsquo;s gotta be fair, right?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He paused on dat. Then gave off a few quick mutterings.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, ok &ndash; Ok, fine. Dats your one pass card White Jeff. But da next question ya have to git or else you&rsquo;z definitely a minority.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok, that&rsquo;s fair. That&rsquo;s totally fair.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok, den &ndash; here we go &hellip;&rdquo; We could see them getting ready in the woodshed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What&rsquo;s da 4th song, on da second side of Lynyrd Skynyrd&rsquo;s first album?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I looked over at Olof and Wing. Who was busy typing away. Then turned back to me and showed me the result. And I smiled cause I definitely knew this one.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well gawwdammnnn Trip K&rsquo;s. Dat&rsquo;s an easy one. Dat&rsquo;s only the greatest song ever recorded in the whole history of the world &ndash; Freebird!!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>They all looked around at each other. Extremely impressed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well hot-damn boys. Hotdamn indeed! I think we got ourselves a good &rsquo;ol fashioned &rsquo;Merican here. Whoooo Wheeee!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey White Jeff?!&rdquo; Cooter yelled out all excited. &ldquo;Dat&rsquo;s da greatest song in da whole wide world, huh?!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh, heck yeah Cooter, dat&rsquo;s a great &rsquo;ol song!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Trip-K&rsquo;s now nodded along approvingly. &ldquo;Well, alright White Jeff &ndash; alright &ndash; not too bad &ndash; not too bad indeed &hellip;&rdquo; Now starting to look a bit more serious and take things down a notch. &ldquo;But first things first &ndash; we&rsquo;z dun proved youz &rsquo;n Merican &rsquo;n not a minority &ndash; which is good &rsquo;n all &ndash; but right now we&rsquo;z got ourselves in quite a bit of a situation.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;A situation?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, a situation.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, what&rsquo;s da situation?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, we&rsquo;z gots ourselves completely surrounded by minorities trying ta git in here ta gits our freedoms from us.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Uhhhh</em> &ndash; &ldquo;Ok?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;But not ta worry &ndash; not ta worry at all &hellip;&rdquo; He started rubbing his hands together. &ldquo;Cuz we&rsquo;z gots ourselves a plan &hellip;&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Sweet. What&rsquo;s da plan?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;We&rsquo;z gunna build a wall.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I stopped. And scrunched my face up &ndash; <em>a wall?</em> &ndash; Then looked over at Olof and Wing. Who also scrunched their faces up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Awww, what the heck &hellip;</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh, heck yeah Trip-K&rsquo;s. Dat&rsquo;s a sweet &rsquo;ol plan. Dat&rsquo;s something ol&rsquo; Stonewall would do.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh, heck yeah he would &ndash; &rsquo;n dat&rsquo;s also sumpin&rsquo; &rsquo;ol Donald J. &lsquo;Stonewall&rsquo; Trump would do too.&rdquo; &ndash; <em>Donald J. &lsquo;Stonewall&rsquo; Trump??</em> &ndash; &ldquo;Keep dem minorities out &rsquo;n make dem think twice before messin&rsquo; wid us &ndash; &rsquo;n trying ta git in here ta gits our freedoms from us.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Then I thought about something else. Another part of their plan that was troubling me. And I needed some help on.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;But, Trip-K&rsquo;s?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, what&rsquo;s dat White Jeff?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Are you gonna build da wall on da inside or da outside of yur woodshed?&rdquo;</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hmmmm ...” Wunnerin’ ‘bout dat. “Let me think ‘bout dat for a minute.” We then heard
-            him talking this over with Cooter and the boyz. Then get back to me. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “We gonna build it on da inside, White Jeff.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i>Smart.</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ok. Gotcha Trip-K’s. Dat’s smart. Dat’s real smart. ‘N does make a lotta sense.” Then
-            stopped and reconsidered that. Cause I definitely needed a little more help on dis one. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “But wait .... hold on a minute der ... why on da inside and not on da outside of your
-            woodshed?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Gaawwwdammit White Jeff! Dat’s a dumb-ass question. We’z already gots a wall on da
-            outside. ‘N der’z no point in building another wall on da outside when we’z already gotz a wall
-            out der. But if we build a wall on da inside den we’ll have an inside wall and ‘n outside wall ‘n
-            dat’s better dan having two outside walls. Jesus H. Christ, White Jeff, what da hellz wrong
-            witchu?” <br>
-            <span style="margin-left: 18px; display: inline-block;"></span>
-            “Ok, gotcha Trip-K’s ... copy dat ... dats a big 10-4 on dat one ... but wait ...” Wunnerin’ <br>
-            ‘bout dis sum more. “... Hold on a minute der ... cuz ... I wuz just thinkin’ ‘n ... if ya build da
-            wall on da outside den won’t dat just make your current outside wall ‘n inside wall which is da
-            same thing as having an inside wall and ‘n outside wall?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Trip-K’s paused on dat. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “No gawwdammit!! If we build a wall on da outside den dat’ll just make da current outside
-            wall ‘n inside wall ‘n da inside wall won’t be ‘n outside wall ‘n den we’ll just be stuck outside da
-            outside wall unable to git back inside da inside wall or da outside wall. Jesus H. Christ, what da
-            hellz wrong witchu?!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hmmmm ... yeah ... ok, gotcha. ‘N I do see your point on dat one ... ‘n dat does make a
-            lotta sense ... cuz ya definitely don’t wanna be stuck outside da outside wall ... or stuck outside
-            da inside wall ... ‘n unable ta git back inside yur woodshed.” Now wunnerin’ ‘bout dis sum more
-            ‘n tryin’ ta figgur’ it all out ... “But, wait... what if ... maybe ... ya like built a secret tunnel or
-            sumpin’ like dat unnerneath’ da outside wall ‘n unnerneath da inside wall so you can like tunnel
-            yur way back unnerneath’ da inside ‘n outside wall ‘n git back inside yur woodshed?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            He paused on dat again.
-          </p>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “What Da hellz wrong withcu White Jeff?!! Have yu not been paying attention ta what I’z
-            been saying to ya here?! I just toldz ya we’z gots ourselves completely surrounded by minorities
-            who r da ones who purdy much invented tunnelin’ unnerneath’ walls ... so why da hell would
-            we go doing sumpin’ like dat? Jesus H. Christ, I’z gotsta wunner ‘bout you sumtimes.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i> Hmmmm ... yeah ... I guess dat did kinda make sense.</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ok, gotcha Trip-K’s. Copy dat. ‘N dat’s a big 10-4 on dat one too. ‘N dat does make a lotta
-            sense. But hey ... Trip K’s?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, what’s dat, White Jeff.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well ...” Now thinking I should probably try and wrap this thing up and come up with a
-            better plan later for these guys cuz this one wasn’t really working out the way I thought it would. <br>
-            And was starting to get a little confusing. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well ... it’s been great talking wid ya guys ‘n all ... but ... I’z kinda gotsta run now.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Run?” He looked around all confused. “Whatcha talkin’ ‘bout run? Where’z youz gotsta run
-            off to?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well ...” Wunnerin’ ‘bout dis some more. “Der kinda like having a big ‘ol party out here, ‘n
-            I kinda gotsta to get back to it.”
-          </p>
-
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He paused on dat a moment.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Hmmmm &hellip;</em> Wunnerin&rsquo; &rsquo;bout dat. &ldquo;Let me think bout dat.&rdquo; Then we heard him talking it over with Cooter and the boyz. Then finally get back to me.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;We gonna build it on da inside, White Jeff.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Smart.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok. Gotcha Trip-K&rsquo;s. Dat&rsquo;s smart. Dat&rsquo;s real smart. &rsquo;N does make a lotta sense.&rdquo; Then stopped and reconsidered that. Cause I definitely needed some more help on dis one.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;But wait &ndash; hold on a minute der &ndash; why ya gonna build it on da inside and not da outside of yur woodshed?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Gaawwwdammit White Jeff! Dat&rsquo;s a dumb-ass question. We&rsquo;z already gots a wall on da outside of da woodshed &ndash; which is the actual woodshed wall. So der&rsquo;z no point in building another wall on da outside when we&rsquo;z already gotz a wall out der. But if we build a wall on da inside den we&rsquo;ll have an inside <em>and</em> &rsquo;n outside wall &rsquo;n dat&rsquo;s better dan having two outside walls. Jesus H. Christ, White Jeff, what da hellz wrong witchu?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Hmmmm &hellip;</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok, gotcha Trip-K&rsquo;s &ndash; copy dat &ndash; &rsquo;n dats a big 10-4 on dat one &ndash; but wait &hellip;&rdquo; Wunnerin&rsquo; &rsquo;bout dis sum more &rsquo;n trying to figure it out. &ldquo;Hold on a minute der &ndash; cuz &ndash; I wuz just thinkin&rsquo; &ndash; &rsquo;n &ndash; if ya build a wall on da outside den wouldn&rsquo;t dat just make your current outside wall &rsquo;n inside wall which is da same thing as having an inside wall and &rsquo;n outside wall?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He paused on dat.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;No gawwdammit!! If we build a wall on da outside den dat&rsquo;ll just make da current outside wall &rsquo;n inside wall &ndash; &rsquo;n da inside wall won&rsquo;t be &rsquo;n outside wall &rsquo;n den we&rsquo;ll just be stuck outside da outside wall unable to git back inside da inside or da outside wall. Jesus H. Christ, what da hellz wrong witchu?!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I started to get confused.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeaahhhh &ndash; ok, gotcha Trip-K&rsquo;s &ndash; &rsquo;n I do see your point on dat one &ndash; &rsquo;n dat does make a lotta sense &ndash; cuz ya definitely don&rsquo;t wanna be stuck outside da outside or da inside wall &ndash; &rsquo;n unable ta git back inside yur woodshed.&rdquo; Now wunnerin&rsquo; &rsquo;bout dis sum more &rsquo;n tryin&rsquo; ta figgur&rsquo; it out &ndash; &ldquo;But, wait&hellip; what if &ndash; maybe &ndash; ya like built a secret tunnel or sumpin&rsquo; like dat unnerneath&rsquo; da outside wall &rsquo;n unnerneath&rsquo; da inside wall so you can like tunnel yur way back unnerneath&rsquo; da inside wall &rsquo;n da outside wall &rsquo;n git back inside yur woodshed?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He paused on dat too.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What Da hellz wrong withcu White Jeff?!! Have yu not been paying attention ta what I&rsquo;z been saying tooz ya?! I just toldz ya we&rsquo;z gots ourselves completely surrounded by minorities who r da ones who purdy much invented tunnelin&rsquo; unnerneath&rsquo; walls &ndash; so why da hell would we go doing sumpin&rsquo; like dat? Jesus H. Christ, I&rsquo;z gotsta wunner &rsquo;bout you sumtimes.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Yeah, I guess dat did kinda make sense.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok, gotcha Trip-K&rsquo;s. Copy dat. &rsquo;N dat&rsquo;s a big 10-4 on dat one too. &rsquo;N dat does make a lotta sense. But hey &ndash; Trip K&rsquo;s?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, what&rsquo;s dat, White Jeff.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Now thinking about this some more and how I should probably try and wrap this thing up and come up with a better plan later cuz this one wasn&rsquo;t really working out the way I thought it would and was starting to get a little confusing.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well &ndash; it&rsquo;s been great talking wid ya guys &rsquo;n all &ndash; but &ndash; I&rsquo;z kinda gotsta run now.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Run?!&rdquo; He looked around all confused. &ldquo;Whatcha talkin&rsquo; &rsquo;bout run? Where youz gotsta run off to?&rdquo;</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “A party?!” Now looking around even more confused. Cooter too. “What da hell you talking
-            about a party? You aint’z cavoortin’ wid da enemy are’z ya?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ah, heck no Trip-K’s. I wouldn’t be doing sumpin’ like dat. I’z just be working undercover
-            here. Doing double-reverse trickery ‘n secret black-ops ... ‘n collecting intel ‘n stuff.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh yeah, dat’s smart. Dat’s good military strategery. Dat’s sumpin’ ol’ Stonewall would do.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh heck yeah he would.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hey white Jeff?” Cooter now spoke up. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Dat you Cooter?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, dat’s me.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ahhh shucks Cooter. What’s going on der Big Dawg?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, shucks ... not too much ya know ... just kinda hanging out with da fellas ‘n all ... <br>
-            having a good ‘ol time ‘n all ... but hey ... lemme ask ya sumpin’ ... whatch y’all doing out der
-            at da party?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            I thought about how to best answer that. While also trying to ingratiate myself in with ‘em. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “We’z just kinda drinking sum beer and listenin’ to sum Skynyrd.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh really?!!” He sounded rather intrigued. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh, heck yeah we are Cooter. We also BBQ-ing and playing sum cornhole.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh Sweet!!” He said even more intrigued. “Dat sounds like a good ‘ol time out der. Dat
-            sounds like a real good time. But is der any women out der?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh, heck yeah der are Cooter. Der’s a lotta women out here ... now most o’ dem r minorities
-            ‘n Commies ... but dat’s ok cause I gotsa secret plan to switch ‘em over to becoming ‘Mericans
-            ... cuz I think I can do it. I mean deyz already drinking beer ‘n listening ta Skynyrd wid us ... so
-            I reckon dat’s a purdy good start!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh heck yeah. Dat’s a great ‘ol start! ... ‘n dat’s what being ‘n ‘Mericanz all about!! <br>
-            Whoooo Wheeee!!”
-          </p>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Now a new voice came out – one I didn’t recognize – from the back part of the woodshed. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hey White Jeff?!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, who dat?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “It’s Muskrat.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yo whattup Muskrat! How you living in there?”<br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh, purdy good. Purdy good. Can’t complain. But can I ask ya sumpin’?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Sure Muskrat.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            He paused a second. “Dey uh ... dey uh gots any farms out there? Wid like cows ‘n sheeps ‘n
-            stuff?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            <i> Hmmmm ....</i> <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Naahhhhh ... dey ain’t really got any cows or sheeps out here.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Ugghhhhh ... He sounded dejected. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “But they got pigs and chickens.” I added. “Would that work?” Now looking over at Olof and
-            Wing and just kinda shrugging my shoulders while we could hear him mumbling something in
-            the background. To himself. Or to Varmint sitting next to him. Trying to figgur’ dat out. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, dat’ll work.” He said a bit more upbeat now. “Dat’ll definitely work.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Ok, cool.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Cooter now spoke up again. “Hey White Jeff?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, Cooter.”
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well &hellip;&rdquo; Wunnerin&rsquo; &rsquo;bout dis some more. &ldquo;Der like kinda having a big &rsquo;ol party out here &rsquo;n I kinda gotsta to get back to it.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;A Party?!&rdquo; Now looking around even more confused. Cooter too. &ldquo;What da hell you talking about a party? You aint&rsquo;z cavoortin&rsquo; wid da enemy are ya?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh, heck no Trip-K&rsquo;s. I wouldn&rsquo;t be doing sumpin&rsquo; like dat. I&rsquo;z just be working undercover here. Doing double-reverse trickery &rsquo;n secret black-ops &ndash; &rsquo;n collecting intel &rsquo;n stuff.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh yeah, dat&rsquo;s smart. Dat&rsquo;s good military strategery. And sumpin&rsquo; ol&rsquo; Stonewall would do.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh heck yeah he would.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey white Jeff?&rdquo; Cooter now spoke up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Dat you Cooter?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, dat&rsquo;s me.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ahhh shucks Cooter. What&rsquo;s going on der Big Dawg?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ahhh, shucks &ndash; not too much ya know &ndash; just kinda hanging out with da fellas &rsquo;n all &ndash; having a good &rsquo;ol time &ndash; but hey &ndash; lemme ask ya sumpin&rsquo; &ndash; whatch y&rsquo;all doing out der at da party?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I thought about how to best answer that. While also trying to ingratiate myself in with &rsquo;em.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;We&rsquo;z just kinda drinking sum beer and listenin&rsquo; to sum Skynyrd.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Really?!!&rdquo; He was impressed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh, heck yeah Cooter. We also BBQ-ing and playing sum cornhole.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh sweet!! Dat sounds like a good &rsquo;ol time out der. Dat sounds like a real good time. But hey, is der any women out der?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh, heck yeah der are Cooter. Der&rsquo;s a lotta women out here &ndash; now &ndash; most o&rsquo; dem r minorities &rsquo;n Commies &ndash; but dat&rsquo;s ok cause I gotsa secret plan to switch &rsquo;em over to becoming &rsquo;Mericans &ndash; cuz I think I can do it &ndash; I mean deyz already drinking beer &rsquo;n listening ta Skynyrd, so I reckon dat&rsquo;s a purdy good start!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh heck yeah dat&rsquo;s a great &rsquo;ol start! &ndash; &rsquo;n dat&rsquo;s what being &rsquo;n &rsquo;Mericanz all about!! Whoooo Wheeee!!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Now a new voice came out &ndash; one that I didn&rsquo;t recognize &ndash; from the back part of the woodshed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey White Jeff?!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;&hellip; Yeah, who&rsquo;s dat?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;It&rsquo;s Muskrat.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yo, whattup Muskrat! How you living in there?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh, purdy good. Purdy good. Can&rsquo;t complain &ndash; can&rsquo;t complain. But can I ask ya&rsquo;ll sumpin&rsquo;?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Sure Muskrat.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He paused a second. &ldquo;Dey uh &ndash; gots any farms out there? Wid like cows &rsquo;n sheeps &rsquo;n stuff?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Hmmmm &hellip;.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Naahhhhh &ndash; dey ain&rsquo;t really got any cows or sheeps here.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ugghhhhh &hellip;&rdquo; He sounded dejected.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;But they got pigs and chickens.&rdquo; I added. &ldquo;Would that work?&rdquo; Now looking over at Olof and Wing and kinda shrugging my shoulders while we could hear Muskrat mumbling something in the background. To himself. Or to Varmint sitting next to him. Trying to figgur&rsquo; dat out.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, dat&rsquo;ll work.&rdquo; He said a bit more upbeat now. &ldquo;Dat&rsquo;ll definitely work.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok, cool.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey White Jeff?&rdquo; Cooter now spoke up again.</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Hey ... uhhhh ... I’m a ... I’ma trying ta git out da door here ... so I can like join y’allz at da
-            party ‘n stuff ... but for sum reason can’t quite git it open ... I keep pushing on it but it seems to
-            be stuck or sumpin’?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh yeah,” I stopped and remembered what I’d asked LC to do. “There’s kinda a problem der
-            Cooter.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “A problem?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, a problem.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, what’s da problem?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, ya know doze minorities here?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well ... dey kinda built a wall.” <br>
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, Cooter.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey &ndash; uhhhh &ndash; I&rsquo;ma &ndash; I&rsquo;ma trying ta git out da door here &ndash; so I can like join y&rsquo;allz at da party &ndash; but for sum reason can&rsquo;t quite git it open &ndash; I keep pushing on it but it seems to be like stuck or sumpin&rsquo;?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh yeah,&rdquo; I stopped and remembered what I&rsquo;d asked LC to do. &ldquo;There&rsquo;s kinda a problem der Cooter.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;A problem?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, a problem.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, what&rsquo;s da problem?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, ya know doze minorities here?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well &ndash; dey kinda built a wall.&rdquo;</p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
@@ -1496,8 +662,6 @@
       </div>
     </div>
   </div>
-
-
   <!-- pdf 6 -->
   <div class="modal fade pdf-modal" id="PDF_six" tabindex="-1" aria-labelledby="PDF_six_label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
@@ -1509,153 +673,59 @@
             <img src="./images/character_4.png" alt="icon">
           </div>
           <h6>The Legend of Balinese DonMu – Book One (Part III of III) – Epilogue</h6>
-          <p>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Intern B bites his lip. Realizing his buddy was probably right. Shuffles in his seat a bit more
-            and then changes the subject. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “I hear he’s the new affirmative action hire here?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Shut the fuck up dude. Stop fucking around.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “What?! I’m not fucking around. I really did hear that. Like he’s the first black affirmative
-            action hire at the CIA?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Duuuuude ... stop it.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, is it true?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Intern A takes a deep breath and reflects on that for a moment. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, it’s true. And from what I’ve heard he’s real bad ass too. So you’d better be real
-            careful what you say around him.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Huh? What do you mean he’s bad ass?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Dude, don’t even start with me.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “What? I’m being serious. I really want to know?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            Intern A lets out an exhausted sigh. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, I don’t know this for sure – this is all just what I heard from around the water-cooler –
-            but do you remember back in the 80’s when the CIA introduced crack in the ghettos and had
-            black gang members selling it for them?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, Deputy Director Smooove was apparently the first black gang member selling crack
-            for the CIA. I think he was a Crip or something like that. And the CIA was supplying him crack
-            to sell.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Really?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah. And I guess he’s always worked for them ever since. Like doing little odd jobs and
-            stuff.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Odd jobs? Like what do you mean odd jobs?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “I don’t know. I guess like selling crack for them. Making crack for them. Teaching other
-            people how to make and sell crack. And I heard he used to be on those planes that would carry
-            cocaine back from Colombia to make crack out of.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Cool.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah. And I also heard he used to hang out with Pablo Escobar and shit. Like they were
-            homies. I saw a picture of him once with Escobar at some strip club in Medellin with all these
-            strippers around them. Partying and doing blow off their tits. And he’s flashing gang signs with
-            Escobar. And having Escobar flash Crip signs back. It’s a pretty lit photo.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Sweet!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah, dude. And then after Escobar was shot and killed, he was all bummed, cause they
-            were homies. And he got all pissed cause he thought the CIA was behind it. And then the CIA
-            felt bad so they gave him a promotion and a new job doing undercover black-ops for them. Like
-            destabilizing governments around the world by corrupting their leaders and turning them into our
-            puppet dictators.”
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Intern B bites his lip. Realizing Intern A was probably right. Shuffles in his seat a bit more then changes the subject.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;I hear he&rsquo;s the new affirmative action hire here?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Shut the fuck up dude. Stop fucking around.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What?! I&rsquo;m not fucking around. I really did hear that. Like he&rsquo;s the first black affirmative action hire at the CIA?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Duuuuude &hellip; stop it.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, is it true?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Intern A takes a deep breath and reflects on it for a moment.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, it&rsquo;s true. And from what I&rsquo;ve heard he&rsquo;s real bad ass too. So you&rsquo;d better be real careful what you say around him.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Huh? What do you mean he&rsquo;s bad ass?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Dude, don&rsquo;t even start with me.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What? I&rsquo;m being serious. I really want to know?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Intern A lets out a long-exhausted sigh.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, I don&rsquo;t know this for sure – this is all just what I heard from around the water-cooler – but do you remember back in the 80&rsquo;s when the CIA introduced crack into the ghettos and had black gang members selling it for them?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, Deputy Director Smooove was like the first black gang member selling crack for the CIA. I think he was a Crip or something like that. And the CIA was supplying him crack to sell.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Cool.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah. And I guess he&rsquo;s always worked for them ever since. Like doing little odd jobs and stuff.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Odd jobs? Like what do you mean odd jobs?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, I don&rsquo;t know &hellip; I guess like selling crack for them. Making crack for them. Teaching other people how to make and sell crack. And I heard he used to be on those planes that would carry cocaine back from Colombia to make crack out of.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Nice.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, and I also heard he used to hang out with Pablo Escobar and shit. Like they were homies. I saw a picture of him once with Escobar at this strip club in Medellin with all these strippers around them. Partying and doing blow off their tits. And he&rsquo;s flashing gang signs with Escobar and having Escobar flash Crip signs back. It&rsquo;s a pretty lit photo.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Sweet!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, dude. And then after Escobar was shot and killed, he was all bummed, cause they were homies. And then he got all pissed cause he thought the CIA was behind it, and the CIA felt bad so they gave him a promotion and a new job doing undercover black-ops for them, like destabilizing governments around the world by corrupting their leaders and turning them into our puppet dictators.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;By giving them crack?&rdquo;</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="padding-left: 18px"></span>
-            “By giving them crack?” <br>
-             <span style="padding-left: 18px"></span>
-            “What?! ... I don’t know ... maybe? But he would like party with them and get them all
-            hooked on our American lifestyle. Like partying, doing drugs, banging chicks. Whatever it took
-            for them to be our political slaves and shit. And I guess he’s really good at getting people to want
-            to hang out and party with him cause now he’s come full circle and they’ve promoted him to the
-            Deputy Director of Archived Secret Projects because apparently he loves doing all that
-            undercover black-ops shit.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Nice!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Yeah dude. And from what I hear he’s real old school.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Old school? Like what do you mean old school?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well ... like he’s been changing things around here so they more fit his style and
-            personality.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Really? Like how?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, I don’t really know. But it’s all like Mad Men around here now. Like how shit was
-            done back in the 60’s. Bringing back all that stuff.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Like what stuff?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Well, from what I hear drinking’s back on the job. And he likes Hennessey too. On the
-            rocks. So you’d better learn how to make that shit cause he’s probably gonna have you make him
-            one.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Cool.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “And smoking too.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Like crack?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “No, not like crack you idiot. Like weed. In blunts. And you’d better learn how to roll that
-            shit too cause he’s definitely going to make you do that for him.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Awesome!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “And he brought back the old secretary pool thing too. Where he picks out a new secretary
-            every morning. And he’s got like 12 chicks in his secretary pool. And where you’d think they’d
-            all be black, they’re not, they’re all white. With big asses. He loves white chicks with big asses. <br>
-            That’s like his thing. And he calls them all his bitches. Like he’s a pimp from the 70’s or
-            something. And he has this one chick, his main chick, who is black, and she’s like super-hot, and
-            he calls her his bottom bitch. I think that’s like an old pimp term from the 70’s that means his
-            best bitch. But he doesn’t call her that to her face, cause she’ll fuck him up. And you don’t want
-            to fuck with her either cause she’ll fuck you up too.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Seriously? Like what do you mean?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “I mean she’s like one of those Black Panther chicks.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “You mean like from that Wakanda movie?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “No. Not from that gay-ass Wakanda movie. Like one of the original Black Panther chicks. <br>
-            The badass ones from the 70’s. Who wore black gloves, with clenched fists, and fucked shit up. <br>
-
-            Those Black Panther chicks. Not some gay-ass woke Wakanda shit.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Cool ...” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh shit, here he comes!” Intern A starts shuffling around in his seat, re-organizing his
-            papers, and fidgeting about as they both now look through the glass window where can they see
-            the new Deputy Director walking down the hallway. Crip-walking. Wearing a jet-black
-            pinstriped suit, black fedora, possible doo-rag underneath it, blue pocket square and black
-            stainless-steel cane while holding a slightly-bejeweled chalice-style coffee mug. Flashy, but not too
-            flashy. Like as flashy as you would imagine the CIA’s HR-Department would allow him to
-            get away with after a long discussion and compromise on it. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Is he crip-walking?” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Shut up dude.” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            DD Smooove enters the room. <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Whattup cracka’s.”
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What?! &hellip; I don&rsquo;t know &hellip; maybe? But he would like party with them and get them all hooked on our American lifestyle. Like partying, doing drugs, banging chicks. Whatever it took to get them to be our political slaves and shit. And I guess he&rsquo;s really good at getting people to want to hang out and party with him cause now he&rsquo;s come full circle and they&rsquo;ve promoted him to the Deputy Director of Archived Secret Projects cause apparently he loves doing all that undercover black-ops shit.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Sweet!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah dude. And from what I hear he&rsquo;s real old school.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Old school? Like what do you mean old school?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well &hellip; from what I hear he&rsquo;s been changing things around here so they more fit his style and personality.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Like how?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, I don&rsquo;t really know. But it&rsquo;s like all Mad Men around here now. Like how stuff was done back in the 60&rsquo;s. He&rsquo;s bringing back all that stuff.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Like what stuff?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well, from what I hear drinking&rsquo;s back on the job. And he likes Hennessey too. On the rocks. So you&rsquo;d better learn how to make that cause he&rsquo;s probably gonna have you make him one.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Cool.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;And smoking too.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Like crack?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;No, not like crack you idiot. Like weed. In blunts. And you&rsquo;d better learn how to roll that shit too cause he&rsquo;s definitely going to make you do that for him.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Sweet!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;And he brought back the old secretary pool thing too. Where he picks out a new secretary every morning. And he&rsquo;s got like 12 chicks in his secretary pool. And where you&rsquo;d think they&rsquo;d all be black, they&rsquo;re not, they&rsquo;re all white. With big asses. He loves white chicks with big asses. That&rsquo;s like his thing. And he calls them all his bitches. Like he&rsquo;s a pimp from the 70&rsquo;s or something. And he has this one chick, his main chick, who is black, and she&rsquo;s like super-hot and he calls her his bottom bitch. I think that&rsquo;s like an old pimp term from the 70&rsquo;s that means his best bitch. But he doesn&rsquo;t call her that to her face, cause she&rsquo;ll fuck him up. And you don&rsquo;t want to call her that either, cause she&rsquo;ll fuck you up too.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Huh? Like what do you mean?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;I mean she&rsquo;s like one of those Black Panther chicks.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;You mean like from that Wakanda movie?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;No. Not from that gay-ass woke Wakanda movie. Like one of the original Black Panther chicks. The badass ones from the 70&rsquo;s. Who wore black gloves, with clenched fists, and fucked shit up. Those Black Panther chicks. Not some gay-ass woke Wakanda shit.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Cool &hellip;&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh shit, here he comes!&rdquo; Intern A starts shuffling around in his seat, re-organizing his papers and fidgeting about as they both now look through the glass window where can they see the new Deputy Director walking down the hallway. Crip-walking. Wearing a jet-black pinstriped suit, black fedora, possible doo-rag underneath it, blue pocket square and black stainless-steel cane while holding a slightly-bejeweled chalice-style coffee mug. Flashy, but not too flashy. Like as flashy as you would imagine the CIA&rsquo;s HR-Department would allow him to get away with after a long discussion and compromise on it.</p>
+        </div>
+        <div class="modal-body a4-page">
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Is he crip-walking?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Shut up dude.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>DD Smooove enters the room.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Whattup cracka&rsquo;s.&rdquo;</p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
@@ -1673,262 +743,100 @@
             <h2 class="pdf-title">Dirty Little Monkeys</h2>
             <img src="./images/character_10_2.jpeg" style="max-width: 340px; width: 100%" alt="icon">
           </div>
-          <h6>The Legend of Balinese DonMu – Book One (Part II of III) – Chapter 29</h6>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            ... the five of us then watched as Mama’san and her two Trainees parrot-stomped their way
-            out onto the southern verandah, all the way over to the edge of the marble balustrade, place their
-            hands on the railing and stare out at the chaotic scene of Karen, Beehive and Lil’ Shmoogy all
-            yelling and screaming and fighting and causing all kinds of other problems when Mama’san gave
-            off a quick grunt and raised her bullhorn right up to her mouth. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What going on here!!” She belted out. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Karen turned around first. “This is bullshit! The people in charge don’t know what the hell
-            they’re doing. Everything’s all fucked up and we should be the ones in charge just to get things
-            done right.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, this is total bullshit!” Lil’ Shmoogy cried out too. “They don’t know what the hell
-            they’re doing!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What you talking about?” Mama’san glared right back at them. “You both dirty little Level 1
-            workers. You know nothing.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Beehive now turned around. “That’s offensive. You don’t call people dirty and little. It’s
-            dehumanizing.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What <i>you talking about?</i>” Mama’san barked back at them. “You dirty little Level 1 worker
-            too! You ALL dirty little Level 1 workers. Dirty little Mudbugs!!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Lil’ Shmoogy reared back. “Did you just call me a fuckin’ Mudbug?!” Tossing her rice sickle
-            on the ground. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            <i> Uh oh.</i> <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Mama’san looked right at her. With her piercing North Korean eyes. Staring directly at her.
-            Eyes locked-in. “You worse than Mudbug! ... You more like ... Monkey!! A dirty little no-good
-            monkey! ... all three of you ... dirty little no-good monkeys!!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Lil Shmoogy’s jaw dropped. Beehive looked on horrified too. Even us in the control room
-            knowing Mama’san probably had no idea what she was saying was over-the-top racist, were
-            genuinely shocked by the comparison. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            <i>Oh crap.</i> <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What the fuck’d you just call me?!” Lil’ Shmoogy snapped back. “Did you just call me a
-            fucking monkey?!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Mama’san glared right at her. Not even blinking. Staring directly at her. “Monkeys always
-            take! Never give anything back. No contribute nothing. Always just ransacking and making
-            mess. Just like you dirty little monkeys. Always scheming and manipulating. Taking advantage
-            of others. Flinging poo around like own poo no stink. When it does. Monkey always think they
-            poo smells the best.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Deebag snickered in the background while Karen scowled over at him. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Shut the fuck up Dirk. You don’t know shit. You’re more racist than she is.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Mama’san looked right at him. “What you laugh at Deebag? You think that funny? You
-            worse than all of them. You like lion!” <br>
-            <span style="margin-left: 18px;display: inline-block;"></span>
-            “Oh Jesus!” Lil’ Shmoogy threw her hands in the air. “You’ve got to be kidding me?! You
-            call the white guy a lion? Yeah, that figures you fucking racist!”
-          </p>
+          <h6>The Legend of Balinese DonMu – Book One (Part II of III) – Chapter 27</h6>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&hellip; the five of us then watched as Mama&rsquo;san and her two Trainees parrot-stomped their way out onto the southern verandah, all the way over to the edge of the marble balustrade, place their hands on the railing and stare out at the chaotic scene of Karen, Beehive and Lil&rsquo; Shmoogy all yelling and screaming and fighting and causing all kinds of other problems when Mama&rsquo;san gave off a quick grunt and raised her bullhorn right up to her mouth.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What going on here!!&rdquo; She belted out.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Karen turned around first. &ldquo;This is bullshit! The people in charge don&rsquo;t know what the hell they&rsquo;re doing. Everything&rsquo;s all fucked up and we should be the ones in charge just to get things done right.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, this is total bullshit!&rdquo; Lil&rsquo; Shmoogy cried out too. &ldquo;They don&rsquo;t know what the fuck they&rsquo;re doing!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What <em>you</em> talking about?&rdquo; Mama&rsquo;san glared right back at them. &ldquo;You both dirty little Level 1 workers. You know nothing!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Beehive now turned around. &ldquo;That&rsquo;s offensive. You don&rsquo;t call people dirty and little. It&rsquo;s dehumanizing.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What <em>you</em> talking about?&rdquo; Mama&rsquo;san barked back at them. &ldquo;You dirty little Level 1 worker too! You ALL dirty little Level 1 workers. Dirty little Mudbugs!!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil&rsquo; Shmoogy reared around. &ldquo;Did you just call me a fuckin&rsquo; Mudbug?!&rdquo; Tossing her rice sickle on the ground.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Uh oh.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama&rsquo;san looked right at her. With her piercing North Korean eyes. Staring directly at her. Eyes locked-in. &ldquo;You worse than Mudbug! &hellip; You more like &hellip; a Monkey!! A dirty little no-good monkey! &hellip; all three of you &hellip; dirty little no-good monkeys!!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil Shmoogy&rsquo;s jaw now dropped. Beehive looked on horrified too. Even us in the control room – knowing that Mama&rsquo;san probably had no idea that what she was saying was over-the-top racist – were genuinely shocked by the comparison.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh crap.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What the fuck&rsquo;d you just call me?!&rdquo; Lil&rsquo; Shmoogy snapped back. &ldquo;Did you just call me a fucking monkey?!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama&rsquo;san glared right at her. Not even blinking. Staring directly at her. Unflinching.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Monkeys always take! Never give anything back. No contribute nothing. Always just ransacking and making mess. Just like you dirty little monkeys. Always scheming and manipulating. Taking advantage of others. Flinging poo around like own poo no stink. When it does. Monkey always think they poo smells the best!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Deebag snickered in the background while Karen scowled over at him.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Shut the fuck up Dirk! You don&rsquo;t know shit. You&rsquo;re more racist than she is.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama&rsquo;san looked right at him. &ldquo;What you laugh at Deebag? You think that funny? You worse than all of them. You like lion!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh Jesus!&rdquo; Lil&rsquo; Shmoogy threw her hands in the air. &ldquo;You&rsquo;ve got to be kidding me?! You call the white guy a lion? Yeah, that figures you fucking racist!&rdquo;</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Mama’san yelled back. “What you talk about. Lion worse than all of them. Even monkey. <br>
-            Cause lion take everything for self. Never share. And take female lions as sex slaves. Have
-            harem. And make them all do hunting for him. While he lies on ground and sleeps. So lazy. <br>
-            Make everyone else do work for him and kill other male lions who come near him and try to take
-            sex slaves. Only cause he stronger. Without strength he nothing. Worst animal of all!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            At this point it was getting pretty out of control. And felt like something had to be done. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Lakeisha?!” I said turning over to her. Noticing her jaw halfway to the floor. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “On it.” She answered without missing a beat and hurried out of the secret control room while
-            Wing and Olof were falling halfway out of their chairs. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            I thought about looking over at Indah but didn’t know if I wanted to see that expression right
-            now. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “You all need to be like ants!” Mama’san continued. “They work the best. Together. For
-            community. You ever see ants fighting amongst selves? No. Cause they work together. Not like
-            you greedy little monkeys. Always plotting and manipulating.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “You can’t go around calling people monkeys, Mudbugs and ants, it’s racist.” Beehive spoke
-            up.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Quiet monkey!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Wing giggled. “She like angry dragon.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “At least Mudbugs know their place. And willing to learn. You all think you better than
-            everyone. And no want to learn. Like selfish little monkeys!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Mama’san then spotted Hippie Jon in the background doing something productive. And
-            seemed impressed. “You see Hippie Jon over there?” Now pointing over at him. “You see how
-            he work?” Then put her bullhorn right up to her mouth and her tone quickly changed back to
-            sweet and sensual. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ohhhh, Hippie Jon.” She now purred through her bullhorn. “Look at you working like big
-            strong worker ant. Providing for community and not just self. So sexy. Maybe you come and
-            show dirty little monkeys how to work properly.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “You need to stop calling people monkeys, Mudbugs and ants!” Beehive shouted out. “It’s
-            incredibly offensive.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Your work offensive!” Mama’san yelled back. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “You need to be better.” Beehive stomped their foot on the ground. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Huh?!” Mama’san now stopped. And looked at them. Utterly confused by that last comment.
-            “What you mean?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “You just need to ... <i>be better</i>. And ... <i>do better</i>.” They said again proudly. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “ <i>You</i> need to be better ... Better at work!” Mama’san barked back. “And life! ... That why
-            you Level One worker!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Lakeisha finally entered the screen ... <i>Oh thank God!</i> <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ok listen up.” She spoke to the group. “Everyone just needs to calm down here. Let’s all just
-            calm down and take deep breaths.” Then leaned over to Mama’san and whispered something in
-            her ear. To which Mama’san looked back at her, politely nodded, then turned back to Karen and
-            the others while putting her bullhorn back to her mouth. “I’ll be back!!” She roared-out as the
-            three of them parrot-marched off. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Now.” Lakeisha said looking around at everybody. “Tell me what’s going on here?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “It was horrible! Just horrible!” Beehive cried out. “I mean the humanity of it all!” Now really
-            selling it. “She was calling everybody monkeys and Mudbugs and ants, and being racist and
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Mama&rsquo;san yelled back. &ldquo;What you talk about. Lion worse than all of them. Even monkey. Cause lion take everything for self. Never share. And take female lions as sex slaves. Have harem. And make them all do hunting for him. While he lies on ground and sleeps. So lazy. Make everyone else do work for him and kill other male lions who come near him and try to take sex slaves. Only cause he stronger. Without strength he is nothing. Worst animal of all!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>At this point it was getting pretty out of control. And I felt like something had to be done about it.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Lakeisha?!&rdquo; I said turning over to her while noticing her jaw halfway to the floor.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;On it.&rdquo; She answered without missing a beat then hurried out of the secret control room while Olof and Wing were both in hysterics falling halfway out of their chairs.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>I thought about looking over at Indah but didn&rsquo;t know if I wanted to see that expression right now.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;You all need to be like ants!&rdquo; Mama&rsquo;san continued. &ldquo;Cause they all work together. For community. Greater good. You ever see ants fighting amongst selves? No, cause they work together. Not like you greedy little monkeys. Always plotting and manipulating.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;You can&rsquo;t go around calling people monkeys, Mudbugs and ants, it&rsquo;s racist.&rdquo; Beehive spoke up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Quiet monkey!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Wing giggled. &ldquo;She like angry dragon.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;At least Mudbugs know their place.&rdquo; Mama&rsquo;san continued. &ldquo;And willing to learn. You all think you better than everyone. And no want to learn. Like selfish little monkeys!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She then spotted Hippie Jon in the background doing something productive. And seemed impressed. &ldquo;You see Hippie Jon over there?&rdquo; Now pointing over at him. &ldquo;You see how he work?&rdquo; Then put her bullhorn right up to her mouth and her tone quickly changed back to sweet and sensual.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ohhhh, Hippie Jon.&rdquo; She now purred through her bullhorn. &ldquo;Look at you working like big strong worker ant. Providing for community and not just self. So sexy. Maybe you come and show dirty little monkeys how to work properly.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;You need to stop calling people monkeys, Mudbugs and ants!&rdquo; Beehive shouted. &ldquo;It&rsquo;s incredibly offensive.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Your work offensive!&rdquo; Mama&rsquo;san yelled back.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;You need to be better.&rdquo; Beehive stomped their foot on the ground.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Huh?!&rdquo; Mama&rsquo;san now stopped. And looked curiously at them. Utterly perplexed by the last comment. &ldquo;What you mean?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;You just need to &hellip; <em>be better</em> &hellip; and &hellip; <em>do better</em>.&rdquo; They said again proudly.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;<em>You</em> need to be better &hellip; better at work!&rdquo; Mama&rsquo;san barked back at them. &ldquo;And life! &hellip; That&rsquo;s why you dirty little Level One worker!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lakeisha finally entered the screen &hellip; <em>Oh thank God!</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ok everyone. Listen up.&rdquo; She spoke out to the group. &ldquo;Everyone just needs to calm down here. Let&rsquo;s all just calm down and take deep breaths.&rdquo; Then leaned over to Mama&rsquo;san and whispered something in her ear. To which Mama&rsquo;san looked back at her, politely nodded, then turned back to Karen and the others and put her bullhorn back to her mouth. &ldquo;I&rsquo;ll be back!!&rdquo; She roared-out and then parrot-marched off with her two little Trainees.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Now.&rdquo; Lakeisha said turning around to face everybody. &ldquo;Tell me what&rsquo;s going on here?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;It was horrible! Just horrible!&rdquo; Beehive cried out. &ldquo;I mean the humanity of it all!&rdquo; Now really selling it. &ldquo;She was calling everybody monkeys and Mudbugs and ants, and being racist and</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            offensive, and causing micro-aggressions! I am so triggered and traumatized right now that I
-            don’t even know what to do!” Wailing away. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “That bitch called me a fucking monkey!” Lil’ Shmoogy cried out. “I oughta sue that racist
-            old bat!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Karen yelled out too. “Yeah, this is total bullshit! Everyone’s all racist around here, and
-            offending everyone, and now Dirk is over there trying to bang all those crazy cult chicks and
-            form his own cult.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “I’m talking about the incident with Mama’san?” Lakeisha said. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh.” Karen pondered that a moment. “That bitch called me a monkey too!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “I am so offended right now that I cannot even work anymore. I need to go heal!” Beehive
-            cried out. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, fuck this shit. I need to go heal too!” Lil’ Shmoogy shouted out throwing her rice
-            sickle down and cursing as well. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, me too.” Karen added angrily throwing down her rice sickle while Beehive looked
-            over at her sideways. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... why do you need to go heal?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... why the hell do you think?” Karen snapped back. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “I don’t know ... why?” Beehive said. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Because that bitch called me a monkey.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, but you’re white. So you shouldn’t get offended by being called a monkey.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, well your Asian.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “So?” Beehive looked offended again. “What the hell’s that supposed to mean?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “It’s supposed to mean that monkeys only refer to black people.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What’d the fuck you just say?!” Lil’ Shmoogy whipped her head around. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            <i>Oh shit. </i>I thought. And looked over and saw Olof and Wing’s mouths drop open too. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            <i>This isn’t gonna be good.</i> <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            We could see Lakeisha on the monitor just standing there, staring at them, shaking her head in
-            disbelief. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Karen looked around confused. “Whaaaaaatttt??” Saying it almost desperately. “I’m just
-            saying that word is only offensive to black people because white people used to call them ...” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Bitch! You’d better watch what the fuck you say next!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Whaaaaattt?” Even more confused than before. “I’m not saying that word myself. I’m only
-            saying what used to be said? Jesus, can’t we even talk about it?” <br>
-            “No bitch! No, we can’t fucking talk about it. You skanky-ass ho!” Lil’ Shmoogy reared up. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “I don’t frickin’ know you. So muthafuckin’ No we can’t talk about it. Dumbass bitch. I oughta
-            slap the white off your ass.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Karen now looked pleadingly over at Beehive. To possibly help her out here. Only Beehive
-            seemed to have turned on her too. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... you just said that on camera. You just fucked up. And you are now a racist. It is
-            official. So obviously I can’t be associated with someone like you, and you know what, I always
-            suspected you were a racist too. And now it’s proven to be true. So you are now exposed. For the
-            whole world to see. And you need to be cancelled.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh fuck you, you persnickety little bitch!” Karen shot back. “You’re so full of shit. You’re
-            the fakest one of all. Going around saying how you’re all transitioning and gender fluid and shit,
-            when I know for a fact you’re not.”
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>offensive, and causing micro-aggressions! I am so triggered and traumatized right now that I don&rsquo;t even know what to do!&rdquo; Wailing away.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;That bitch called me a fucking monkey!&rdquo; Lil&rsquo; Shmoogy cried out. &ldquo;I oughta sue that racist old bat!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Karen yelled out too. &ldquo;Yeah, this is total bullshit! Everyone&rsquo;s all racist around here and offending everyone, and now Dirk is over there trying to bang all those crazy cult chicks and form his own cult.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;I&rsquo;m talking about the incident with Mama&rsquo;san?&rdquo; Lakeisha said.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh.&rdquo; Karen pondered that a moment. &ldquo;That bitch called me a monkey too!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;I am so offended right now that I cannot even work anymore. I need to go heal!&rdquo; Beehive cried out.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, fuck this shit. I need to go heal too!&rdquo; Lil&rsquo; Shmoogy shouted out and threw her rice sickle on the ground cursing as well.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, me too.&rdquo; Karen said angrily throwing her rice sickle down as Beehive looked over at her sideways.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ummmm &hellip; why do you need to go heal?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ummmm &hellip; why the hell do you think?&rdquo; Karen snapped back.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;I don&rsquo;t know &hellip; why?&rdquo; Beehive said.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Because that bitch called me a monkey.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, but you&rsquo;re white. So you shouldn&rsquo;t get offended by being called a monkey.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, well your Asian.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;So?&rdquo; Beehive looked offended again. &ldquo;What the hell&rsquo;s that supposed to mean?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;It&rsquo;s supposed to mean that monkeys only refer to black people.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What&rsquo;d the fuck you just say?!&rdquo; Lil&rsquo; Shmoogy reared her head around.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Oh shit.</em> I thought, as I looked over at Olof and Wing who had their mouths wide open too. <em>This isn&rsquo;t gonna be good.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>We could see Lakeisha just standing there. Staring at them. Shaking her head in utter disbelief.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Karen then looked around all confused. &ldquo;Whaaaaaatttt??&rdquo; Saying it almost desperately. &ldquo;I&rsquo;m only saying that word is offensive to black people because white people used to call them &hellip;&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Bitch! You&rsquo;d better watch what the fuck you say next!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Whaaaaattt?&rdquo; Even more confused now. &ldquo;I&rsquo;m not saying that word myself. I&rsquo;m only saying what <em>used</em> to be said? Jesus, can&rsquo;t we even talk about it?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;No bitch! No, we can&rsquo;t fucking talk about it. You skanky-ass ho!&rdquo; Lil&rsquo; Shmoogy reared up. &ldquo;I don&rsquo;t frickin&rsquo; know you. So muthafuckin&rsquo; No we can&rsquo;t talk about it. Dumbass bitch. I oughta slap the white off your ass.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Karen now looked over pleadingly at Beehive. To possibly help her out. Only Beehive now seemed to have turned on her too.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ummmm &hellip; you just said that on camera. You just fucked up. And you are now a racist. It is official. So obviously I can&rsquo;t be associated with someone like you, and you know what, I always suspected you were a racist too. And now it&rsquo;s proven to be true. So you are now exposed. For the whole world to see. And you need to be cancelled.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh fuck you, you persnickety little bitch!&rdquo; Karen shot back. &ldquo;You&rsquo;re so full of shit. You&rsquo;re the fakest one of all. Going around saying how you&rsquo;re all transitioning and gender fluid and shit, when I know for a fact you&rsquo;re not.&rdquo;</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh my God! She’s getting aggressive!” Beehive looked horrified and started talking in
-            different octaves again. “Micro-aggressions!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “You and your little gay boys used to say all the time how vaginas are the grossest things in
-            the world and look like disgusting little alien clams. So fuck you Bobahn, or Bob, or whatever
-            the fuck your real name is!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh my God! She just dead-named me! You all heard it. That was all on camera. She’s
-            hostile. And I will not tolerate this type of abuse. And language! You saw her verbally assault
-            me. And bully me. I am so triggered now.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            We then saw Hippie Jon start to walk over to them. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            <i>Ooooohhh, don’t do it Hippie Jon ... don’t do it ...</i> <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Hello ladies, if I could just interject a moment and possibly share a tip I learned from my
-            days at PBS ...” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Shut the fuck up Hippie Jon!” Karen snapped back. “No one gives a shit about your days at
-            PBS or what you did a million fucking years ago. So take your little fanny-pack and the dead rat
-            glued to the back of your head and get your ass back over to your little Nazi buddy where you
-            belong!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            We waited for Gunther to swear he’s not a Nazi, but Karen didn’t really have time for that.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “And you!” She reared back over at Beehive. Glaring right at them. “Who the hell ‘discovers’
-            they’re transitioning at 30 years old. I mean, puhhhhleeeeeaze. You don’t think the only reason
-            you’re doing it is because it’s all of a sudden trendy and popular? I’ll bet you anything that in
-            3yrs from now you still have a penis only one that’s more wrinkled and riddled with AIDS.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh My God!!” Beehive was taken aback. “Transphobic!! Transphobic!!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Lakeisha stepped back in. “Ok everyone, we all need to calm down here. Let’s just all calm
-            down and take deep breaths.” Then pointed at Beehive and Lil’ Shmoogy. “You and you come
-            with me.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What about me?” Karen yelled back. As she watched Beehive and Lil’ Shmoogy walk off to
-            go heal. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What about you?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “I was called a monkey too!” <br>
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh my God! She&rsquo;s getting aggressive!&rdquo; Beehive looked horrified and started talking in different octaves again. &ldquo;Micro-aggressions!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;You and your little gay boys used to say all the time how vaginas are the grossest things in the world and look like disgusting little alien clams. So fuck you Bobahn, or Bob, or whatever the fuck your real name is!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh my God! She just dead-named me! You all heard it. That was all on camera. She&rsquo;s hostile. And I will not tolerate this type of abuse. And language! You saw her verbally assault me. And bully me. I am so triggered now.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>We saw Hippie Jon start to walk over to them.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span><em>Ooooohhh, don&rsquo;t do it Hippie Jon &hellip; don&rsquo;t do it.</em></p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hi ladies, if I could just interject a moment and share a little tip I learned from my days back at PBS &hellip;&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Shut the fuck up Hippie Jon!&rdquo; Karen snapped back. &ldquo;No one gives a shit about your days at PBS or what the fuck you did a million fucking years ago. So take your little fanny-pack and the dead rat glued to the back of your head and get your ass back over to your little Nazi buddy where you belong!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>We waited for Gunther to say he swears he&rsquo;s not a Nazi, but Karen didn&rsquo;t really have time for that now.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;And you!&rdquo; She reared back over at Beehive. Glaring right at them. &ldquo;Who the hell &lsquo;discovers&rsquo; they&rsquo;re transitioning at 30 years old. I mean, puhhhhleeeeeaze. You don&rsquo;t think the only reason you&rsquo;re doing it is because it&rsquo;s all of a sudden trendy and popular? I&rsquo;ll bet you anything in 3yrs from now you still have a penis only one that&rsquo;s more wrinkled and riddled with AIDS.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh My God!!&rdquo; Beehive was taken aback. &ldquo;Transphobic!! Transphobic!!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lakeisha stepped back in. &ldquo;Ok everyone, we all need to calm down here. Let&rsquo;s just all calm down and take deep breaths.&rdquo; Then pointed at Beehive and Lil&rsquo; Shmoogy. &ldquo;You and you come with me.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What about me?&rdquo; Karen yelled back as she watched Beehive and Lil&rsquo; Shmoogy walk off to go heal.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What about you?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;I was called a monkey too.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lakeisha looked back at her. Pausing a second. &ldquo;Yeah, well you&rsquo;re white.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;So?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;So they&rsquo;re minorities.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;So &hellip; that&rsquo;s total bullshit. I was called the exact same word so I can sue you just as well.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah &hellip; well &hellip; maybe you can and maybe you can&rsquo;t but I doubt it so good luck with that.&rdquo; Then shrugged and walked off.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Fuck this shit!!!&rdquo; Karen yelled out, kicking the ground and throwing her rice sickle down as Lakeisha, Beehive and Lil&rsquo; Shmoogy all walked off to go heal. &ldquo;This is fucking bullshit! &hellip; I was called a monkey too!!&rdquo;</p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
@@ -1948,140 +856,53 @@
             <img src="./images/character_4.png" alt="icon">
           </div>
           <h6>The Legend of Balinese DonMu – Book One (Part III of III) – Epilogue</h6>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"> </span>
-            “Ok then ... get me the Director on the phone. The Big Dog. Boss Man. Gotta see what he
-            wants us to do. Clear this shit up.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm yes sir ... but ... the Director just called here sir ... looking for you. But is now on
-            the other line talking with the U.S. Embassy officer still up at the hotel getting an update from
-            him. And says he will call you back as soon as he gets off the phone with him.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ok cool. No worries. Get me Muskrat on the phone then.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... I don’t think Mr. Musk likes being called that sir.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “I don’t give a fuck what he likes being called. I’m the muthafuckin’ Deputy Director of the
-            CIA. I call people what the fuck I want.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yes sir!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Intern A then grabs the main conference-room phone sitting on the table in front of him, hits
-            position #3 on it, waits about 7 seconds, and a voice on the other end picks up. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Hello, this is Elon.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yo, whattup Muskrat!” DD Smooove says nodding his head up and down. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            There was a pronounced ... <i>Uggghhhhh</i>... through the speakerphone. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “How many times do I have to tell you to stop calling me that?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Shit Muskie! You know I’m just playing with ya big dog.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ugghhh ... ok ... fine.” Groaning again. “What do you want now Deputy Director
-            Smooove?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Well shit Muskie, I got some muthafuckin’ good news for you.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh, you do huh? Ok what’s that?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “You can put down your AI-ChatBot, space rockets and sex robot shit cause that portal shit
-            might be real.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... I don’t make sex robots.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh, yeah riiiigggggghtttt ... uh huh ... you still keeping that shit on the DL, huh Muskie?
-            Don’t want people finding out about that pervy little shit you’re doing huh? Well, don’t worry
-
-            about it big dog, you know you’re secret’s safe with me as long as you give me one those beta-
-            models to test-drive out first. Like one of those big-ass white bitches from the deep south with
-
-            those sexy-ass accents. Make her my sex slave and shit. Have her cooking my dinner and taking
-            out my trash ... and yelling at me when she catches me tapping other robot ass. Awww, hell
-            yeah, Muskie!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            There was another prolonged groan through the speaker phone. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Can we please get back on topic?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Shit, no worries, Muskie. As I was saying ... all that Ancient Alien shit you love so much ... <br>
-            about those caves and portals ... and teleporting crackas all over the place ... to other dimensions
-            ... or consciousness’s ... or whatever the hell it is. Well, that shit just might be real.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Uhhhhmmm yeah, I’m gonna need a little more.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “That Project-Alpha we told you about. From 1947. After that Roswell crash. When we found
-            those aliens and tossed ‘em in that Area 51. And now they’re all like tied up in there ... as our
-            sex slaves and shit.”
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ok then ... get me the Director on the phone. The Big Dog. The Boss Man. Gotta see what he wants us to do. Clear this shit up."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ummmm yes sir ... but ... the Director just called here sir ... looking for you. But is now on the other line talking with the U.S. Embassy officer still up at the hotel getting an update from him and says he will call you back as soon as he gets off the phone with him."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ok cool. No worries. Get me Muskrat on the phone then."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ummmm ... I don't think Mr. Musk likes being called that sir."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I don't give a fuck what he likes being called. I'm the muthafuckin' Deputy Director of the CIA. I call people what the fuck I want."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yes sir!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Intern A then grabs the phone sitting on the main conference-room table, hits the 3<sup>rd</sup> position on the speed dial, waits about 7 seconds, then a voice on the other end speaks out.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Hello, this is Elon."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yo, whattup Muskrat!" DD Smooove says nodding his head up and down.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>There was a pronounced ... <em>Uggghhhhhh</em> ... through the speakerphone.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"How many times do I have to tell you to stop calling me that?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Shit Muskie! You know I'm just playing with ya big dog."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ugghhh ... ok, fine." Groaning again. "What do you want now Deputy Director Smooove?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Well shit Muskie, I got some muthafuckin' good news for you."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, you do huh ... ok, what's that?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You can put down all your AI, space rockets, and sex robot shit cause that portal shit might be real."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ummmm ... I don't make sex robots."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, yeah riiiigggggghtttt ... uh huh ... you still keeping that shit on the DL, huh Muskie? Don't want people finding out about that pervy little shit you're doing huh? Well, don't worry about it big dog, you know you're secret's safe with me as long as you give me one those beta-models to test-drive out first. Like one of those big-ass white bitches from the deep south with those sexy-ass accents. Make her my sex slave and shit. Have her cooking my dinner and taking out my trash ... and yelling at me when she catches me tapping other robot ass. Awww, hell yeah, Muskie!"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>There was another prolonged groan through the speaker phone.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Can we please get back on topic?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Shit, no worries, Muskie. As I was saying ... all that Ancient Alien shit you love so much ... about caves and portals ... and teleporting crackas all over the place ... to other dimensions ... or consciousness's ... or whatever the fuck it is. Well, that shit just might be real."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Uuhhhh yeah, I'm gonna need a little more."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"That Project-Alpha we told you about. From 1947. After that Roswell crash. When we found those aliens and tossed 'em in that Area 51. And now they're all like tied up in there ... as our sex slaves and shit."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeeahh, I still don't know what you're talking about."</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeeahh, I still don’t know what you’re talking about.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “The ones that got torture-banged by the Illuminati. And then told us about those caves – from
-            around the world – being all connected and shit. And those pyramids being like power plants. <br>
-            Connected by Ley Lines and shit. Well, some hippie muthafucka just popped outta our cave in
-            the Peruvian jungle, all announcing himself and shit, but two-seconds before that he was in
-            muthafuckin’ Bali, Indonesia.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh, really?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oooohhhhhh yeeaaah. That cracka done tripped our motion detector so his ass is all on
-            camera and shit. But we don’t know what the hell got him there. I mean, we’ve probably tossed a
-            hundred crackas in that cave trying to portal their asses all over the place and none of ‘em ever
-            did shit. So we don’t know what the hell caused it to work this time. And your ass has gotta
-            figure that out.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh, I do, do I?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh, hell yeah you do.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh, really?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Don’t be playing with me Muskie. You wanna keep running your AI-Chatbot, Neuralink and
-            sex robot shit, don’t ya? Cause if you do ... and you don’t want us to have to come over there in
-            the middle of the night and just snatch that shit from ya ... and fuck you up ... and make you
-            disappear and shit ... then yeah, ya pretty much do.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “You don’t scare me.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh, I don’t huh?” DD Smooove starts laughing and nodding his head up and down. “Well,
-            ok Muskie ... ok ... but you know who my boss works for don’t ya?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            There was another pause on Muskie’s end of the phone. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “I believe he works for the President of the United States of America?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Cracka puhleaze ...” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ugghhhh ... Ok, fine. I’ll help you.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, that’s what I thought. That’s what I thought there Muskie. And that should scare ya
-            plenty.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “But I can’t go myself. I’m busy with other stuff. So I’m gonna have to send a rep for me.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “No worries, Muskie. Just send that fine-ass white bitch of yours who does all those
-            psychological Neuralink experiments for ya. The one with a stick up her ass who looks like she
-            hasn’t been laid in a decade. I might be wanting to tap that.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “She doesn’t like you.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Bitch puhleaze. You know she will once I tell her I gotta secret cave that can portal her ass
-            all over the place and give her special powers and shit. She’ll be begging for me to tap that ass
-            once she hears that shit.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            There was another pause and long groan from the other end of the phone. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ok fine. I’ll send her.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, that’s right Muskie. That’s my boy.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            DD Smooove hangs up the phone up looks back over at the two interns.
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"The ones that got torture-banged by the Illuminati. And told us about those caves ... from around the world ... all being connected and shit. Like those pyramids being power plants. Connected by Ley Lines and shit. Well, some hippie muthafucka just popped out of our cave in the Peruvian jungle, all announcing himself and shit, but two-seconds before that he was in muthafuckin' Bali, Indonesia."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, really?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oooohhhhhh yeeaaah. That cracka done tripped our motion detector so his ass is all on camera and shit. But we don't know what the hell got him there in the first place. I mean, we've probably tossed a hundred crackas in that cave trying to portal their asses all over the place and none of 'em ever did shit. So we don't know what the hell caused it to work this time. And your ass has gotta figure that out."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, I do, do I?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, hell yeah you do."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, really??"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Don't be playing with me Muskie. You wanna keep running your AI, Neuralink and sex robot shit, don't ya? Cause if you do ... and you don't want us to just come over there in the middle of the night and just snatch that shit from ya ... and fuck you up ... and make you disappear and shit ... then yeah, ya pretty much do."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"You don't scare me."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Oh, I don't huh?" DD Smooove starts laughing and nodding his head up and down. "Well, ok Muskie ... ok ... but you know who my boss works for don't ya?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>There was another prolonged pause from Muskie's end of the phone.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"I believe he works for the President of the United States of America?"</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Cracka puhleaze ..."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ugghhhh ... Ok, fine. I'll help you."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, that's what I thought. That's what I thought there Muskie. And that should scare ya plenty."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"But I can't go myself. I'm busy with other stuff. So I'm gonna have to send a rep for me."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"No worries, Muskie. Just send that fine-ass white bitch of yours who does all those psychological Neuralink experiments for ya. The one with a stick up her ass who looks like she hasn't been laid in a decade. I might be wanting to tap that."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"She doesn't like you."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Bitch puhleaze. You know she will once I tell her I gotta secret cave that can portal her ass all over the place and give her special powers and shit. She'll be begging for me to tap that ass once she hears that shit."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>There was another prolonged pause and groan from that end of the phone.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Ok fine. I'll send her."</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>"Yeah, that's right Muskie. That's my boy."</p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
@@ -2089,7 +910,6 @@
       </div>
     </div>
   </div>
-
   <!-- pdf 9 -->
   <div class="modal fade pdf-modal" id="PDF_nine" tabindex="-1" aria-labelledby="PDF_nine_label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
@@ -2454,290 +1274,99 @@
       <div class="modal-content a4-modal-content">
         <div class="modal-body a4-page">
           <div class="image-title">
-            <h2 class="pdf-title">Lil’ Shmoogy & Trip K’s <br>(Best Friends)</h2>
+            <h2 class="pdf-title">Lil' Shmoogy & Trip K's <br>(Best Friends)</h2>
             <br>
             <img src="./images/character_13.jpeg" style="max-width: 380px" alt="icon">
           </div>
-          <h6>Smoking Weed and Heckling a Hippie</h6>
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Lil’ Shmoogy & Trip K’s are sitting on top of the Cave of Enlightenment smoking weed, talking
-            shit, as Lil’ Shmoogy is yelling at him while he’s trying to light the bong. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What tha fuck you doing to that thing?” She says.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “I’m trying to light it.”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Nigga that’s not how you do it, you gotta put your finger over the hole first then you light it.”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Gaaaawwdammit, I know how to smoke weed bitch, don’t be telling me what I already know.”
-            <br>
-             <span style="margin-left: 18px ;display: inline-block;"></span>
-            She throws her hands in the air. “Well you ain’t doing it right muthafucka, you’re just wasting all
-            that shit.” Then all of a sudden she hears something – or someone – like a hippie – rustling about
-            in the distance and pokes her head up.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Huh? What tha fuck? ... who the fuck’s this nigga?”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What nigga?” Trip K’s pokes his head up too.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            WHACK! She cracks him across the face.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Owww! ... bitch!”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “You fucking can’t say that word!”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            He rubs his nose.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “But you say it all the time.” Then pauses. “And to me.”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “I can say it cause I’m black.”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            He looks all confused.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “But dat don’t make no sense?”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Don’t have to make sense. Doze are da rules. Made up by you white-ass cracka muthafuckas
-            cuz black people have been discriminated against, marginalized, oppressed, beaten, enslaved,
-            and forced to live in ghettos while you white-ass honkey muthafucka’s been living all high on
-            the hog all privileged and shit.”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            He turns his head to her.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “But I live in a trailer on da side of a swamp and have to hunt squirrels for food.”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            She looks at him oddly.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Seriously? ... you hunt squirrels for food?”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeeaahhh ...” He shrugs his shoulders.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “And eat ‘em?”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... yeeaahhh ...”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            She pauses a second.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What the fuck they taste like?”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            He turns his head. “I don’t know, like squirrels?”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Nigga I don’t know what da fuck a squirrel tastes like ... tell me what normal animal – that
-            normal people eat – it tastes like?”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ugghhh, I don’t know ... I guess it kinda tastes like possum?”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Nigga.” She raises her hands up. “I don’t what the fuck a possum tastes like!”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Gaaaaaawdammit! I don’t know what da fuck a squirrel tastes like it just tastes like a fucking
-            squirrel, stop asking me these dumbass questions!”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            The hippie now gets up in front of them and stops.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... Hello?” He says.
-          </p>
+          <p class="card-text">(Best Friends)</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil&rsquo; Shmoogy & Trip K&rsquo;s are sitting on the edge of the rice paddy smoking weed, talking shit, while Lil&rsquo; Shmoogy is yelling at him as he&rsquo;s trying to light the bong.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What tha fuck you doing to that thing?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;I&rsquo;m trying to light it.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Nigga that&rsquo;s not how you do it, you gotta put your finger over the hole first then you light it.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Gaaaawwdammit, I know how to smoke weed bitch, don&rsquo;t be telling me what I already know.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She throws her hands in the air. &ldquo;Well you ain&rsquo;t doing it right muthafucka, you&rsquo;re just wasting all that shit.&rdquo; Then all of a sudden she hears something – or someone – like a hippie – rustling about in the distance and pokes her head up.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What tha fuck? &hellip; who the fuck&rsquo;s this nigga?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What nigga?&rdquo; Trip K&rsquo;s pokes his head up too.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>WHACK! She cracks him across the face.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Owww &hellip;!!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;You fucking can&rsquo;t say that word!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He rubs his nose.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;But you say it all the time.&rdquo; Then pauses. &ldquo;And to me.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;I can say it cause I&rsquo;m black.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He looks around all confused.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;But dat don&rsquo;t make no sense?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Don&rsquo;t have to make sense. Doze are da rules. Made up by you white-ass cracka muthafucka&rsquo;s cuz black people have been discriminated against, marginalized, oppressed, beaten, enslaved, and forced to live in ghettos while you white-ass honkey muthafucka&rsquo;s been living all high on the hog all privileged and shit.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He turns his head to her.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;But I live in a trailer on da side of a swamp and have to hunt squirrels for food.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Seriously?&rdquo; She looks at him oddly. &ldquo;You hunt squirrels for food?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeeaahhh &hellip;&rdquo; He shrugs his shoulders.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;And eat &rsquo;em?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ummmm &hellip; yeeaahhh &hellip;&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She pauses a second.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What the fuck they taste like?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;&hellip; I don&rsquo;t know like squirrels?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Nigga, I don&rsquo;t know what da fuck a squirrel tastes like &hellip; tell me what normal animal – that normal people eat – it tastes like?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ugghhh, I don&rsquo;t know &hellip; I guess it kinda tastes like possum.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Nigga.&rdquo; She raises her hands up. &ldquo;I don&rsquo;t what the fuck a possum tastes like!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Gaaaaaawdammit! I don&rsquo;t know what da fuck a squirrel tastes like it just tastes like a fucking squirrel, stop asking me these dumbass questions!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>The hippie now gets up in front of them and stops.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Uhhhhhhh &hellip; Hello?&rdquo; He says.</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Lil’ Shmoogy looks at him rather annoyed. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Sup nigga?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, sup nigga.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            WHACK! <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Owww ... bitch!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “What da fuck I just tell you!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “But I thought I just couldn’t say it to a black person ... and this guy’s white!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            She looks at him oddly. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Why the fuck would you want to call a white person the N word?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            He shrugs his shoulders. “I don’t know. Cause it’s funny.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Seriously?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah.” He concedes. “It’s funny cause then they get all confused and offended. And some of
-            ‘em get outraged. Which can be really funny.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Lil’ Shmoogy starts snickering. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh yeah, it’s funny when white people get all offended and outraged and shit.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh yeah. Cause a lot of ‘em are all liberal – and woke – and hate themselves for being white,
-            and then get all offended and outraged for other people, they don’t even know, when they get
-            called words they don’t even understand. Like if I called you a piece of shit, you’d be all pissed
-            off but if I said you were ‘the shit’ you’d be like, oh hell yeah.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            She looks back at him. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh yeah, it’s funny when white people get all pissed off and outraged for other people and
-            shit.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh yeah, cause you know if the roles were reversed and black people had been enslaving white
-            people all this time and now it’s a hundred years later and white people were still complaining
-            about it ... black people would be all ... fuck you cracka ... yeah I enslaved your ass keep it up
-            and I’ll enslave your ass again.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh yeah, black people would be all ... fuck you you dumbass cracka, yeah I enslaved your ass,
-            keep it up and I’ll enslave your ass again and toss your ass back out in the cotton fields and then
-            bang yo Mamma.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ha ha. Oh yeah, black people would be all fuck you you lazy-ass cracka, get a goddamn job,
-            stop lying around smoking weed all day and trying to get reparations from me, now send your
-            momma over here cuz I’m gonna bang her.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh yeah, black people would be all ... fuck you you dumbass liberal cracka, quit trying to get
-            reparations from me and shit for free. Now go get a goddamn job.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh yeah totally ... like this dumbass liberal cracka hippie in front of us ... he probably doesn’t
-            have a job either and wants some shit for free.” Trip K’s now looks right at him. “So is that it
-            hippie? Do you not have a job and want some shit for free?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            The hippie just stands there looking around all confused. “Ummmm ... did you guys just call me
-            a dumbass liberal cracka hippie?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah we called you a dumbass liberal cracka hippie boy, whatchu gonna do about it?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah you dumbass liberal cracka hippie, what the fuck you gonna do about it? You gonna cry?
-            ... You gonna cry and run off to your dumbass hippie momma and have her jerk you off?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Trip K’s starts laughing. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, this dumbass liberal hippie probably has his mom jerk him off. They’re all free love and
-            shit. Hey mom, come jerk me off ... Free love!” <br>
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil&rsquo; Shmoogy looks at him rather annoyed.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Sup nigga?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, sup nigga.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>WHACK!</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Owww &hellip; !!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What tha fuck I just tell you!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;But I thought I just couldn&rsquo;t say it to a black person &hellip; and this guy&rsquo;s white!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She looks at him oddly.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Why the fuck would you want to call a white person the N word?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>He shrugs his shoulders. &ldquo;I don&rsquo;t know, cause it&rsquo;s funny.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Seriously?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah.&rdquo; He concedes. &ldquo;It&rsquo;s funny cause they get all confused and offended. And some of &rsquo;em get outraged. Which can be really funny.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil&rsquo; Shmoogy starts chuckling.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh yeah, it&rsquo;s funny when white people get all offended and outraged and shit.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh yeah, cause a lot of &rsquo;em are all liberal – and woke – and hate themselves for being white. And then get all offended and outraged for other people, they don&rsquo;t even know, when they get called words they don&rsquo;t even understand. Like if I called you a piece of shit you&rsquo;d be all pissed off, but if I said you were &lsquo;the shit&rsquo; you&rsquo;d be like, oh hell yeah.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>She looks back at him.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh yeah, it&rsquo;s funny when white people get all pissed off and outraged for other people and shit.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh yeah, cause you know if the roles were reversed and black people had been enslaving white people all this time and now it&rsquo;s a hundred years later and white people were still complaining about it &hellip; black people would be all &hellip; fuck you cracka, yeah I enslaved your ass keep it up and I&rsquo;ll enslave your ass again.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh yeah, black people would be all &hellip; fuck you you dumbass cracka, yeah I enslaved your ass, keep it up and I&rsquo;ll enslave your ass again and toss your ass back out in the cotton fields and then bang your Momma.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ha ha.&rdquo; He laughs. &ldquo;Oh yeah, black people would be all fuck you you dumbass lazy cracka, get a goddamn job and stop lying around smoking weed all day and trying to get reparations from me, now send your momma over here cuz I&rsquo;m gonna bang her.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil&rsquo; Shmoogy cracks up. &ldquo;Oh yeah &hellip; like this dumbass lazy liberal cracka hippie in front of us. He probably wants some reparations or shit for free too &hellip;&rdquo; Then stares right at him. &ldquo;So is that it hippie? Do you want some reparations or shit for free too?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>The hippie just stands there looking around all confused. &ldquo;Ummmm &hellip; did you guys just call me a dumbass liberal cracka hippie?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah we called you a dumbass liberal cracka hippie boy.&rdquo; Trip K&rsquo;s yells out. &ldquo;Whatchu gonna do about it?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, you dumbass liberal cracka hippie, what the fuck you gonna do about it? You gonna cry? &hellip; you gonna cry and run off to your dumbass hippie momma and have her jerk you off?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Trip K&rsquo;s starts laughing. &ldquo;Yeah, this dumbass hippie probably has his mom jerk him off. They&rsquo;re all free love and shit. Hey mom, come jerk me off &hellip; Free love!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil&rsquo; Shmoogy stares right at the hippie. &ldquo;So is that it hippie, you gonna cry and run off to your dumbass hippie momma and have her jerk you off?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>The hippie just stands there with a very confused look to his face. &ldquo;Noooooo &hellip;&rdquo;</p>
         </div>
         <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Lil’ Shmoogy starts laughing too. “Yeah, this dumbass liberal hippie probably has his mom jerk
-            him off ... So is that it hippie, you gonna cry and run off to your momma and have her jerk you
-            off?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            The hippie just stands there with a very confused look to his face. “Noooooo ...” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Well what tha fuck you want then you dumbass liberal hippie?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah you dumbass liberal hippie, what tha fuck you want?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... I just won this secret mystery card for the cave of enlightenment?” He holds up a
-            gold-colored card in the air. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ooooohhh ...” Trip K’s face lights up. “Oohhh, look at me. I’m a dumbass hippie and I just
-            won a secret mystery card for the cave of enlightenment. Ooooohhhh, I’m gonna get special
-            powers in there or maybe meet DonMu and have him take me to enlightenment.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah.” Lil’ Shmoogy jumps back in. “I’m a dumbass liberal hippie and I just won a secret
-            mystery card for the cave of enlightenment and think there’s a magic genie in there who’s gonna
-            pop out of a bottle and grant me three wishes.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            Trip K’s busts up even harder. “Ooooohhh yeah ... look at me, I’m a dumbass hippie and I’m
-            gonna get three wishes from a genie ... Oooohh, and let me guess what a hippie wishes for ... I
-            wish I had more weed!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Haha, oh yeah!” Lil’ Shmoogy continues. “Look at me, I’m a dumbass liberal hippie and wish I
-            had more weeeeeed.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, what a total dumbass hippie. Probably smoking that shwag weed too and can’t even get
-            high. Is that it hippie? You been smoking that Mexican shwag weed and can’t even get high?”
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            The hippie just shrugs his shoulders.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... noooo ...” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yo hippie. You want to smoke some of this good weed? The shit we got right here? Some
-            chronic-ass indo that’ll take you high up to hippie heaven?” Lil’ Shmoogy holds her bag up in
-            the air. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Noo, I’m ok.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh! ... Oh really?!” Trip K’s exclaims. “Is our weed not good enough for you, hippie? Is that
-            it? You think you’re too good for us?” He now turns to Lil’ Shmoogy. “Did you hear that? I
-            think the liberal hippie thinks he’s too good for us.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Is that it hippie?” Lil’ Shmoogy looks at him. “You think you’re too good for us? Don’t want to
-            be putting your white privileged hippie lips on the same bong as a black chick and some
-            dumbass Klan redneck?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Hey!” Trip K’s snaps his head over. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Noooo ... I just want to have a clear head when I go in the cave of enlightenment.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ooooohhh ... ohhh, look at the hippie now. He wants to have a clear head when he goes in the
-            cave of enlightenment. Oooooohhhh ... don’t want to have DonMu thinking he’s some kind of
-            dumbass hippie who likes to smoke weed and hang out with black chicks and racist Klan
-            rednecks and then clouds his judgement before he gets enlightened. Is that it hippie?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... aren’t you the two who got thrown in this new jail area?” The hippie now inquires.
-            <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh! ... Oohhh!! ... look at the hippie now! He thinks we’re the ones who got thrown in the new
-            jail area. I think he’s judging us? Is that what you’re doing hippie? Are you judging us?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Noooo ...” The hippie says. <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh no??? Is that not what you’re doing hippie?” <br>
-
-          </p>
-        </div>
-        <div class="modal-body a4-page">
-          <p>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Ummmm ... can I just go in the cave now?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Oh!! Look at the hippie now! He don’t want to talk with us no more. He think’s too good for us.
-            What’s a matter hippie, don’t want to be seen talking to a black chick and some dumbass Klan
-            redneck who eats squirrels?” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Hey!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Well alright then hippie. Get your ass on in there then. Go on. Get your ass in there. Say ‘Hi’ to
-            DonMu for us.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah hippie, say ‘Hi’ to DonMu for us.” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Peace Hippie!” <br>
-            <span style="margin-left: 18px ;display: inline-block;"></span>
-            “Yeah, peace you dumbass hippie!” <br>
-          </p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Well what tha fuck you want then hippie?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, hippie, what tha fuck you want?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ummmm &hellip; I just won this secret mystery card for the cave of enlightenment?&rdquo; He holds up a gold-colored card in the air.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ooooohhh &hellip;&rdquo; Trip K&rsquo;s face lights up. &ldquo;Ooohhh look at me. I&rsquo;m a dumbass hippie and I just won a secret mystery card for the cave of enlightenment. Ooooohhhhh, I&rsquo;m gonna get special powers in there or maybe meet DonMu and have him take me up to enlightenment.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah.&rdquo; Lil&rsquo; Shmoogy adds. &ldquo;I&rsquo;m a dumbass hippie and I just won a secret mystery card for the cave of enlightenment and I think there&rsquo;s a magic genie in there who&rsquo;s gonna pop out of a bottle and grant me three wishes.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ha ha. Oh yeah &hellip; look at me, I&rsquo;m a dumbass hippie and I&rsquo;m gonna get three wishes from a genie &hellip; Oooohh &hellip; and let me guess what a hippie wishes for &hellip; I wish I had more weed!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Lil&rsquo; Shmoogy cracks up. &ldquo;Yeah, I&rsquo;m a dumbass hippie and wish I had more weeeeeed!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, this dumbass hippie&rsquo;s probably smoking that shwag weed too and can&rsquo;t even get high.&rdquo; Then stares right at him. &ldquo;So is that it hippie? You been smoking that Mexican shwag weed and can&rsquo;t even get high?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Uhmmmm &hellip; noooooo &hellip;&rdquo; The hippie shrugs his shoulders.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yo hippie. You want to smoke some of this good weed?&rdquo; Lil&rsquo; Shmoogy nods right at him. &ldquo;The shit we got right here? Some chronic-ass indo that&rsquo;ll take you high up to hippie heaven?&rdquo; And now holds the bag up in the air.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Nooo, I&rsquo;m ok.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh! &hellip; Oh really?!&rdquo; Trip K&rsquo;s exclaims. &ldquo;Is our weed not good enough for you, hippie? Is that it? You think you&rsquo;re too good for us?&rdquo; He now turns to Lil&rsquo; Shmoogy. &ldquo;I think the dumbass hippie thinks he&rsquo;s too good for us.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Is that it hippie? You think you&rsquo;re too good for us? Don&rsquo;t want to be putting your white privileged hippie lips on the same bong as a black chick and some dumbass Klan redneck?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey!&rdquo; Trip K&rsquo;s snaps his head over.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Nooooo &hellip;&rdquo; The hippie says. &ldquo;I just want to have a clear head when I go in the cave of enlightenment.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ooooohhh &hellip; Oohhhh, look at the hippie now.&rdquo; Lil&rsquo; Shmoogy adds. &ldquo;He wants to have a clear head when he goes in the cave of enlightenment &hellip; don&rsquo;t wanna have DonMu think he&rsquo;s some kind of dumbass hippie who likes to smoke weed with black chicks and squirrel-eating rednecks before he gets enlightened.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Hey!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Aren&rsquo;t you the two who got thrown in this new jail area?&rdquo; The hippie now inquires.</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh! &hellip; Oohhh look at the hippie now!&rdquo; Lil&rsquo; Shmoogy exclaims. &ldquo;He thinks we&rsquo;re the ones who got thrown in the new jail area &hellip; I think he&rsquo;s judging us?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Oh yeah hippie?&rdquo; Trip K&rsquo;s adds. &ldquo;Is that what you&rsquo;re doing? Are you judging us?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Nooooo &hellip;&rdquo; The hippie frowns, then takes a deep breath. &ldquo;Can I just go up to the cave now?&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Ohhh! Oh look at the hippie now! He don&rsquo;t want to talk to us no more. He&rsquo;s got better things to do. Well alright hippie, get your ass up there then &hellip; go on &hellip; get your ass up there &hellip; good luck finding it &hellip; and if you do, say &lsquo;Hi&rsquo; to DonMu for us.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah hippie, say &lsquo;Hi&rsquo; to DonMu for us.&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Peace Hippie!&rdquo;</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;Yeah, peace you dumbass hippie!&rdquo;</p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
