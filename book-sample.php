@@ -206,9 +206,10 @@
           <p><span style="margin-left: 18px;display: inline-block;"></span>Lakeisha then turned to him. "Now spell it with a 'w' after the 'Sh'".</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>He resumed poking away. Clicking his little fingers. Mouth somewhat puckered up. Then stopped. And his eyes got wide. "Oooohhh, yeah ... now it racist."</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>"Yup." She said shaking her head.</p>
-          <p><span style="margin-left: 18px;display: inline-block;"></span>I thought about that. Wondering about it all. And how it actually went for Lil' Shmoogy. And wanted to be fair about it all and walk a mile in her shoes like I did with Karen and the others. And look at things from her perspective. Because I really did like a lot of those rapper names. They were pretty awesome. And apparently she was called that name lovingly by her boyfriend, which made total sense for her to want to use it for her stage name. And then a year later, or whatever it was, someone came up to her and told her it was racist. I mean that's got to be a tough situation to find yourself in. When everything's going great, you're amassing a bunch of followers on Instagram, YouTube and TikTok, building your brand, getting name recognition, then all of a sudden someone comes up to you and says ...</p>
+          <p><span style="margin-left: 18px;display: inline-block;"></span>I thought about that. Wondering about it all. And how it actually went for Lil' Shmoogy. And wanted to be fair about it all and walk a mile in her shoes like I did with Karen and the others. And look at things from her perspective. Because I really did like a lot of those rapper names. They were pretty awesome. And apparently she was called that name lovingly by her boyfriend, which made total sense for her to want to use it for her stage name. And then a year later, or</p>
         </div>
         <div class="modal-body a4-page">
+          <p>whatever it was, someone came up to her and told her it was racist. I mean that's got to be a tough situation to find yourself in. When everything's going great, you're amassing a bunch of followers on Instagram, YouTube and TikTok, building your brand, getting name recognition, then all of a sudden someone comes up to you and says ...</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span><em>"Hey, Lil' Shmoogy?"</em></p>
           <p><em><span style="margin-left: 18px;display: inline-block;"></span>And Lil' Shmoogy peers back up from behind her dark sunglasses and tough no-nonsense rapper persona.</em></p>
           <p><em><span style="margin-left: 18px;display: inline-block;"></span>"Yo. Sup."</em></p>
@@ -1278,7 +1279,7 @@
             <br>
             <img src="./images/character_13.jpeg" style="max-width: 380px" alt="icon">
           </div>
-          <p class="card-text">(Best Friends)</p>
+         
           <p><span style="margin-left: 18px;display: inline-block;"></span>Lil&rsquo; Shmoogy & Trip K&rsquo;s are sitting on the edge of the rice paddy smoking weed, talking shit, while Lil&rsquo; Shmoogy is yelling at him as he&rsquo;s trying to light the bong.</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;What tha fuck you doing to that thing?&rdquo;</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>&ldquo;I&rsquo;m trying to light it.&rdquo;</p>
