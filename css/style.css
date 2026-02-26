@@ -282,6 +282,54 @@ header .navbar-light .navbar-toggler {
   line-height: 150%;
 }
 
+.page-intro {
+  font-family: "Rubik", sans-serif;
+  padding: 3rem 0;
+  background: linear-gradient(180deg, rgba(248, 249, 250, 0.98) 0%, rgb(255, 255, 255) 100%);
+  min-height: auto;
+}
+.page-intro .container {
+  max-width: 720px;
+}
+.page-intro__card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 2.25rem 2rem;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  text-align: center;
+}
+.page-intro__title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #1a1a1a;
+}
+.page-intro__text {
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  color: #444;
+  margin-bottom: 1.5rem;
+}
+.page-intro__cta {
+  margin-top: 0.25rem;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 767px) {
+  .page-intro {
+    padding: 2rem 0;
+  }
+  .page-intro__card {
+    padding: 1.5rem 1.25rem;
+  }
+  .page-intro__title {
+    font-size: 1.5rem;
+  }
+  .page-intro__text {
+    font-size: 1rem;
+  }
+}
+
 .title {
   font-weight: 700;
 }
@@ -561,9 +609,24 @@ section {
 .pdf-modal .a4-modal-content {
   background-color: #ffffff;
   border-radius: 0;
-  padding: 40px 0px 0;
+  padding: 0px 0;
   box-shadow: none;
   border: none;
+}
+.pdf-modal .a4-modal-content .modal-header {
+  border: none;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #ffffff;
+}
+.pdf-modal .a4-modal-content .modal-header .modal-title {
+  display: none;
+}
+.pdf-modal .a4-modal-content .modal-header button {
+  position: absolute;
+  right: 10px;
+  top: 10px;
 }
 .pdf-modal .a4-page {
   background-color: white;
@@ -661,31 +724,6 @@ section {
 }
 .pdf-modal .a4-page .italic p {
   font-style: italic;
-}
-
-.pdf-new .modal-dialog {
-  max-width: 920px;
-}
-.pdf-new .a4-page {
-  width: 816px;
-  padding: 96px 82px;
-  min-height: 1056px;
-}
-@media only screen and (max-width: 991px) {
-  .pdf-new .a4-page {
-    max-width: calc(100% - 40px) !important;
-    width: 100%;
-    padding: 30px 20px;
-  }
-}
-.pdf-new .a4-page p {
-  margin-left: 0px;
-  letter-spacing: 0px;
-  line-height: 1.15;
-  font-size: 12pt !important;
-}
-.pdf-new .a4-page p span[style*="margin-left: 18px"] {
-  margin-left: 36px !important;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -17,22 +17,19 @@
 
   <?php include 'header.php'; ?>
 
-  <!-- blog content -->
-  <section class="accordion-wrapper" id="testimonials">
+  <!-- Blog / callout section -->
+  <section class="page-intro" id="blog">
     <div class="container">
-      <div class="content">
-        <h2 class="text-center title">BLOG</h2>
-        <p class="text-center page-para">
-          If anyone has any interest in helping me turn this book (and the next ones) into a late-night, adults-only,
-          wildly offensive cartoon, please message me on the "Contact Us"
-          page cause I'm looking to put together a
-          team of animators & writers to help me out with it and start something fun. Full profit sharing too:)
+      <div class="page-intro__card">
+        <h2 class="page-intro__title">Get involved</h2>
+        <p class="page-intro__text">
+        If anyone has any interest in helping me turn this book (and the next ones) into a late-night, adults-only, wildly offensive cartoon, please message me on the "Contact Us" page cause I’m looking to put together a team of animators & writers to help me out with it and start something fun. Full profit sharing too:)
         </p>
-        <br>
+        <a href="./contact-us.php" class="btn btn-primary page-intro__cta">Contact us</a>
       </div>
     </div>
   </section>
-  <!-- blog content ends here -->
+  <!-- Blog / callout ends -->
 
   <!-- about us starts here -->
   <section class="about-us" id="about">
