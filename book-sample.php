@@ -25,7 +25,9 @@
         <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3  row-cols-xl-4 g-4">
           <div class="col">
             <div class="card h-100">
-              <img src="./images/character_3.jpeg" class="card-img-top" alt="Lil’ Shmoogy">
+              <div class="card-img-wrapper">
+                <img src="./images/character_3.png" class="card-img-top" alt="Lil’ Shmoogy">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">Lil’ Shmoogy</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_one">Read Sample</a>
@@ -34,7 +36,9 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/character_1_new.png" class="card-img-top" alt="Wise Elder">
+              <div class="card-img-wrapper">
+                <img src="./images/character_1_new.png" class="card-img-top" alt="Mama'san">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">Mama’san</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_three">Read Sample</a>
@@ -43,7 +47,9 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/character_2.png" class="card-img-top" alt="Wise Elder">
+              <div class="card-img-wrapper">
+                <img src="./images/character_2.png" class="card-img-top" alt="Trip K's">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">Trip K’s</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_five">Read Sample</a>
@@ -52,8 +58,9 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/character_7.jpeg" class="card-img-top" style="max-width: 170px; width: 100%"
-                alt="Wise Elder">
+              <div class="card-img-wrapper">
+                <img src="./images/character_7.jpeg" class="card-img-top" alt="Mama'san Arrives">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">Mama’san Arrives</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_four">Read Sample</a>
@@ -62,7 +69,9 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/character_4.png" class="card-img-top" alt="Wise Elder">
+              <div class="card-img-wrapper">
+                <img src="./images/character_4.png" class="card-img-top dd-smoove-little-img" alt="DD Smooove">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">DD Smooove</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_six">Read Sample</a>
@@ -71,12 +80,9 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <!-- <div class="card-img-top d-flex align-items-center justify-content-center"
-                style="height:200px; background-color:#f0f0f0;">
-                <span class="text-muted">No Image Available</span>
-              </div> -->
-              <img src="./images/character_10.jpeg" class="card-img-top" style="object-fit: contain; width: 90%;"
-                alt="Wise Elder">
+              <div class="card-img-wrapper">
+                <img src="./images/character_10.jpeg" class="card-img-top" alt="LC Thailand Story">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">LC Thailand Story</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_two">Read Sample</a>
@@ -85,7 +91,9 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/character_10.jpg" style="width: 200px" class="card-img-top" alt="Wise Elder">
+              <div class="card-img-wrapper">
+                <img src="./images/character_10.png" class="card-img-top" alt="Dirty Little Monkeys">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">Dirty Little Monkeys</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_seven">Read Sample</a>
@@ -94,16 +102,20 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/character_4.png" class="card-img-top" alt="Wise Elder">
+              <div class="card-img-wrapper">
+                <img src="./images/character_4.png" class="card-img-top dd-smoove-elon-img" alt="DD Smooove & Elon Musk">
+              </div>
               <div class="card-body">
-                <h5 class="card-title">DD Smooove & Elon Musk Scene</h5>
+                <h5 class="card-title">DD Smooove & Elon Musk</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_eight">Read Sample</a>
               </div>
             </div>
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/character_9.jpg" style="width: 200px" class="card-img-top" alt="Wise Elder">
+              <div class="card-img-wrapper">
+                <img src="./images/character_9.png" class="card-img-top" alt="DD Smooove & the Klan Guys">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">DD Smooove & the Klan Guys</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_nine">Read Sample</a>
@@ -112,17 +124,21 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/character_12.jpeg" style="width: 200px" class="card-img-top" alt="Wise Elder">
+              <div class="card-img-wrapper">
+                <img src="./images/character_12.png" class="card-img-top" alt="Lil' Shmoogy & Trip K's Best Friends">
+              </div>
               <div class="card-body">
-                <h5 class="card-title">Lil’ Shmoogy & Trip K’s</h5>
-                <p class="card-text">(Best Friends)</p>
+                <h5 class="card-title">Lil’ Shmoogy & Trip K’s <span class="crd-text">Best Friends</span></h5>
+
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_ten">Read Sample</a>
               </div>
             </div>
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/four.png" style="width: 100%" class="card-img-top" alt="Hippies">
+              <div class="card-img-wrapper">
+                <img src="./images/four.png" class="card-img-top" alt="4 Different Types of Hippies">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">4 Different Types of Hippies</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_twelve">Read Sample</a>
@@ -131,25 +147,31 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/agus.png" class="card-img-top" alt="Agus">
+              <div class="card-img-wrapper">
+                <img src="./images/Agus.png" class="card-img-top agus-img" alt="Agus">
+              </div>
               <div class="card-body">
-                <h5 class="card-title">Agus (Ah-goose) Big Dick Playa</h5>
+                <h5 class="card-title">Agus <i>(Ah-goose)</i> <span class="crd-text">Big Dick Playa</span></h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_eleven">Read Sample</a>
               </div>
             </div>
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/Karen.png" class="card-img-top" alt="Karen McCarron">
+              <div class="card-img-wrapper">
+                <img src="./images/Karen.png" class="card-img-top karen-img" alt="Karen McCarron">
+              </div>
               <div class="card-body">
-                <h5 class="card-title">Karen McCarron Life Coach</h5>
+                <h5 class="card-title">Karen McCarron <span class="crd-text">Life Coach</span></h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_thirteen">Read Sample</a>
               </div>
             </div>
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/Mekong.png" style="width: 100%" class="card-img-top" alt="Mekong">
+              <div class="card-img-wrapper">
+                <img src="./images/Mekong.png" style="max-height: 152px;  margin-top: 15px;" class="card-img-top mekong-img" alt="Mekong">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">Mekong & the Commies</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_fourteen">Read Sample</a>
@@ -158,7 +180,9 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/the-big-four.png" class="card-img-top" style="width: 100%" alt="The Big Four">
+              <div class="card-img-wrapper">
+                <img src="./images/the-big-four.png" class="card-img-top" alt="The Big Four">
+              </div>
               <div class="card-body">
                 <h5 class="card-title">The Big 4</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_fifteen">Read Sample</a>
@@ -167,9 +191,11 @@
           </div>
           <div class="col">
             <div class="card h-100">
-              <img src="./images/wing-wang.png" style="width: 100%" class="card-img-top" alt="Wing-Wang">
+              <div class="card-img-wrapper">
+                <img src="./images/wing-wang.png" class="card-img-top" alt="Wing-Wang">
+              </div>
               <div class="card-body">
-                <h5 class="card-title">Wing-Wang – Getting Handjobs</h5>
+                <h5 class="card-title">Wing-Wang <span class="crd-text">Getting Handjobs</span></h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_sixteen">Read Sample</a>
               </div>
             </div>
@@ -185,7 +211,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_one_label">Lil' Shmoogy</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -204,7 +229,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_two_label">LC Thailand Story</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -242,7 +266,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_four_label">Mama'san Arrives</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -262,7 +285,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_five_label">Trip K's</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -282,7 +304,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_six_label">DD Smooove</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -302,7 +323,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_seven_label">Dirty Little Monkeys</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -322,7 +342,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_eight_label">DD Smooove & Elon Musk Scene</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -342,7 +361,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_nine_label">DD Smooove & the Klan Guys</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -363,7 +381,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_ten_label">Lil' Shmoogy & Trip K's (Best Friends)</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -394,7 +411,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_twelve_label">4 Different Types of Hippies</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -413,7 +429,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_eleven_label">Agus – Big Dick Playa</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -432,7 +447,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_thirteen_label">Karen McCarron – Life Coach</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -451,7 +465,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_fourteen_label">Mekong & the Commies</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -470,7 +483,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_fifteen_label">The Big Four</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
@@ -489,7 +501,6 @@
     <div class="modal-dialog modal-dialog-centered modal-xl modal-fullscreen-sm-down">
       <div class="modal-content a4-modal-content h-100">
         <div class="modal-header flex-shrink-0">
-          <h5 class="modal-title" id="PDF_sixteen_label">Wing-Wang – Getting Handjobs</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body p-0 position-relative flex-grow-1 overflow-auto" style="min-height: 0;">
