@@ -94,7 +94,7 @@
     <div class="py-3 py-md-4 py-xl-3 bg-dark text-white">
       <div class="container">
         <div class="copyright-wrapper d-block mb-1 fs-8 text-center">
-          &copy; 2025. All Rights Reserved.
+          &copy; 2026. All Rights Reserved.
         </div>
       </div>
     </div>

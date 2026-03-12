@@ -23,7 +23,10 @@
   <section class="accordion-wrapper" id="testimonials">
     <div class="container">
       <div class="content">
-        <h2 class="text-center title">BLOG</h2>
+        <h2 class="text-center title">Not a single word, sentence, paragraph, comma, period, punctuation, thought or idea in this book was written using ChatGPT or any other kind of AI software.</h2>
+        <!-- <p>
+        
+        </p> -->
         <p class="text-center page-para">
           If anyone has any interest in helping me turn this book (and the next ones) into a late-night, adults-only,
           wildly offensive cartoon, please message me on the "Contact Us"
@@ -42,7 +45,7 @@
     <div class="py-3 py-md-4 py-xl-3 bg-dark text-white">
       <div class="container">
         <div class="copyright-wrapper d-block mb-1 fs-8 text-center">
-          &copy; 2025. All Rights Reserved.
+          &copy; 2026. All Rights Reserved.
         </div>
       </div>
     </div>

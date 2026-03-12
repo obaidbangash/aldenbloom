@@ -144,7 +144,7 @@
             <h2 class="pdf-title" style="font-size: 20.5pt;letter-spacing:0px;">Lil’ Shmoogy</h2>
             <img src="./images/character_3.jpeg" alt="icon">
           </div>
-          <h6 style="margin-top: 33.8px;">The Legend of Balinese DonMu – Book One (Part I of III) – Chapter 14</h6>
+          <h6 style="margin-top: 33.8px;">The Legend of Balinese DonMu – Book One (Part I of III) – Chapter 13</h6>
           <p> <span style="margin-left: 18px;display: inline-block;"></span>
             “... ok cool. But I will concede that a lot of people do use good causes for their own personal
             gain which can oftentimes give the whole movement a bad look. And that’s exactly what this girl
@@ -162,8 +162,8 @@
           <p><span style="margin-left: 18px;display: inline-block;"></span>“What stage name?” Wing interrupted.
             <br>
             <span style="margin-left: 18px;display: inline-block;"></span>
-            Lakeisha hesitated. Trying to figure out how to answer that for him. “Well, you know how a
-            lot of rappers change their names into – ‘stage names’ – to create different personas for
+            Lakeisha hesitated. Trying to figure out how to best explain that to him. “Well, you know how a
+            lot of rappers change their names into – stage names – to create different personas for
             themselves? Like Lil’ Kim, Megan Thee Stallion, Doja Cat, BootyChaaain, Gangsta Boo, Lil
             Mama, Junglepussy, Lil Kimchii. Well ... I’m actually kinda embarrassed to say this, but this
             girl’s name is Lil’ Shmoogy.”
@@ -173,33 +173,33 @@
           <p><span style="margin-left: 18px;display: inline-block;"></span>“Yeah, no shit.” She answered. “But
             technically the way she spells it isn’t racist. It’s just
             close to an old racist word. And apparently she didn’t know it at the time and when she found out
-            about it, or someone told her, it was too late. She had already amassed a bunch of followers and
-            had her brand established and didn’t want to change it.”</p>
+            about it, or someone told her about it, it was too late. She’d already amassed a bunch of followers and
+            had her brand established so didn’t want to change it.”</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>I sat there puzzled. <br>
             <span style="margin-left: 18px;display: inline-block;"></span>
-            “Wow. So she chose social-media followers and brand recognition over propagating racism?”
+            “Wow, so she chose social-media followers and brand recognition over propagating racism?”
             Olof spit out his drink.
           </p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>“Yeah.” Lakeisha said. “I know. But again,
             technically the way she spells it isn’t racist. The
             word’s not in Webster’s but Urban Dictionary defines it as ... ‘a short, cuddly person who smells
-            nice’ ... and I think one of her boyfriends used to call her his ‘Lil’ Shmoogy’, so I think that’s
+            nice’ ... and I think one of her boyfriends used to call her, his ‘Lil’ Shmoogy’, so I think that’s
             how it all started.”</p>
 
-          <p><span style="margin-left: 18px;display: inline-block;"></span>Wing then opened his laptop and started a
-            search. Pecking away at his keyboard. Scrolling
+          <p><span style="margin-left: 18px;display: inline-block;"></span>Wing then opened up his laptop and started a
+            search. Poking away at his keyboard. Scrolling
             through some web pages.</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>“Yup. Here it is.” He said staring at the
             screen. “Urban Dictionary says... ‘a small cuddly
             person, typically very lovable and nice smelling.’”</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>Lakeisha then turned to him. “Now spell it
             with a ‘w’ after the ‘Sh’”.
-            He resumed typing away. Clicking his little fingers. Mouth somewhat puckered. Then
+            He resumed poking away. Clicking his little fingers. Mouth somewhat puckered up. Then
             stopped. And his eyes got wide. “Oooohhh, yeah ... now it racist.”</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>“Yup.” She said shaking her head.</p>
           <p><span style="margin-left: 18px;display: inline-block;"></span>I thought about that. Wondering about it all.
             And how it actually went for Lil’ Shmoogy. And
-            wanted to be fair about it and walk a mile in her shoes like I did with Karen and the others. And
+            wanted to be fair about it all and walk a mile in her shoes like I did with Karen and the others. And
             look at things from her perspective. Because I really did like a lot of those rapper names. They
             were pretty awesome. And apparently she was called that name lovingly by her boyfriend, which</p>
 
@@ -231,11 +231,11 @@
               <span style="margin-left: 18px;display: inline-block;"></span>
               “Yeah, look it up.” <br>
               <span style="margin-left: 18px;display: inline-block;"></span>
-              Lil’ Shmoogy now gives off a slightly-annoyed look and opens up her laptop ... starts typing
+              Lil’ Shmoogy now gives off a slightly-annoyed look and opens up her laptop ... typing
               away ... grumbling under her breath. Then stops. And her eyes get wide.
               <span style="margin-left: 18px;display: inline-block;"></span>
               “Muthafuckin’ whaaaaattt?!” Expression now changing. “Goddammit!!” Slamming the top
-              of her laptop back down. “How tha’ fuck am I supposed to know every racist word these
+              of her laptop back down. “How tha’ fuck am I supposed to know every racist word these goddamn 
               cracka’s been calling us for centuries?!”
               <span style="margin-left: 18px;display: inline-block;"></span>
               “Yeah, you should probably change it since you don’t want to be propagating that kind of
@@ -252,7 +252,7 @@
               “What the fuck you talking about re-brand and re-build?” <br>
               <span style="margin-left: 18px;display: inline-block;"></span>
               “Well, you’re going to have to delete all your social media accounts and start over again
-              since you don’t want your current racist name up there.” <br>
+              cause you don’t want your current racist name up there.” <br>
               <span style="margin-left: 18px;display: inline-block;"></span>
               “But what about all my followers, branding and merchandise?” <br>
               <span style="margin-left: 18px;display: inline-block;"></span>
@@ -272,10 +272,8 @@
               “Well, what the fuck are they gonna think if I change it now?! They’ll think I’m some kind of
               dumbass who didn’t know it was racist and had to change it. And what the fuck will that say
               about me? Probably something worse. So, fuuuuuck that shit. I’m sticking with my original
-              name. No one knows or uses that word anyway, so fuck it. I’m going Ride or Die with that shit.”<br>
-              <span style="margin-left: 18px;display: inline-block;"></span>
-              “Google me bitch, it ain’t racist!”
-
+              name. No one knows or uses that word anyway, so fuck it. I’m going Ride or Die with that shit ...<br>
+              Google me bitch, it ain’t racist!”
             </p>
           </div>
         </div>

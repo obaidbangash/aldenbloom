@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php:*)",
+      "Bash(echo SASS_NOT_INSTALLED:*)",
+      "Bash(sass:*)",
+      "Bash(echo PyMuPDF not available:*)",
+      "Bash(echo Trying pip installs:*)",
+      "Bash(python3 -c \"import subprocess; print\\('ok'\\)\" 2>/dev/null || python -c \"import subprocess; print\\('ok'\\)\" 2>/dev/null)",
+      "Bash(python:*)",
+      "Bash(cd:*)",
+      "mcp__ide__getDiagnostics"
+    ]
+  }
+}

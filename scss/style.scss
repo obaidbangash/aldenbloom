@@ -323,6 +323,62 @@ header {
   line-height: 150%;
 }
 
+// Page intro / blog callout (about-us page)
+.page-intro {
+  font-family: $font-family_2;
+  padding: 3rem 0;
+  background: linear-gradient(180deg, rgba(248, 249, 250, 0.98) 0%, rgba(255, 255, 255, 1) 100%);
+  min-height: auto;
+
+  .container {
+    max-width: 950px;
+  }
+
+  &__card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 2.25rem 2rem;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    text-align: center;
+  }
+
+  &__title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #1a1a1a;
+  }
+
+  &__text {
+    font-size: 1.0625rem;
+    line-height: 1.65;
+    color: #444;
+    margin-bottom: 1.5rem;
+  }
+
+  &__cta {
+    margin-top: 0.25rem;
+    margin: 0 auto;
+  }
+
+  @media only screen and (max-width: 767px) {
+    padding: 2rem 0;
+
+    &__card {
+      padding: 1.5rem 1.25rem;
+    }
+
+    &__title {
+      font-size: 1.5rem;
+    }
+
+    &__text {
+      font-size: 1rem;
+    }
+  }
+}
+
 .title {
   font-weight: 700;
 }
@@ -528,38 +584,115 @@ section {
 
   .books-content {
     background-color: #ffffff;
-    padding: 25px;
-    border-radius: 8px;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+
+    @media only screen and (max-width: 767px) {
+      padding: 1.25rem;
+    }
 
     .card {
-      img {
-        width: 100px;
-        margin: 0 auto;
-        max-height: 191px;
-        height: 100%;
+      border: none;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      background: #fff;
+
+      &:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
       }
 
-      h5 {
-        font-size: 20px;
-        line-height: 1.3;
-        font-weight: 500;
-        display: -webkit-box;
-        -webkit-line-clamp: 1;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-        text-overflow: ellipsis;
+      .card-img-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 200px;
+        background-color: #fff;
+      }
+
+      .card-img-top {
+        width: auto;
+        max-width: 100%;
+        max-height: 180px;
+        height: auto;
+        object-fit: contain;
+        margin: 0 auto;
+        display: block;
+
+        &.agus-img {
+          max-height: 160px;
+        }
+
+        &.karen-img {
+          max-height: 160px;
+        }
+
+        &.mekong-img {
+          max-height: 170px;
+        }
+
+        &.dd-smoove-little-img {
+          max-height: 160px;
+        }
+
+        &.dd-smoove-elon-img {
+          max-height: 150px;
+        }
+      }
+
+      .card-body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 1.25rem 1rem;
+        flex-grow: 1;
+      }
+
+      .card-title {
+        font-size: 1rem;
+        line-height: 1.35;
+        font-weight: 600;
         text-align: center;
+        color: #1a1a1a;
+        margin-bottom: 1rem;
+        min-height: 2.75em;
+
+        .crd-text {
+          display: block;
+          font-weight: 500;
+          color: #555;
+        }
+
+        i {
+          font-weight: 400;
+          font-size: 0.9em;
+        }
       }
 
       .card-text {
-        font-size: 16px;
-        line-height: 1.2;
+        font-size: 0.9375rem;
+        line-height: 1.4;
         text-align: center;
+        font-weight: 400;
+        display: block;
       }
 
-      a {
-        margin: 0 auto;
+      .btn {
+        margin-top: auto;
         text-transform: capitalize;
+        border-radius: 8px;
+        padding: 0.5rem 1.25rem;
+        font-size: 0.9375rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition: box-shadow 0.2s ease, transform 0.15s ease;
+
+        &:hover {
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+          transform: scale(1.02);
+        }
       }
     }
   }
@@ -645,9 +778,26 @@ section {
   .a4-modal-content {
     background-color: #ffffff;
     border-radius: 0;
-    padding: 40px 0px 0;
+    padding: 0px 0;
     box-shadow: none;
     border: none;
+
+    .modal-header {
+      border: none;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      background-color: #ffffff;
+
+      .modal-title {
+        display: none;
+      }
+      button{
+        position: absolute;
+        right: 10px;
+        top: 10px;
+      }
+    }
   }
 
   .a4-page {
@@ -751,3 +901,5 @@ section {
     }
   }
 }
+
+
