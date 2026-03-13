@@ -25,6 +25,8 @@ jobs:
           exclude: |
             .git/**
             .github/**
+            .claude/**
+            bloomalden.com/**
             .DS_Store
             .env
             .env.*
