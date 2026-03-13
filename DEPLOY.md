@@ -71,6 +71,17 @@ GitHub Actions couldn’t resolve the hostname in `FTP_SERVER`. Fix it like this
 4. **Try the main domain**  
    If you used `ftp.thelegendofbalinesedonmu.com`, try `thelegendofbalinesedonmu.com` as `FTP_SERVER` (some hosts don’t use an `ftp.` subdomain).
 
+### "Timeout (control socket)"
+
+The connection is timing out before GoDaddy responds. Common causes:
+
+1. **Longer timeout**: The workflow now uses a 2-minute timeout. If it still times out, GoDaddy may be blocking connections from GitHub’s servers.
+2. **GoDaddy blocking GitHub IPs**: Some shared hosts block FTP from data-center IPs. Options:
+   - **Re-run the workflow** a few times (GitHub uses different IPs; one may work).
+   - Ask **GoDaddy support** to allow outbound FTP from GitHub Actions IP ranges or to confirm FTP isn’t restricted.
+   - Use a **self-hosted runner** (a machine you control that can reach GoDaddy) and set `runs-on: self-hosted` in the workflow.
+3. **Use the server IP**: Ensure `FTP_SERVER` is the server IP (not a hostname) so DNS isn’t slowing the connection.
+
 ### Other issues
 
 - **Connection failed (auth)**: Check `FTP_USERNAME` and `FTP_PASSWORD`. Test the same credentials in an FTP client (e.g. FileZilla).
