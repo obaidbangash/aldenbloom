@@ -65,9 +65,9 @@
     .hotel-colonialist-page .gallery-row .row-label {
       display: block;
       text-align: center;
-      font-size: 0.8rem;
+      font-size: 1rem;
       font-weight: 600;
-      color: #888;
+      color: #000;
       letter-spacing: 0.08em;
       text-transform: uppercase;
       margin-bottom: 0.75rem;
@@ -93,20 +93,30 @@
   <main class="hotel-colonialist-page">
     <div class="page-hero" data-aos="fade-up">
       <h1>Hotel Colonialist</h1>
-      <p class="subtitle">A visual journey</p>
     </div>
 
     <div class="gallery">
       <?php
       $imageBase = './images/hotel-colonialist-images/';
       $totalImages = 8;
+      $imageLabels = [
+        1 => 'Front',
+        2 => 'Back',
+        3 => 'Back Side View of Mt Batur',
+        4 => 'Side View',
+        5 => 'Grand Ballroom',
+        6 => 'Grand Ballroom | Bar Area',
+        7 => 'Secret Control Room',
+      ];
       for ($i = 1; $i <= $totalImages; $i++) {
         $filename = "hotel-colonialist-{$i}.png";
         $src = $imageBase . $filename;
         $alt = "Hotel Colonialist — Image {$i}";
         ?>
         <div class="gallery-row" data-aos="fade-up" data-aos-delay="<?php echo min($i * 50, 300); ?>">
-          <span class="row-label"><?php echo $i; ?> / <?php echo $totalImages; ?></span>
+          <?php if (isset($imageLabels[$i])) { ?>
+            <span class="row-label"><?php echo htmlspecialchars($imageLabels[$i]); ?></span>
+          <?php } ?>
           <div class="row-inner">
             <img src="<?php echo htmlspecialchars($src); ?>" alt="<?php echo htmlspecialchars($alt); ?>" loading="<?php echo $i <= 2 ? 'eager' : 'lazy'; ?>">
           </div>
