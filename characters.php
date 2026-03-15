@@ -25,7 +25,7 @@
       padding: 0 1rem;
     }
     .characters-hero h1 {
-      font-family: "Noto Serif JP", serif;
+      font-family: 'Papyrus';
       font-size: clamp(2rem, 4.4vw, 4.7rem);
       letter-spacing: 1.3;
       color: #1e1b16;
@@ -33,13 +33,14 @@
       font-weight: 700;
     }
 
-    .characters-hero h2{
-      font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    .ending-note{
+      font-family: 'Papyrus';
       font-size: clamp(2rem, 4.4vw, 3rem);
       letter-spacing: 0.04em;
       color: #1e1b16;
       margin-bottom: 0rem;
       font-weight: 700;
+      text-align: center;
     }
     .characters-hero p {
       font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -96,6 +97,10 @@
       display: block;
       transition: transform 0.28s ease;
     }
+    .character-image-wrap img.skybird-image {
+      width: 73%;
+      object-fit: cover;
+    }
     .character-card:hover .character-image-wrap img {
       transform: scale(1.03);
     }
@@ -124,12 +129,13 @@
       color: #2e2518;
       background: #fffaf2;
       border-top: 1px solid rgba(79, 62, 34, 0.1);
-      padding: 0.85rem 0.7rem;
+      padding: 0.85rem 0.5rem;
       min-height: 58px;
       display: flex;
       align-items: center;
       justify-content: center;
       line-height: 1.25;
+      min-height: 68px
     }
     .character-name.is-hidden {
       display: none;
@@ -147,7 +153,7 @@
       background: rgba(255, 255, 255, 0.55);
       border: 1px solid rgba(79, 62, 34, 0.12);
     }
-    .ending-note {
+    /* .ending-note {
       margin-top: 1.8rem;
       text-align: center;
       font-family: "Didot", "Bodoni MT", "Times New Roman", serif;
@@ -155,7 +161,7 @@
       letter-spacing: 0.08em;
       color: #23180c;
       text-transform: uppercase;
-    }
+    } */
     @media (max-width: 1199px) {
       .character-card {
         width: calc((100% - 3rem) / 4);
@@ -202,7 +208,7 @@
     return null;
   }
 
-  function buildCharacter(string $name, array $images = [], bool $showName = true, ?string $width = null, ?string $height = null): array {
+  function buildCharacter(string $name, array $images = [], bool $showName = true, ?string $width = null, ?string $height = null, ?string $marginTop = null, ?string $imageClass = null): array {
     $out = [
       'name' => $name,
       'image' => resolveCharacterImage($images),
@@ -213,6 +219,12 @@
     }
     if ($height !== null) {
       $out['height'] = $height;
+    }
+    if ($marginTop !== null) {
+      $out['marginTop'] = $marginTop;
+    }
+    if ($imageClass !== null) {
+      $out['imageClass'] = $imageClass;
     }
     return $out;
   }
@@ -233,66 +245,66 @@
     [
       'items' => [
         buildCharacter("Lil' Shmoogy", ["Lil' Shmoogy (Full Body).png", 'character_3.png']),
-        buildCharacter("Trip-K's", ['Trip-Ks.png', 'character_2.png'], true, '120px', '180px'),
+        buildCharacter("Trip-K's", ['Trip-Ks.png', 'character_2.png'], true, '120px', '155px', '25px'),
         buildCharacter('Karen McCarron', ['Karen.png']),
-        buildCharacter('Beehive/Bobahn', ['Beehive 2.png']),
+        buildCharacter('Beehive/Bobahn', ['Beehive 2.png'], true, '', '', '17px'),
         buildCharacter('Dirk Deebag', ['Dirk Deebag 2.png'], true, '120px', '180px'),
       ],
     ],
     [
       'items' => [
         buildCharacter('Hippie Jon', ['Hippie Jon I.png']),
-        buildCharacter('Old Hippie Lady', ['Old Hippie Lady I.png']),
-        buildCharacter('Young Hippie Guy#1', ['character_5.jpeg']),
-        buildCharacter('Young Hippie Guy#2', ['Hippie Guy III.png']),
+        buildCharacter('Old Hippie Lady', ['Old Hippie Lady I.png'], true, '100%', '100%', '12px'),
+        buildCharacter('Young Hippie Guy', ['character_5.jpeg'], true, '100%', '231px', ''),
+        buildCharacter('Young Hippie Guy', ['Hippie Guy III.png']),
         buildCharacter('Young Hippie Girl', ['Hippie Girl II (Hot).png']),
       ],
     ],
     [
       'items' => [
-        buildCharacter('German Gunther (Before)', ['German Gunther III.png']),
-        buildCharacter('Agus (Ah-goose)', ['Agus.png'], true, '120px', '160px'),
+        buildCharacter('German Gunther <br> (Before)', ['German Gunther III.png'], true, '120px', '', '20px', 'german-gunther-image'),
+        buildCharacter('Agus <i>(Ah-goose)</i>', ['Agus.png'], true, '120px', '160px', '30px'),
         buildCharacter('DD Smooove', ['character_4.png', 'DD Smooove.png']),
-        buildCharacter('Intern A', ['Intern A.png']),
-        buildCharacter('Intern B', ['Intern_B_IV.png']),
+        buildCharacter('Intern A', ['Intern A.png'], true, '120px', '100%', '47px'),
+        buildCharacter('Intern B', ['Intern_B_IV.png'], true, '80px', '150px', '45px', 'intern-b-image'),
       ],
     ],
     [
       'items' => [
-        buildCharacter('Skybird', ['Skybird__Blonde__II.png']),
-        buildCharacter('Skybird', ['Skybird.png', 'Skybird__Blonde__II.png']),
+        buildCharacter('Skybird', ['Skybird__Blonde__II.png'], true, '', '', '', 'skybird-image'),
+        buildCharacter('Skybird', ['Skybird.png', 'Skybird__Blonde__II.png'], true, '', '', '', 'skybird-image'),
         buildCharacter('Sky', ['Sky IV.png']),
-        buildCharacter('Skybird', ['Skybird.png', 'Skybird__Blonde__II.png']),
-        buildCharacter('Skybird', ['Skybird.png', 'Skybird__Blonde__II.png']),
+        buildCharacter('Skybird', ['Skybird.png', 'Skybird__Blonde__II.png'], true, '', '', '', 'skybird-image'),
+        buildCharacter('Skybird', ['Skybird.png', 'Skybird__Blonde__II.png'], true, '', '', '', 'skybird-image'),
       ],
     ],
     [
       'items' => [
-        buildCharacter('Mekong', ['Mekong.png'], true, '120px', '160px'),
-        buildCharacter('Svetlana', ['Svetlana I.png'], true, '120%', '200px'),
-        buildCharacter('Borscht', ['Borscht I.png'], true, '120px', '160px'),
-        buildCharacter("Lil'Miggz", ["Lil' Miggz (Full Body).png"], true, '120px', '160px'),
-        buildCharacter('Mr. X', ['Mr. X II.png'], true, '120px', '160px'),
+        buildCharacter('Mekong', ['Mekong.png'], true, '120px', '160px', '41px'),
+        buildCharacter('Svetlana', ['Svetlana I.png'], true, '150%', '0', '0'),
+        buildCharacter('Borscht', ['Borscht I.png'], true, '96px', '160px', '50px'),
+        buildCharacter("Lil'Miggz", ["Lil' Miggz (Full Body).png"], true, '103px', '0', '31px'),
+        buildCharacter('Mr. X', ['Mr. X II.png'], true, '90px', '', '0'),
       ],
     ],
     [
       'center' => true,
       'items' => [
-        buildCharacter('German Gunther (After)', ['German_Gunther__Evil__IV.png']),
+        buildCharacter('German Gunther <br> (After)', ['German_Gunther__Evil__IV.png'], true, '120px', '', '20px', ),
         buildCharacter('Blaze', ['Blaze_IX.png']),
-        buildCharacter('Lord Keynesian Bottompincher <br> aka Da Guvna', ['Lord Keynesian Bottompincher I.png']),
+        buildCharacter('Lord Keynesian Bottompincher <br> (aka Da Guvna)', ['Lord Keynesian Bottompincher I.png'], true, '', '', '15px', ''),
       ],
     ],
     [
       'center' => true,
       'items' => [
-        buildCharacter('Kohsoom', ['Kohsoom.png'], true, '120%', '180px'),
+        buildCharacter('Kohsoom', ['Kohsoom.png'], true, '356px', ''),
       ],
     ],
     [
       'center' => true,
       'items' => [
-        buildCharacter('Baal/Baphomet', ['Baphomet I.png'], false),
+        buildCharacter('Baal/Baphomet', ['Baphomet I.png'], false, '', '190px', '-5px'),
       ],
     ],
     
@@ -313,7 +325,7 @@
         <br>
         <br>
 
-        <h2>Good – Light</h2>
+        <h2 class="ending-note">Good – Light</h2>
 
       </div>
 
@@ -329,12 +341,13 @@
           <div class="<?php echo $rowClass; ?>">
             <?php foreach ($row['items'] as $character) {
               $name = $character['name'];
-              $nameDisplay = str_replace('&lt;br&gt;', '<br>', htmlspecialchars($name));
+              $nameDisplay = htmlspecialchars($name);
+              $nameDisplay = str_replace(['&lt;br&gt;', '&lt;i&gt;', '&lt;/i&gt;'], ['<br>', '<i>', '</i>'], $nameDisplay);
               $nameAlt = htmlspecialchars(trim(preg_replace('/<br\s*\/?>/i', ' ', $name)));
               $image = $character['image'];
               $showName = $character['showName'] ?? true;
               $imgStyle = '';
-              if (!empty($character['width']) || !empty($character['height'])) {
+              if (!empty($character['width']) || !empty($character['height']) || !empty($character['marginTop'])) {
                 $parts = [];
                 if (!empty($character['width'])) {
                   $parts[] = 'width: ' . htmlspecialchars($character['width']);
@@ -342,13 +355,18 @@
                 if (!empty($character['height'])) {
                   $parts[] = 'height: ' . htmlspecialchars($character['height']);
                 }
+                if (!empty($character['marginTop'])) {
+                  $parts[] = 'margin-top: ' . htmlspecialchars($character['marginTop']);
+                }
                 $imgStyle = ' style="' . implode('; ', $parts) . '"';
               }
               ?>
               <article class="character-card">
                 <div class="character-image-wrap">
-                  <?php if (!empty($image)) { ?>
-                    <img src="<?php echo htmlspecialchars($image); ?>" alt="<?php echo $nameAlt; ?>" loading="lazy"<?php echo $imgStyle; ?>>
+                  <?php if (!empty($image)) {
+                    $imgClass = !empty($character['imageClass']) ? ' class="' . htmlspecialchars($character['imageClass']) . '"' : '';
+                  ?>
+                    <img src="<?php echo htmlspecialchars($image); ?>" alt="<?php echo $nameAlt; ?>" loading="lazy"<?php echo $imgClass . $imgStyle; ?>>
                   <?php } else { ?>
                     <div class="character-placeholder">Image Coming Soon</div>
                   <?php } ?>
