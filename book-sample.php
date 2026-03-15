@@ -26,7 +26,7 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/character_3.png" class="card-img-top" alt="Lil’ Shmoogy">
+                <img src="./images/character_3.png" style="max-height: 200px;" class="card-img-top" alt="Lil’ Shmoogy">
               </div>
               <div class="card-body">
                 <h5 class="card-title">Lil’ Shmoogy</h5>
@@ -48,7 +48,7 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/character_2.png" class="card-img-top" alt="Trip K's">
+                <img src="./images/character_2.png" style="max-height: 150px;  margin-top: 20px;" class="card-img-top" alt="Trip K's">
               </div>
               <div class="card-body">
                 <h5 class="card-title">Trip K’s</h5>

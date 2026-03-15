@@ -557,10 +557,10 @@ section {
   max-height: 170px;
 }
 .book-samples-wrapper .books-content .card .card-img-top.dd-smoove-little-img {
-  max-height: 160px;
+  max-height: 200px;
 }
 .book-samples-wrapper .books-content .card .card-img-top.dd-smoove-elon-img {
-  max-height: 150px;
+  max-height: 200px;
 }
 .book-samples-wrapper .books-content .card .card-body {
   display: flex;
