@@ -244,6 +244,15 @@
     ],
     [
       'items' => [
+        buildCharacter('Bule Jeff', ['Bule Jeff.png', 'Bule-Jeff.png'], true, '90px'),
+        buildCharacter('Wing-Wang', ['Wing-Wang-single.png', 'Wing-Wang-single.png'], true, '70px', '', '40px'),
+        buildCharacter('Olof', ['Olof.png'], true, '90px'),
+        buildCharacter('Lakeisha', ['Lakeisha.png'], true, '70px'),
+        buildCharacter("Mama'san", ["Mama'san.png", 'character_1_new.png'], true, '90px'),
+      ],
+    ],
+    [
+      'items' => [
         buildCharacter("Lil' Shmoogy", ["Lil' Shmoogy (Full Body).png", 'character_3.png']),
         buildCharacter("Trip-K's", ['Trip-Ks.png', 'character_2.png'], true, '120px', '155px', '25px'),
         buildCharacter('Karen McCarron', ['Karen.png']),
@@ -265,8 +274,8 @@
         buildCharacter('German Gunther <br> (Before)', ['German Gunther III.png'], true, '120px', '', '20px', 'german-gunther-image'),
         buildCharacter('Agus <i>(Ah-goose)</i>', ['Agus.png'], true, '120px', '160px', '30px'),
         buildCharacter('DD Smooove', ['character_4.png', 'DD Smooove.png']),
-        buildCharacter('Intern A', ['Intern A.png'], true, '120px', '100%', '47px'),
-        buildCharacter('Intern B', ['Intern_B_IV.png'], true, '80px', '150px', '45px', 'intern-b-image'),
+        buildCharacter('Intern A & B', ['Intern-A-B.png'], true, '140px', '100%', '42px'),
+        buildCharacter('Todd', ['todd-single.png'], true, '83px', '', '', ''),
       ],
     ],
     [
@@ -283,7 +292,8 @@
         buildCharacter('Mekong', ['Mekong.png'], true, '120px', '160px', '41px'),
         buildCharacter('Svetlana', ['Svetlana I.png'], true, '150%', '0', '0'),
         buildCharacter('Borscht', ['Borscht I.png'], true, '96px', '160px', '50px'),
-        buildCharacter("Lil'Miggz", ["Lil' Miggz (Full Body).png"], true, '103px', '0', '31px'),
+        buildCharacter('Miscellaneous <br> K-Pop Asians', ['Miscellaneous-girl-guy.png'], true, '136px', '', '20px'),
+        
         buildCharacter('Mr. X', ['Mr. X II.png'], true, '90px', '', '0'),
       ],
     ],
@@ -291,7 +301,10 @@
       'center' => true,
       'items' => [
         buildCharacter('German Gunther <br> (After)', ['German_Gunther__Evil__IV.png'], true, '120px', '', '20px', ),
-        buildCharacter('Blaze', ['Blaze_IX.png']),
+        buildCharacter("Shlomo", ["Shlomo-single.png"], true, '71px', '0', '9px'),
+        buildCharacter("Lil'Miggz", ["Lil' Miggz (Full Body).png"], true, '103px', '0', '31px'),
+        buildCharacter('Blaze', ['Blaze_IX.png'], true, '120px', '', '20px'),
+        
         buildCharacter('Lord Keynesian Bottompincher <br> (aka Da Guvna)', ['Lord Keynesian Bottompincher I.png'], true, '', '', '15px', ''),
       ],
     ],
