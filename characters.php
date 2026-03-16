@@ -274,8 +274,8 @@
         buildCharacter('German Gunther <br> (Before)', ['German Gunther III.png'], true, '120px', '', '20px', 'german-gunther-image'),
         buildCharacter('Agus <i>(Ah-goose)</i>', ['Agus.png'], true, '120px', '160px', '30px'),
         buildCharacter('DD Smooove', ['character_4.png', 'DD Smooove.png']),
-        buildCharacter('Intern A & B', ['Intern-A-B.png'], true, '140px', '100%', '42px'),
-        buildCharacter('Todd', ['todd-single.png'], true, '83px', '', '', ''),
+        buildCharacter('Intern A & B', ['Intern-a-b.png'], true, '140px', '100%', '42px'),
+        buildCharacter('Todd', ['Todd-single.png'], true, '83px', '', '', ''),
       ],
     ],
     [
