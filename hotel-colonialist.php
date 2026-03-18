@@ -11,9 +11,16 @@
   <title>Hotel Colonialist — The Legend of Balinese</title>
   <style>
     .hotel-colonialist-page {
-      font-family: "Rubik", sans-serif;
-      background: linear-gradient(180deg, #faf9f7 0%, #f0ede8 50%, #e8e4de 100%);
+      background-image: url('./images/character-bg.png');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+
       min-height: 100vh;
+      font-family: "Rubik", sans-serif;
+      /* background: linear-gradient(180deg, #faf9f7 0%, #f0ede8 50%, #e8e4de 100%);
+      min-height: 100vh; */
       padding-top: 50px;
       padding-bottom: 4rem;
     }
@@ -25,13 +32,13 @@
     .hotel-colonialist-page .page-hero h1 {
       font-size: clamp(2rem, 5vw, 2rem);
       font-weight: 700;
-      color: #1a1a1a;
+      color: #fff;
       letter-spacing: -0.02em;
       margin-bottom: 0.5rem;
     }
     .hotel-colonialist-page .page-hero .subtitle {
       font-size: 1.1rem;
-      color: #5c5c5c;
+      color: #fff;
       font-weight: 400;
     }
     .hotel-colonialist-page .gallery {
@@ -67,7 +74,7 @@
       text-align: center;
       font-size: 1rem;
       font-weight: 600;
-      color: #000;
+      color: #fff;
       letter-spacing: 0.08em;
       text-transform: uppercase;
       margin-bottom: 0.75rem;
