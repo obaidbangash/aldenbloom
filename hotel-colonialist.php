@@ -30,7 +30,7 @@
       padding: 0 1rem;
     }
     .hotel-colonialist-page .page-hero h1 {
-      font-size: clamp(2rem, 5vw, 2rem);
+      font-size: 2.8rem;
       font-weight: 700;
       color: #fff;
       letter-spacing: -0.02em;
@@ -109,10 +109,10 @@
       $imageLabels = [
         1 => 'Front',
         2 => 'Back',
-        3 => 'Back Side View of Mt Batur',
+        3 => 'Back View of Sacred Mt Batur',
         4 => 'Side View',
         5 => 'Grand Ballroom',
-        6 => 'Grand Ballroom | Bar Area',
+        6 => 'Grand Ballroom - Bar Area',
         7 => 'Secret Control Room',
       ];
       for ($i = 1; $i <= $totalImages; $i++) {
