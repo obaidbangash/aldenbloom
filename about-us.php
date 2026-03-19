@@ -18,26 +18,25 @@
   <?php include 'header.php'; ?>
 
   <!-- Blog / callout section -->
-  <section class="page-intro" id="blog">
+  <!-- <section class="page-intro" id="blog">
     <div class="container">
-      <div class="page-intro__card">
-        <p class="page-intro__text">Not a single word, sentence, paragraph, comma, period, punctuation, thought or idea in this book was written using ChatGPT or any other kind of AI software.</p>
-        <br>
-        <p class="page-intro__text">
-        If anyone has any interest in helping me turn this book (and the next ones) into a late-night, adults-only, wildly offensive cartoon, please message me on the "Contact Us" page cause I’m looking to put together a team of animators & writers to help me out with it and start something fun. Full profit sharing too:)
-        </p>
-        <a href="./contact-us.php" class="btn btn-primary page-intro__cta">Contact us</a>
-      </div>
+      
     </div>
-  </section>
+  </section> -->
   <!-- Blog / callout ends -->
 
   <!-- about us starts here -->
   <section class="about-us" id="about">
     <div class="container">
-      <h2 class="title text-center mb-5">
-        About
-      </h2>
+    <div class="page-intro__card">
+        <p class="page-intro__text">Not a single word, sentence, paragraph, comma, period, punctuation, thought or idea in this book was written using ChatGPT or any other kind of AI software.</p>
+        <br>
+        <p class="page-intro__text">
+        If anyone has any interest in helping me turn this book (and the next ones) into a late-night, adults-only, wildly offensive cartoon, please message me on the "Contact Us" page cause I’m looking to put together a team of animators & writers to help me out with it and start something fun. Full profit sharing too:)
+        </p>
+        <a href="./contact-us.php" class="btn btn-primary page-intro__cta">Contact Us</a>
+      </div>
+     
       <div class="about-content">
         <div class="about-card">
           <div class="about-img">

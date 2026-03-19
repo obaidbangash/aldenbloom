@@ -31,8 +31,7 @@
     }
     .characters-hero h1 {
       font-family: 'Papyrus';
-      font-size: clamp(2rem, 4.4vw, 5.2rem);
-      letter-spacing: 1.3;
+      font-size: 5.6rem;
       color: #ddbd13;
       margin-bottom: 0.45rem;
       font-weight: 700;
@@ -286,22 +285,22 @@
 
         buildCharacter('DD Smooove', ['character_4.png']),
         buildCharacter('Intern A & B', ['Intern-a-b-removebg-preview.png'], true, '140px', '100%', '42px'),
-        buildCharacter('Agus <i>(Ah-goose)</i>', ['Agus-removebg-preview.png'], true, '120px', '160px', '30px'),
+        buildCharacter('Agus <i>(Ah-goose)</i>', ['Agus-removebg-preview.png'], true, '125px', '', '14px'),
 
       ],
     ],
     [
       'items' => [
-        buildCharacter('Skybird', ['Skybird__Blonde__II-removebg-preview.png'], true, '', '', '', 'skybird-image'),
-        buildCharacter('Skybird', ['Skybird.png', 'Skybird__Blonde__II-removebg-preview.png'], true, '', '', '', 'skybird-image'),
-        buildCharacter('Sky', ['Sky_IV-removebg-preview.png']),
-        buildCharacter('Skybird', ['Skybird.png', 'Skybird__Blonde__II-removebg-preview.png'], true, '', '', '', 'skybird-image'),
-        buildCharacter('Skybird', ['Skybird.png', 'Skybird__Blonde__II-removebg-preview.png'], true, '', '', '', 'skybird-image'),
+        buildCharacter('Anonymous <br> Skybird', ['Skybird__Blonde__II-removebg-preview.png'], true, '', '', '', 'skybird-image'),
+        buildCharacter('Anonymous <br> Skybird', ['Skybird.png', 'Skybird__Blonde__II-removebg-preview.png'], true, '', '', '', 'skybird-image'),
+        buildCharacter('Sky <br> (The Cult Leader)', ['Sky_IV-removebg-preview.png']),
+        buildCharacter('Anonymous <br> Skybird', ['Skybird.png', 'Skybird__Blonde__II-removebg-preview.png'], true, '', '', '', 'skybird-image'),
+        buildCharacter('Anonymous <br> Skybird', ['Skybird.png', 'Skybird__Blonde__II-removebg-preview.png'], true, '', '', '', 'skybird-image'),
       ],
     ],
     [
       'items' => [
-        buildCharacter('Mekong', ['Mekong-removebg-preview.png'], true, '120px', '160px', '41px'),
+        buildCharacter('Mekong', ['Mekong-removebg-preview.png'], true, '132px', '', '18px'),
         buildCharacter('Svetlana', ['Svetlana_I-removebg-preview.png'], true, '150%', '0', '0'),
         buildCharacter('Borscht', ['Borscht-removebg-view.png'], true, '96px', '160px', '50px'),
         buildCharacter('Todd', ['Todd_II-removebg-preview.png'], true, '122px', '', '12px', ''),

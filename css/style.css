@@ -299,12 +299,13 @@ header .navbar-light .navbar-toggler {
   max-width: 950px;
 }
 .page-intro__card {
-  background: #fff;
+  /* background: #fff; */
   border-radius: 12px;
   padding: 2.25rem 2rem;
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
-  border: 1px solid rgba(0, 0, 0, 0.06);
+  /* box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06); */
+  /* border: 1px solid rgba(0, 0, 0, 0.06); */
   text-align: center;
+  margin-bottom: 230px;
 }
 .page-intro__title {
   font-size: 1.75rem;
@@ -313,14 +314,16 @@ header .navbar-light .navbar-toggler {
   color: #1a1a1a;
 }
 .page-intro__text {
-  font-size: 1.0625rem;
+  font-size: 1.4625rem;
   line-height: 1.65;
-  color: #444;
+  color: #fff;
   margin-bottom: 1.5rem;
 }
 .page-intro__cta {
   margin-top: 0.25rem;
   margin: 0 auto;
+  font-size: 1.4625rem;
+  height: 45px;
 }
 @media only screen and (max-width: 767px) {
   .page-intro {
@@ -420,7 +423,7 @@ section {
   }
 }
 .about-us .about-content {
-  background-color: #ffffff;
+  background-color: rgb(242 255 228 / 74%);
   padding: 25px;
 }
 .about-us .about-card {
