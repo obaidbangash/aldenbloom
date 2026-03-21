@@ -31,7 +31,7 @@
     }
     .characters-hero h1 {
       font-family: 'Papyrus';
-      font-size: 5.6rem;
+      font-size: 5rem;
       color: #ddbd13;
       margin-bottom: 0.45rem;
       font-weight: 700;

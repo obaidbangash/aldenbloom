@@ -299,13 +299,10 @@ header .navbar-light .navbar-toggler {
   max-width: 950px;
 }
 .page-intro__card {
-  /* background: #fff; */
   border-radius: 12px;
   padding: 2.25rem 2rem;
-  /* box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06); */
-  /* border: 1px solid rgba(0, 0, 0, 0.06); */
   text-align: center;
-  margin-bottom: 230px;
+  margin-bottom: 93px;
 }
 .page-intro__title {
   font-size: 1.75rem;
@@ -314,7 +311,7 @@ header .navbar-light .navbar-toggler {
   color: #1a1a1a;
 }
 .page-intro__text {
-  font-size: 1.4625rem;
+  font-size: 20px;
   line-height: 1.65;
   color: #fff;
   margin-bottom: 1.5rem;
@@ -322,8 +319,6 @@ header .navbar-light .navbar-toggler {
 .page-intro__cta {
   margin-top: 0.25rem;
   margin: 0 auto;
-  font-size: 1.4625rem;
-  height: 45px;
 }
 @media only screen and (max-width: 767px) {
   .page-intro {
@@ -363,8 +358,8 @@ section {
   background-repeat: no-repeat;
 }
 .contact-us .contact-content {
+  background-color: rgba(242, 255, 228, 0.74);
   padding: 0 0 0 30px;
-  background-color: rgba(255, 255, 255, 0.7);
 }
 .contact-us .title {
   font-size: 35px;
@@ -422,8 +417,15 @@ section {
     margin-bottom: 30px !important;
   }
 }
+.about-us .book-one-complete-text {
+  font-size: 20px;
+  line-height: 1.65;
+  text-align: center;
+  color: #fff;
+  margin: 93px 0;
+}
 .about-us .about-content {
-  background-color: rgb(242 255 228 / 74%);
+  background-color: rgba(242, 255, 228, 0.74);
   padding: 25px;
 }
 .about-us .about-card {
@@ -519,7 +521,7 @@ section {
   }
 }
 .book-samples-wrapper .books-content {
-  background-color: #ffffff;
+  background-color: rgba(130, 130, 130, 0.45);
   padding: 2rem;
   border-radius: 12px;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);

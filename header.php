@@ -19,7 +19,7 @@
           <a class="nav-item nav-link text-dark" href="./about-us.php">About the Book</a>
           <a class="nav-item nav-link text-dark" href="./characters.php">Characters</a>
           <a class="nav-item nav-link text-dark" href="./hotel-colonialist.php">Hotel Colonialist</a>
-          <a class="nav-item nav-link text-dark" href="./book-sample.php"> Funny Samples</a>
+          <a class="nav-item nav-link text-dark" href="./book-sample.php"> Funny Book Samples</a>
           <!-- <a class="nav-item nav-link text-dark" href="./blog.php">Blog</a> -->
 
         </div>

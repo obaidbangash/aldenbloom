@@ -37,6 +37,35 @@
         <a href="./contact-us.php" class="btn btn-primary page-intro__cta">Contact Us</a>
       </div>
      
+      <div class="about-content book-one-complete">
+        <div class="about-card">
+          <div class="about-img">
+            <img src="./images/book-one-complete.png" alt="img">
+          </div>
+          <div class="about-info">
+            <h2>Book One - (Complete)</h2>
+            <b>When luring hippies, influencers, alt-right MAGA guys, social justice warriors and all kinds of other
+              people into some sort of fake DonMu enlightenment-payback ruse goes horribly, horribly wrong.</b>
+            <br>
+            <p>It started out as just a dumb little idea (or “ruse”) of getting payback on a single American social
+              media influencer who was ripping off a bunch of Balinese locals with her “followers” scam –
+              and have her “walk a mile in their shoes” by luring her up to their rice fields to pick their rice for
+              free – <i>actually pay them to pick their rice for free</i>. Which surprisingly worked. But then this ruse
+              went viral and a bunch of other influencers started getting lured into it too. Like all these
+              #MeToo, BLM, LGBTQ, Q’Anon, Trump, Alt-Right, Antifa, and Woke influencers. Then a
+              bunch of hippies got lured into it. Then some Russian Instagram hookers. Then some South
+              Korean K-Pop groups. Then some Klan guys. I mean everybody started getting lured into this
+              ridiculous ruse that my dumbass came up with to the point where I was just hoping to get the hell
+              out of it without getting caught. Or possibly arrested.</p>
+          </div>
+        </div>
+        </div>
+
+        <p class="book-one-complete-text">
+        You can buy the "Complete" book at Amazon for $7.99 - but if you don't want to spend that much money (or commit that much time on an almost 600pg book) you can buy it in 3 parts for $2.99 each - but it will cost you a dollar more.
+
+        </p>
+
       <div class="about-content">
         <div class="about-card">
           <div class="about-img">
@@ -108,7 +137,7 @@
     <div class="py-3 py-md-4 py-xl-3 bg-dark text-white">
       <div class="container">
         <div class="copyright-wrapper d-block mb-1 fs-8 text-center">
-          &copy; 2026. All Rights Reserved.
+          &copy; 2024. All Rights Reserved.
         </div>
       </div>
     </div>
