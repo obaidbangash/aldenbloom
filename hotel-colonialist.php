@@ -111,8 +111,8 @@
         2 => 'Back',
         3 => 'Back View of Sacred Mt Batur',
         4 => 'Side View',
-        5 => 'Grand Ballroom',
-        6 => 'Grand Ballroom - Bar Area',
+        5 => 'Southern Antebellum Grand Ballroom',
+        6 => 'Southern Antebellum  Bar Area',
         7 => 'Secret Control Room',
       ];
       for ($i = 1; $i <= $totalImages; $i++) {

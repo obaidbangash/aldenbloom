@@ -344,12 +344,13 @@ header {
   }
 
   &__card {
-    background: #fff;
+    // background: #fff;
     border-radius: 12px;
     padding: 2.25rem 2rem;
-    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
-    border: 1px solid rgba(0, 0, 0, 0.06);
+    // box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+    // border: 1px solid rgba(0, 0, 0, 0.06);
     text-align: center;
+    margin-bottom: 93px;
   }
 
   &__title {
@@ -360,9 +361,9 @@ header {
   }
 
   &__text {
-    font-size: 1.0625rem;
+    font-size: 20px;
     line-height: 1.65;
-    color: #444;
+    color: #fff;
     margin-bottom: 1.5rem;
   }
 
@@ -370,6 +371,7 @@ header {
     margin-top: 0.25rem;
     margin: 0 auto;
   }
+
 
   @media only screen and (max-width: 767px) {
     padding: 2rem 0;
@@ -410,8 +412,10 @@ section {
   background-repeat: no-repeat;
 
   .contact-content {
+    background-color: rgb(242 255 228 / 74%);
     padding: 0 0 0 30px;
-    background-color: rgba(255, 255, 255, 0.7);
+
+   
   }
 
   .title {
@@ -477,9 +481,20 @@ section {
     }
   }
 
+  .book-one-complete-text{
+    font-size: 20px;
+    line-height: 1.65;
+    text-align: center;
+    color: #fff;
+    margin: 93px 0;
+
+  }
   .about-content {
-    background-color: #ffffff;
+    background-color: rgb(242 255 228 / 74%);
     padding: 25px;
+
+    &.book-one-complete {
+    }
   }
 
   .about-card {
@@ -592,7 +607,7 @@ section {
   }
 
   .books-content {
-    background-color: #ffffff;
+    background-color: rgb(130 130 130 / 45%);
     padding: 2rem;
     border-radius: 12px;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);

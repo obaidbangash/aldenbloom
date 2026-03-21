@@ -23,17 +23,41 @@
       </h2>
       <div class="books-content">
         <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3  row-cols-xl-4 g-4">
-          <div class="col">
+        <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/character_3.png" style="max-height: 200px;" class="card-img-top" alt="Lil’ Shmoogy">
+                <img src="./images/wing-wang.png" class="card-img-top" alt="Wing-Wang">
               </div>
               <div class="card-body">
-                <h5 class="card-title">Lil’ Shmoogy</h5>
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_one">Read Sample</a>
+                <h5 class="card-title">Wing-Wang <span class="crd-text">Getting Handjobs</span></h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_sixteen">Read Sample</a>
               </div>
             </div>
           </div>
+          <div class="col">
+            <div class="card h-100">
+              <div class="card-img-wrapper">
+                <img src="./images/the-big-four.png" class="card-img-top" alt="The Big Four">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">The Big 4</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_fifteen">Read Sample</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100">
+              <div class="card-img-wrapper">
+                <img src="./images/character_12.png" class="card-img-top" alt="Lil' Shmoogy & Trip K's Best Friends">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Lil’ Shmoogy & Trip K’s <span class="crd-text">Best Friends</span></h5>
+
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_ten">Read Sample</a>
+              </div>
+            </div>
+          </div>
+         
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
@@ -42,28 +66,6 @@
               <div class="card-body">
                 <h5 class="card-title">Mama’san</h5>
                 <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_three">Read Sample</a>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card h-100">
-              <div class="card-img-wrapper">
-                <img src="./images/character_2.png" style="max-height: 150px;  margin-top: 20px;" class="card-img-top" alt="Trip K's">
-              </div>
-              <div class="card-body">
-                <h5 class="card-title">Trip K’s</h5>
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_five">Read Sample</a>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card h-100">
-              <div class="card-img-wrapper">
-                <img src="./images/character_7.jpeg" class="card-img-top" alt="Mama'san Arrives">
-              </div>
-              <div class="card-body">
-                <h5 class="card-title">Mama’san Arrives</h5>
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_four">Read Sample</a>
               </div>
             </div>
           </div>
@@ -81,11 +83,11 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/character_10.jpeg" class="card-img-top" alt="LC Thailand Story">
+                <img src="./images/Agus.png" class="card-img-top agus-img" alt="Agus">
               </div>
               <div class="card-body">
-                <h5 class="card-title">LC Thailand Story</h5>
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_two">Read Sample</a>
+                <h5 class="card-title">Agus <i>(Ah-goose)</i> <span class="crd-text">Big Dick Playa</span></h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_eleven">Read Sample</a>
               </div>
             </div>
           </div>
@@ -114,23 +116,11 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/character_9.png" class="card-img-top" alt="DD Smooove & the Klan Guys">
+                <img src="./images/Karen.png" class="card-img-top karen-img" alt="Karen McCarron">
               </div>
               <div class="card-body">
-                <h5 class="card-title">DD Smooove & the Klan Guys</h5>
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_nine">Read Sample</a>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card h-100">
-              <div class="card-img-wrapper">
-                <img src="./images/character_12.png" class="card-img-top" alt="Lil' Shmoogy & Trip K's Best Friends">
-              </div>
-              <div class="card-body">
-                <h5 class="card-title">Lil’ Shmoogy & Trip K’s <span class="crd-text">Best Friends</span></h5>
-
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_ten">Read Sample</a>
+                <h5 class="card-title">Karen McCarron <span class="crd-text">Life Coach</span></h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_thirteen">Read Sample</a>
               </div>
             </div>
           </div>
@@ -148,22 +138,22 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/Agus.png" class="card-img-top agus-img" alt="Agus">
+                <img src="./images/character_3.png" style="max-height: 200px;" class="card-img-top" alt="Lil’ Shmoogy">
               </div>
               <div class="card-body">
-                <h5 class="card-title">Agus <i>(Ah-goose)</i> <span class="crd-text">Big Dick Playa</span></h5>
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_eleven">Read Sample</a>
+                <h5 class="card-title">Lil’ Shmoogy</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_one">Read Sample</a>
               </div>
             </div>
           </div>
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/Karen.png" class="card-img-top karen-img" alt="Karen McCarron">
+                <img src="./images/character_7.jpeg" class="card-img-top" alt="Mama'san Arrives">
               </div>
               <div class="card-body">
-                <h5 class="card-title">Karen McCarron <span class="crd-text">Life Coach</span></h5>
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_thirteen">Read Sample</a>
+                <h5 class="card-title">Mama’san Arrives</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_four">Read Sample</a>
               </div>
             </div>
           </div>
@@ -181,25 +171,47 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/the-big-four.png" class="card-img-top" alt="The Big Four">
+                <img src="./images/character_2.png" style="max-height: 150px;  margin-top: 20px;" class="card-img-top" alt="Trip K's">
               </div>
               <div class="card-body">
-                <h5 class="card-title">The Big 4</h5>
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_fifteen">Read Sample</a>
+                <h5 class="card-title">Trip K’s</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_five">Read Sample</a>
               </div>
             </div>
           </div>
+        
+         
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/wing-wang.png" class="card-img-top" alt="Wing-Wang">
+                <img src="./images/character_10.jpeg" class="card-img-top" alt="LC Thailand Story">
               </div>
               <div class="card-body">
-                <h5 class="card-title">Wing-Wang <span class="crd-text">Getting Handjobs</span></h5>
-                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_sixteen">Read Sample</a>
+                <h5 class="card-title">LC Thailand Story</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_two">Read Sample</a>
               </div>
             </div>
           </div>
+         
+          <div class="col">
+            <div class="card h-100">
+              <div class="card-img-wrapper">
+                <img src="./images/character_9.png" class="card-img-top" alt="DD Smooove & the Klan Guys">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">DD Smooove & the Klan Guys</h5>
+                <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#PDF_nine">Read Sample</a>
+              </div>
+            </div>
+          </div>
+          
+          
+       
+         
+          
+         
+          
+         
         </div>
       </div>
     </div>
