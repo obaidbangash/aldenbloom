@@ -37,6 +37,19 @@
       font-weight: 700;
     }
 
+    @media only screen and (max-width: 991px) {
+      .characters-hero h1 {
+          font-size: 3rem;
+          line-height: 1.3;
+          margin-bottom: 3rem;
+
+        }
+
+        .characters-hero br{
+          display: none;
+        }
+      }
+
     .ending-note{
       font-family: 'Papyrus';
       font-size: clamp(2rem, 4.4vw, 3.9rem);
@@ -183,13 +196,37 @@
       .characters-page {
         padding-top: 95px;
       }
+
+      .ending-note{
+        margin-bottom: 2rem;
+        font-size: 2rem;
+      }
+
+      .character-name{
+        font-size: 1.2rem;
+      }
     }
     @media (max-width: 767px) {
+      .characters-page{
+        padding-top: 50px;
+      }
       .character-card {
         width: calc((100% - 1rem) / 2);
       }
       .character-image-wrap {
         height: 200px;
+      }
+
+      .character-name{
+        min-height: auto;
+      }
+
+      .character-image-wrap img{
+        object-fit: contain !important;
+      }
+
+      .characters-hero h1{
+        font-size: 2rem;
       }
     }
     @media (max-width: 480px) {
@@ -338,7 +375,7 @@
   <main class="characters-page">
     <div class="container">
       <div class="characters-hero">
-        <h1>Who will win ...</h1>
+        <h1 class="mb-0">Who will win ...</h1>
         <h1>... the game of Enlightenment?!?</h1>
         <br>
         <br>

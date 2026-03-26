@@ -408,7 +408,7 @@
 
   <style>
     /* PDF viewer: responsive canvases and fullscreen modal on small screens */
-    [id$="-viewer"] canvas { max-width: 90%; height: auto; display: block; }
+    [id$="-viewer"] canvas { max-width: 100%; height: auto; display: block; }
     .pdf-modal.modal-fullscreen-sm-down .modal-content { min-height: 100vh; }
     @media (max-width: 575.98px) {
       .pdf-modal .modal-content { min-height: 100vh; }
@@ -589,13 +589,20 @@
               var defaultViewport = page.getViewport({ scale: 1 });
               var scale = getScaleForContainer(viewerEl, defaultViewport.width);
               var viewport = page.getViewport({ scale: scale });
+              var outputScale = window.devicePixelRatio || 1;
               var canvas = document.createElement('canvas');
               var ctx = canvas.getContext('2d');
-              canvas.height = viewport.height;
-              canvas.width = viewport.width;
+              canvas.width = Math.floor(viewport.width * outputScale);
+              canvas.height = Math.floor(viewport.height * outputScale);
+              canvas.style.width = Math.floor(viewport.width) + 'px';
+              canvas.style.height = Math.floor(viewport.height) + 'px';
               canvas.className = 'shadow-lg mb-3';
               viewerEl.appendChild(canvas);
-              page.render({ canvasContext: ctx, viewport: viewport }).promise.then(function () { renderPage(pageNum + 1); });
+              page.render({
+                canvasContext: ctx,
+                viewport: viewport,
+                transform: outputScale !== 1 ? [outputScale, 0, 0, outputScale, 0, 0] : null
+              }).promise.then(function () { renderPage(pageNum + 1); });
             });
           }
           renderPage(1);
