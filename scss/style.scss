@@ -208,7 +208,7 @@ header {
   justify-content: center;
 
   @media only screen and (max-width: 767px) {
-    background-image: url(../images/bg-mobile.png);
+    background-image: url(../images/bg-mobile-new.png);
   }
 
   .container {
@@ -364,7 +364,7 @@ header {
     font-size: 20px;
     line-height: 1.65;
     color: #fff;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2.5rem;
   }
 
   &__cta {
@@ -378,6 +378,7 @@ header {
 
     &__card {
       padding: 1.5rem 1.25rem;
+      margin-bottom: 30px;
     }
 
     &__title {
@@ -386,6 +387,7 @@ header {
 
     &__text {
       font-size: 1rem;
+      margin-bottom: 1.5rem;
     }
   }
 }
@@ -399,7 +401,7 @@ section {
   min-height: calc(100vh - 120px);
 
   @media only screen and (max-width: 767px) {
-    padding: 60px 0;
+    padding: 50px 0;
   }
 }
 
@@ -488,13 +490,17 @@ section {
     color: #fff;
     margin: 93px 0;
 
+    @media only screen and (max-width: 767px) {
+      margin: 30px 0;
+      font-size: 16px;
+    }
+
   }
   .about-content {
     background-color: rgb(242 255 228 / 74%);
-    padding: 25px;
+    padding: 20px;
 
-    &.book-one-complete {
-    }
+   
   }
 
   .about-card {
@@ -529,7 +535,6 @@ section {
     .about-img {
       width: 100%;
       height: 100%;
-      object-fit: cover;
     }
 
     .about-info {
@@ -560,6 +565,11 @@ section {
         font-weight: 700;
         text-align: left;
         margin-bottom: 15px;
+
+        @media only screen and (max-width: 767px) {
+          margin-bottom: 10px;
+          font-size: 16px;
+        }
       }
 
       b,
@@ -570,6 +580,8 @@ section {
 
     img {
       width: 100%;
+      height: 100%;
+      object-fit: contain;
     }
   }
 }
@@ -684,6 +696,9 @@ section {
         margin-bottom: 1rem;
         min-height: 2.75em;
 
+        @media only screen and (max-width: 767px) {
+          min-height: auto;
+        }
         .crd-text {
           display: block;
           font-weight: 500;

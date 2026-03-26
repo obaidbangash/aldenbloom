@@ -81,8 +81,12 @@
     }
     @media (max-width: 767px) {
       .hotel-colonialist-page {
-        padding-top: 80px;
+        padding-top: 50px;
         padding-bottom: 3rem;
+      }
+
+      .hotel-colonialist-page .page-hero h1 {
+        font-size: 2rem;
       }
       .hotel-colonialist-page .gallery-row {
         margin-bottom: 1.75rem;
