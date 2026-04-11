@@ -1,0 +1,33 @@
+# Deploy to GoDaddy staging / alternate URL when pushing to dev
+# Uses separate FTP secrets so production (main) and dev never share the same remote path by mistake.
+name: Deploy to GoDaddy (dev)
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy to GoDaddy via FTP (dev)
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER_DEV }}
+          username: ${{ secrets.FTP_USERNAME_DEV }}
+          password: ${{ secrets.FTP_PASSWORD_DEV }}
+          server-dir: ${{ secrets.FTP_REMOTE_DIR_DEV }}
+          timeout: 120000
+          exclude: |
+            .git/**
+            .github/**
+            .claude/**
+            bloomalden.com/**
+            .DS_Store
+            .env
+            .env.*
+            *.md
