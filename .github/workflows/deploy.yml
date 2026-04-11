@@ -1,5 +1,5 @@
 # Deploy to GoDaddy when merging into main
-# Trigger: push to main (e.g. merge dev → main)
+# Main site only (repo root → FTP_REMOTE_DIR). Bloomalden deploys from the dev workflow only.
 name: Deploy to GoDaddy
 
 on:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Deploy to GoDaddy via FTP
+      - name: Deploy main site (repo root)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_SERVER }}
