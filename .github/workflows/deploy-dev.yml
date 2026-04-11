@@ -28,6 +28,7 @@ jobs:
             .github/**
             .claude/**
             bloomalden.com/**
+            .well-known/**
             .DS_Store
             .env
             .env.*
@@ -53,6 +54,7 @@ jobs:
             .git/**
             .github/**
             .claude/**
+            .well-known/**
             .DS_Store
             .env
             .env.*
