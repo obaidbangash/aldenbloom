@@ -72,7 +72,7 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/character_4.png" class="card-img-top dd-smoove-little-img" alt="DD Smooove">
+                <img src="./images/dd-smoove-icon.png" class="card-img-top dd-smoove-little-img" alt="DD Smooove">
               </div>
               <div class="card-body">
                 <h5 class="card-title">DD Smooove</h5>
@@ -542,22 +542,22 @@
     (function () {
       var baseUrl = './PDFs/';
       var pdfConfig = {
-        PDF_one:     { title: "Lil' Shmoogy",                                    file: "Lil%27%20Shmoogy.pdf" },
-        PDF_two:     { title: "LC Thailand Story",                               file: "LC%20Thailand%20Story.pdf" },
-        PDF_three:   { title: "Mama'san",                                        file: "Mama%27san.pdf" },
-        PDF_four:    { title: "Mama'san Arrives",                                file: "Mama%27san%20Arrives.pdf" },
-        PDF_five:    { title: "Trip K's",                                       file: "Klan%20Guys.pdf" },
-        PDF_six:     { title: "DD Smooove",                                     file: "DD%20Smooove.pdf" },
-        PDF_seven:   { title: "Dirty Little Monkeys",                            file: "Dirty%20Little%20Monkeys.pdf" },
-        PDF_eight:   { title: "DD Smooove & Elon Musk Scene",                     file: "DD%20Smooove%20%26%20Elon%20Musk%20Scene.pdf" },
-        PDF_nine:    { title: "DD Smooove & the Klan Guys",                      file: "DD%20Smooove%20%26%20the%20Klan%20Guys.pdf" },
-        PDF_ten:     { title: "Lil' Shmoogy & Trip K's (Best Friends)",          file: "Lil%27%20Shmoogy%20%26%20Trip%20K%27s%20-%20Best%20Friends.pdf" },
-        PDF_eleven:  { title: "Agus – Big Dick Playa",                           file: "Agus%20-%20Big%20Dick%20Playa.pdf" },
-        PDF_twelve:  { title: "4 Different Types of Hippies",                    file: "4%20Different%20Types%20of%20Hippies.pdf" },
-        PDF_thirteen:{ title: "Karen McCarron – Life Coach",                     file: "Karen%20McCarron%20-%20Life%20Coach.pdf" },
-        PDF_fourteen:{ title: "Mekong & the Commies",                            file: "Mekong%20%26%20the%20Commies.pdf" },
-        PDF_fifteen: { title: "The Big Four",                                    file: "The%20Big%20Four.pdf" },
-        PDF_sixteen: { title: "Wing-Wang – Getting Handjobs",                   file: "Wing-Wang%20-%20Getting%20Handjobs.pdf" }
+        PDF_one:     { title: "Lil' Shmoogy",                                    file: "Lil%27%20Shmoogy.docx.pdf" },
+        PDF_two:     { title: "LC Thailand Story",                               file: "LC%20Thailand%20Story.docx.pdf" },
+        PDF_three:   { title: "Mama'san",                                        file: "Mama%27san.docx.pdf" },
+        PDF_four:    { title: "Mama'san Arrives",                                file: "Mama%27san%20Arrives.docx.pdf" },
+        PDF_five:    { title: "Trip K's",                                       file: "Klan%20Guys.docx.pdf" },
+        PDF_six:     { title: "DD Smooove",                                     file: "DD%20Smooove.docx.pdf" },
+        PDF_seven:   { title: "Dirty Little Monkeys",                            file: "Dirty%20Little%20Monkeys.docx.pdf" },
+        PDF_eight:   { title: "DD Smooove & Elon Musk Scene",                     file: "DD%20Smooove%20%26%20Elon%20Musk%20Scene.docx.pdf" },
+        PDF_nine:    { title: "DD Smooove & the Klan Guys",                      file: "DD%20Smooove%20%26%20the%20Klan%20Guys.docx.pdf" },
+        PDF_ten:     { title: "Lil' Shmoogy & Trip K's (Best Friends)",          file: "Lil%27%20Shmoogy%20%26%20Trip%20K%27s%20-%20Best%20Friends.docx.pdf" },
+        PDF_eleven:  { title: "Agus – Big Dick Playa",                           file: "Agus%20-%20Big%20Dick%20Playa.docx.pdf" },
+        PDF_twelve:  { title: "4 Different Types of Hippies",                    file: "4%20Different%20Types%20of%20Hippies.docx.pdf" },
+        PDF_thirteen:{ title: "Karen McCarron – Life Coach",                     file: "Karen%20McCarron%20-%20Life%20Coach.docx.pdf" },
+        PDF_fourteen:{ title: "Mekong & the Commies",                            file: "Mekong%20%26%20the%20Commies.docx.pdf" },
+        PDF_fifteen: { title: "The Big Four",                                    file: "The%20Big%20Four.docx.pdf" },
+        PDF_sixteen: { title: "Wing-Wang – Getting Handjobs",                   file: "Wing-Wang%20-%20Getting%20Handjobs.docx.pdf" }
       };
 
       function viewerId(modalId) { return modalId.toLowerCase().replace(/_/g, '-') + '-viewer'; }

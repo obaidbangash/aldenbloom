@@ -575,7 +575,8 @@ section {
   display: block;
 }
 .book-samples-wrapper .books-content .card .card-img-top.agus-img {
-  max-height: 160px;
+  margin-top: 25px;
+  max-height: 150px;
 }
 .book-samples-wrapper .books-content .card .card-img-top.karen-img {
   max-height: 160px;
