@@ -46,7 +46,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: bloomalden.com/
-          server-dir: ${{ secrets.FTP_REMOTE_DIR_DEV }}
+          server-dir: ${{ secrets.FTP_REMOTE_DIR }}
           state-name: bloomalden.com/.ftp-deploy-sync-state.json
           timeout: 120000
           exclude: |
