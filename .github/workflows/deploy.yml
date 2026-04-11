@@ -1,5 +1,6 @@
 # Deploy to GoDaddy when merging into main
-# Main site only (repo root → FTP_REMOTE_DIR). Bloomalden deploys from the dev workflow only.
+# - Main site: repo root → FTP_REMOTE_DIR (e.g. public_html/)
+# - Bloomalden addon: repo folder bloomalden.com/ → FTP_REMOTE_DIR_BLOOMALDEN (e.g. public_html/bloomalden.com/)
 name: Deploy to GoDaddy
 
 on:
@@ -31,3 +32,29 @@ jobs:
             .env
             .env.*
             *.md
+
+  deploy-bloomalden:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy bloomalden.com (addon folder on host)
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: bloomalden.com/
+          server-dir: ${{ secrets.FTP_REMOTE_DIR_DEV }}
+          state-name: bloomalden.com/.ftp-deploy-sync-state.json
+          timeout: 120000
+          exclude: |
+            .git/**
+            .github/**
+            .claude/**
+            .DS_Store
+            .env
+            .env.*
+            *.md
+            error_log
