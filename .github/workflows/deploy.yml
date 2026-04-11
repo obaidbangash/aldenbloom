@@ -1,6 +1,6 @@
-# Deploy to GoDaddy when merging into main
-# - Main site: repo root → FTP_REMOTE_DIR (e.g. public_html/)
-# - Bloomalden addon: repo folder bloomalden.com/ → FTP_REMOTE_DIR_BLOOMALDEN (e.g. public_html/bloomalden.com/)
+# Deploy to GoDaddy on push to main (e.g. after merge).
+# Job 1 — thelegend / main site: repo root → FTP_REMOTE_DIR (e.g. public_html/). Unchanged behavior.
+# Job 2 — bloomalden.com: repo folder bloomalden.com/ → FTP_REMOTE_DIR/bloomalden.com/ (same FTP, subfolder only).
 name: Deploy to GoDaddy
 
 on:
@@ -21,7 +21,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: ${{ secrets.FTP_REMOTE_DIR }}
+          server-dir: ${{ secrets.FTP_REMOTE_DIR }}/
           timeout: 120000
           exclude: |
             .git/**
@@ -39,14 +39,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Deploy bloomalden.com (addon folder on host)
+      - name: Deploy bloomalden.com → public_html/bloomalden.com
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: bloomalden.com/
-          server-dir: ${{ secrets.FTP_REMOTE_DIR }}
+          server-dir: ${{ secrets.FTP_REMOTE_DIR }}/bloomalden.com/
           state-name: bloomalden.com/.ftp-deploy-sync-state.json
           timeout: 120000
           exclude: |
