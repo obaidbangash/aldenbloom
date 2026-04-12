@@ -52,7 +52,7 @@
         <div class="col-md-6 bg-white rounded border-start p-4 text-dark aos-init aos-animate" data-aos="fade-down"
           data-aos-easing="linear" data-aos-duration="1000">
           <!-- form starts here -->
-          <form action="send_email.php" method="POST" id="contactForm">
+          <form action="/send_email" method="POST" id="contactForm">
             <div class="row g-3">
               <div class="col-12">
                 <label for="full_name" class="form-label">Name</label>
@@ -131,7 +131,7 @@
 
           var formData = new FormData(form);
 
-          fetch('send_email.php', {
+          fetch('/send_email', {
             method: 'POST',
             body: formData,
           })

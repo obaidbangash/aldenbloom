@@ -33,7 +33,7 @@
         <p class="page-intro__text">
         If anyone has any interest in helping me turn this book (and the next ones) into a late-night, adults-only, wildly offensive cartoon, please message me on the "Contact Us" page cause I’m looking to put together a team of animators & writers to help me out with it and start something fun. Full profit sharing too:)
         </p>
-        <a href="./contact-us.php" class="btn btn-primary page-intro__cta">Contact Us</a>
+        <a href="/contact-us" class="btn btn-primary page-intro__cta">Contact Us</a>
       </div>
      
       <div class="about-content book-one-complete">
