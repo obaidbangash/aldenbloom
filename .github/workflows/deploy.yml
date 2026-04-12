@@ -1,6 +1,6 @@
-# Deploy to GoDaddy on push to main (e.g. after merge).
-# Job 1 — thelegend / main site: repo root → FTP_REMOTE_DIR (e.g. public_html/). Unchanged behavior.
-# Job 2 — bloomalden.com: repo folder bloomalden.com/ → FTP_REMOTE_DIR/bloomalden.com/ (same FTP, subfolder only).
+# Same cPanel / same FTP secrets. Set FTP_REMOTE_DIR to your web root (e.g. public_html).
+# 1) Repo root (minus bloomalden.com/) → public_html/
+# 2) Repo folder bloomalden.com/          → public_html/bloomalden.com/
 name: Deploy to GoDaddy
 
 on:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Deploy main site (repo root)
+      - name: Deploy to public_html (main site)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_SERVER }}
@@ -34,13 +34,7 @@ jobs:
             .env.*
             *.md
 
-  deploy-bloomalden:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Deploy bloomalden.com → public_html/bloomalden.com
+      - name: Deploy to public_html/bloomalden.com (Bloomalden)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_SERVER }}

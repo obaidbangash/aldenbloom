@@ -1,6 +1,5 @@
-# Deploy when pushing or merging into dev.
-# Same FTP account: web root is FTP_REMOTE_DIR_DEV (e.g. public_html/).
-# Bloomalden addon files go to web root + bloomalden.com/ (e.g. public_html/bloomalden.com/).
+# Same layout as production, using *_DEV secrets (often same host; different path if you use staging).
+# FTP_REMOTE_DIR_DEV ≈ public_html for your dev/staging account path.
 name: Deploy to GoDaddy (dev)
 
 on:
@@ -15,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Deploy main site (repo root, dev)
+      - name: Deploy to public_html (main site, dev)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_SERVER_DEV }}
@@ -34,13 +33,7 @@ jobs:
             .env.*
             *.md
 
-  deploy-bloomalden:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Deploy bloomalden.com folder (inside same public_html)
+      - name: Deploy to public_html/bloomalden.com (Bloomalden, dev)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_SERVER_DEV }}
