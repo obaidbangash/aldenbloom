@@ -94,7 +94,7 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/character_10.png" class="card-img-top" alt="Dirty Little Monkeys">
+                <img src="./images/dirty_little_monkey.png" class="card-img-top" alt="Dirty Little Monkeys">
               </div>
               <div class="card-body">
                 <h5 class="card-title">Dirty Little Monkeys</h5>
@@ -160,7 +160,7 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/Mekong.png" style="max-height: 152px;  margin-top: 15px;" class="card-img-top mekong-img" alt="Mekong">
+                <img src="./images/Mekong.png" style="max-height: 188px;  margin-top: 10px;" class="card-img-top mekong-img" alt="Mekong">
               </div>
               <div class="card-body">
                 <h5 class="card-title">Mekong & the Commies</h5>
@@ -171,7 +171,7 @@
           <div class="col">
             <div class="card h-100">
               <div class="card-img-wrapper">
-                <img src="./images/character_2.png" style="max-height: 150px;  margin-top: 20px;" class="card-img-top" alt="Trip K's">
+                <img src="./images/character_2.png" style="max-height: 147px;  margin-top: 23px;" class="card-img-top" alt="Trip K's">
               </div>
               <div class="card-body">
                 <h5 class="card-title">Trip K’s</h5>
