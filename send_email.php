@@ -82,6 +82,12 @@ try {
 
     $mail->setFrom((string) $config['from_email'], $fromName);
     $mail->addAddress((string) $config['to_email']);
+    if (!empty($config['bcc_email']) && filter_var($config['bcc_email'], FILTER_VALIDATE_EMAIL)) {
+        $bcc = (string) $config['bcc_email'];
+        if (strcasecmp($bcc, (string) $config['to_email']) !== 0) {
+            $mail->addBCC($bcc);
+        }
+    }
     $mail->addReplyTo($email, $fullName);
     $mail->Subject = $subject;
     $mail->Body = $body;
