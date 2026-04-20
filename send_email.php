@@ -39,7 +39,10 @@ $headers =
 
 $fullMessage = "Name: {$fullName}\nEmail: {$email}\nSubject: {$subject}\n\n{$message}";
 
-if (mail($to, $subject, $fullMessage, $headers)) {
+// Envelope sender (-f) should match From; improves traceability. Delivery to Gmail still depends on SPF/reputation.
+$envelopeFrom = '-f' . $fromEmail;
+
+if (mail($to, $subject, $fullMessage, $headers, $envelopeFrom)) {
     echo json_encode(['status' => 'success', 'message' => 'Message sent successfully!']);
 } else {
     error_log('send_email.php: mail() failed. Check host sendmail/MTA or use SMTP.');
