@@ -1,31 +1,26 @@
 <?php
 /**
- * Copy this file to email_config.php (same folder as send_email.php).
- * Set smtp_password to the real password for support@thelegendofbalinesedonmu.com
- * Never commit email_config.php — it is gitignored.
+ * Copy to email_config.php on the server. Never commit email_config.php.
  *
- * GoDaddy settings (your account):
- *   Outgoing: thelegendofbalinesedonmu.com, SMTP 465, authentication required
- *   Username: full address (support@thelegendofbalinesedonmu.com)
+ * Your domain uses Microsoft 365 (MX → *.mail.protection.outlook.com).
+ * Use Office 365 SMTP — not GoDaddy thelegendofbalinesedonmu.com:465.
+ *
+ * Password = Microsoft 365 sign-in for this mailbox, or an App password if MFA is enabled.
  */
 
 return [
-    'smtp_host' => 'thelegendofbalinesedonmu.com',
-    'smtp_port' => 465,
-    /** @var 'tls'|'ssl' — port 465 uses SSL */
-    'smtp_secure' => 'ssl',
+    'smtp_host' => 'smtp.office365.com',
+    'smtp_port' => 587,
+    /** @var 'tls'|'ssl' — M365 uses STARTTLS on 587 */
+    'smtp_secure' => 'tls',
+
     'smtp_username' => 'support@thelegendofbalinesedonmu.com',
-    'smtp_password' => 'PASTE_THE_MAILBOX_PASSWORD_HERE',
+    'smtp_password' => 'PASTE_MICROSOFT_365_PASSWORD_OR_APP_PASSWORD',
 
     'from_email' => 'support@thelegendofbalinesedonmu.com',
     'from_name' => 'The Legend of Balinese — contact form',
 
-    /** Where contact form messages are delivered */
     'to_email' => 'obaidkhanpro@gmail.com',
 
-    /**
-     * Optional: BCC this address on every form email so you still get a copy in GoDaddy webmail
-     * if Gmail hides or delays the main delivery. Use your full support address.
-     */
     'bcc_email' => 'support@thelegendofbalinesedonmu.com',
 ];
