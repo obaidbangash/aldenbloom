@@ -30,7 +30,7 @@ if ($subject === '') {
     $subject = 'Contact form message';
 }
 
-$to = 'bloomalden@proton.me';
+$to = 'obaidkhanpro@gmail.com';
 
 // Same as your original working script: visitor as From/Reply-To (fixes vs old: validated email, no undefined $_POST)
 $headers =
